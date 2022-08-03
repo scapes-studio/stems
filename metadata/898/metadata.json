@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #898",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/898",
+    "image": "ipfs://QmWZAyHrv3TodBykVfd1cm4hWRyyxLSjE2TpfayuiaYqLb",
+    "animation_url": "https://scapes.punkscape.xyz/#898",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#898",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#898",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#898",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#898"
+    },
+    "external_url": "https://punkscape.xyz/scapes/898",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Toxic River"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 2"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1702185353
+        }
+    ]
+}

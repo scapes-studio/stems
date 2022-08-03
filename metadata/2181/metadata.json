@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #2181",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2181",
+    "image": "ipfs://QmRaYSS7V5zw6R4LKK5QB2CDLRduXpumZuro2yMAG3KcVw",
+    "animation_url": "https://scapes.punkscape.xyz/#2181",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2181",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2181",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2181",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2181"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2181",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mini House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2403015793
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #5770",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5770",
+    "image": "ipfs://QmNphPkTrmLkXmNqGcbqWw8Zrf5FxLEzxsgH3jhcQrbPRc",
+    "animation_url": "https://scapes.punkscape.xyz/#5770",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5770",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5770",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5770",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5770"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5770",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2416880236
+        }
+    ]
+}

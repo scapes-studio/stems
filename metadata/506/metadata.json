@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #506",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/506",
+    "image": "ipfs://QmWa7Qx7kSrEy5EMvLAnsnVHfxPTaGqfsHqf3211wf1LW6",
+    "animation_url": "https://scapes.punkscape.xyz/#506",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#506",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#506",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#506",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#506"
+    },
+    "external_url": "https://punkscape.xyz/scapes/506",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 3"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2339500814
+        }
+    ]
+}

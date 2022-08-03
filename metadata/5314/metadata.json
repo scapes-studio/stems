@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #5314",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5314",
+    "image": "ipfs://QmW4gEzjr8vSyfr5QTNUw1UanW225hi7E2skNe7m8j5zD5",
+    "animation_url": "https://scapes.punkscape.xyz/#5314",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5314",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5314",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5314",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5314"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5314",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Evening Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Blocks"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Police Car"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1811168314
+        }
+    ]
+}

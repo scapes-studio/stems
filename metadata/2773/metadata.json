@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #2773",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2773",
+    "image": "ipfs://QmZC4joJMCUo2HqdKxFnsm534MLeqH4K2MuUR83qef9aKW",
+    "animation_url": "https://scapes.punkscape.xyz/#2773",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2773",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2773",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2773",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2773"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2773",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Evening Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "BFR"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1883670169
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #5831",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5831",
+    "image": "ipfs://QmVpzvvteAaHUuWr3uu2j4iFzcRSMgnBQWx6ErRWBBqBBk",
+    "animation_url": "https://scapes.punkscape.xyz/#5831",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5831",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5831",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5831",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5831"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5831",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Cyber Truck"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2471606374
+        }
+    ]
+}

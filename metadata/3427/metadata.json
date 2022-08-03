@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #3427",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3427",
+    "image": "ipfs://QmX8YrN5m5YiZGZK8XX7HZ2bNWiRWfXtYkxvGV6p7D373p",
+    "animation_url": "https://scapes.punkscape.xyz/#3427",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3427",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3427",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3427",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3427"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3427",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Hut"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2394878443
+        }
+    ]
+}

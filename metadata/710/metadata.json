@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #710",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/710",
+    "image": "ipfs://QmQ2jtkbEVKzjFbGiACV2V9kNtgM5ApQhofx2yFBB9sPkG",
+    "animation_url": "https://scapes.punkscape.xyz/#710",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#710",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#710",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#710",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#710"
+    },
+    "external_url": "https://punkscape.xyz/scapes/710",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2002737375
+        }
+    ]
+}

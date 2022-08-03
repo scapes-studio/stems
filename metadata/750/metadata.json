@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #750",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/750",
+    "image": "ipfs://QmSxv2X6yXhqjR5zKghmyn3Dc3x8zP3nUTEPywMGz5Z8gc",
+    "animation_url": "https://scapes.punkscape.xyz/#750",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#750",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#750",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#750",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#750"
+    },
+    "external_url": "https://punkscape.xyz/scapes/750",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Golden Sea"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Animals",
+            "value": "Unicorn"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1902502977
+        }
+    ]
+}

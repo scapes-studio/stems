@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #7400",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7400",
+    "image": "ipfs://QmVbDwkM99dE3yKX3bCTeaJfyaSwY6xHukBUyT1om95d7J",
+    "animation_url": "https://scapes.punkscape.xyz/#7400",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7400",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7400",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7400",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7400"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7400",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sherp"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1756057934
+        }
+    ]
+}

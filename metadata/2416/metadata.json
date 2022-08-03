@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #2416",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2416",
+    "image": "ipfs://QmPfT3ptv9w9oJBBoyBBZusm445DrX2xb2FmnUructJJ8G",
+    "animation_url": "https://scapes.punkscape.xyz/#2416",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2416",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2416",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2416",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2416"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2416",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Burned Tree"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mini House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1949852462
+        }
+    ]
+}

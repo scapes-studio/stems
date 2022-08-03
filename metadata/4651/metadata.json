@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #4651",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4651",
+    "image": "ipfs://QmSedw7ZBTWMtfFCAtd66w4pAvUa5hTs93MtK7VUNAZ6pV",
+    "animation_url": "https://scapes.punkscape.xyz/#4651",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4651",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4651",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4651",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4651"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4651",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1928725327
+        }
+    ]
+}

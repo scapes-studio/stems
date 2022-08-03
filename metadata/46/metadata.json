@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #46",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/46",
+    "image": "ipfs://QmanXK99JutQh2GsTPxEtR2nhtUY4CbwTEARxXY8ssGsQm",
+    "animation_url": "https://scapes.punkscape.xyz/#46",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#46",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#46",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#46",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#46"
+    },
+    "external_url": "https://punkscape.xyz/scapes/46",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Old Tree"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Saturn V"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2047777201
+        }
+    ]
+}

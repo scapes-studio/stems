@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #2886",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2886",
+    "image": "ipfs://Qma4qk1nDarN5s5AJdm3ZBtV1UvGZ1882uAC6VCJbv43EF",
+    "animation_url": "https://scapes.punkscape.xyz/#2886",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2886",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2886",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2886",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2886"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2886",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "City",
+            "value": "Old Town"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Temple"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1864963128
+        }
+    ]
+}

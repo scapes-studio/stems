@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #2484",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2484",
+    "image": "ipfs://QmaD3gVCKkt9RgPrJcoPfYKpXBvnxrVA1J9yrSE8gzoBXX",
+    "animation_url": "https://scapes.punkscape.xyz/#2484",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2484",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2484",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2484",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2484"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2484",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Toxic River"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2429957578
+        }
+    ]
+}

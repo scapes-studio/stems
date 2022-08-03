@@ -1,0 +1,56 @@
+{
+    "name": "PunkScape #3163",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3163",
+    "image": "ipfs://QmadrDq6DTc19Jz49474oPz5CaaBCvftjhGZj56B3CkKXw",
+    "animation_url": "https://scapes.punkscape.xyz/#3163",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3163",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3163",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3163",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3163"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3163",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Evening Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "BFR"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1837599615
+        }
+    ]
+}

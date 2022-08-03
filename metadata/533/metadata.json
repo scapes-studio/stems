@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #533",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/533",
+    "image": "ipfs://QmR8iKuSwmkQC5kAg8aQLf4EjTMxEuUuctzyDbQXYQtc5y",
+    "animation_url": "https://scapes.punkscape.xyz/#533",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#533",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#533",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#533",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#533"
+    },
+    "external_url": "https://punkscape.xyz/scapes/533",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Oasis"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2219945475
+        }
+    ]
+}

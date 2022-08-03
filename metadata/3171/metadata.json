@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #3171",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3171",
+    "image": "ipfs://Qmf1d2wGYRn9YDk1iV9NiRvMYnXo75uRdj22hupcrP7ozN",
+    "animation_url": "https://scapes.punkscape.xyz/#3171",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3171",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3171",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3171",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3171"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3171",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Europa"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Statue of Liberty"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1878124124
+        }
+    ]
+}

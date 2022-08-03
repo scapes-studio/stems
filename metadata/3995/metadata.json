@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #3995",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3995",
+    "image": "ipfs://QmTSzAXfr6Xq87RMURgcCnEZ49e6JzAYZByhwZbA81kq7s",
+    "animation_url": "https://scapes.punkscape.xyz/#3995",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3995",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3995",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3995",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3995"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3995",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Block Tree"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Temple"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2358770092
+        }
+    ]
+}

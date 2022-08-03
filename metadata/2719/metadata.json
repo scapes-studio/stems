@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #2719",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2719",
+    "image": "ipfs://QmVmmNpjmxDCjP4ahb5xFND8dez7hHpfgAgyRY9W8ZZwjF",
+    "animation_url": "https://scapes.punkscape.xyz/#2719",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2719",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2719",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2719",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2719"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2719",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 2"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1746457081
+        }
+    ]
+}

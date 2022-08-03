@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #5573",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5573",
+    "image": "ipfs://QmPHNL9DriVrSMu1JSXEtnaWfELmXHeBGJBcbBQZSQwjyM",
+    "animation_url": "https://scapes.punkscape.xyz/#5573",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5573",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5573",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5573",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5573"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5573",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Statue of Liberty"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2419212694
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #5928",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5928",
+    "image": "ipfs://QmSNHBahiVHLten647BzdBj9puq5WH2fGYZGYd6FzjbPAw",
+    "animation_url": "https://scapes.punkscape.xyz/#5928",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5928",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5928",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5928",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5928"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5928",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1679223274
+        }
+    ]
+}

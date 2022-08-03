@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #2989",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2989",
+    "image": "ipfs://QmSYw5F9rV91FebtPqvhqhHWTmQvbTXEsgQ2J9JCgv7mvY",
+    "animation_url": "https://scapes.punkscape.xyz/#2989",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2989",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2989",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2989",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2989"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2989",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Saturn V"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2321152306
+        }
+    ]
+}

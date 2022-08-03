@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #4750",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4750",
+    "image": "ipfs://QmTuAnSPv4SFYMr41tHsqdjUQGNyh2ceNamCvt5Ee9RzTd",
+    "animation_url": "https://scapes.punkscape.xyz/#4750",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4750",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4750",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4750",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4750"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4750",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Falling Stars"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sherp"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1995878490
+        }
+    ]
+}

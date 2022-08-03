@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #2996",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2996",
+    "image": "ipfs://QmfR1dtoEuhxR5FSnLzD2RTtggvoTdTd2dkjJueEe4cR9s",
+    "animation_url": "https://scapes.punkscape.xyz/#2996",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2996",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2996",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2996",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2996"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2996",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Evening Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "BFR"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2257701611
+        }
+    ]
+}

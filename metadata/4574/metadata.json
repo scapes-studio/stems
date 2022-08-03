@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #4574",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4574",
+    "image": "ipfs://QmPbwM9p1Ciskshr4sbMYFtAFMkiGaQYKDqXoGinGNVwDj",
+    "animation_url": "https://scapes.punkscape.xyz/#4574",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4574",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4574",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4574",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4574"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4574",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Police Car"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1985853425
+        }
+    ]
+}

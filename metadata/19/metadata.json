@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #19",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/19",
+    "image": "ipfs://QmTfidvEtF3Vpubw4p2kDaQJEw4RrREMdPaFKQsTjMSuJr",
+    "animation_url": "https://scapes.punkscape.xyz/#19",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#19",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#19",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#19",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#19"
+    },
+    "external_url": "https://punkscape.xyz/scapes/19",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Temple"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2476174105
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #2542",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2542",
+    "image": "ipfs://QmfG7nbXwwJ7pbSpBhFVeao2Xdu1EwZWFbRdfiGaoaYYYX",
+    "animation_url": "https://scapes.punkscape.xyz/#2542",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2542",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2542",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2542",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2542"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2542",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Soul"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Falling Stars"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1966591099
+        }
+    ]
+}

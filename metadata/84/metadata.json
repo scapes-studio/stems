@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #84",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/84",
+    "image": "ipfs://Qme7Fi8LG36Nuh7B9i3hxCgtVnaVHZ1UWTEVw9htyQphqi",
+    "animation_url": "https://scapes.punkscape.xyz/#84",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#84",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#84",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#84",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#84"
+    },
+    "external_url": "https://punkscape.xyz/scapes/84",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2324641346
+        }
+    ]
+}

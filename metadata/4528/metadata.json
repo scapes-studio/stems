@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #4528",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4528",
+    "image": "ipfs://QmXCrsqZixpFJ73pfY16dQTutG68S5DPbMhgSMtcw29dBb",
+    "animation_url": "https://scapes.punkscape.xyz/#4528",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4528",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4528",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4528",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4528"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4528",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Windmill"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Ethereum"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1784112303
+        }
+    ]
+}

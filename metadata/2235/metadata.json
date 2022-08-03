@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #2235",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2235",
+    "image": "ipfs://Qme2P4oPj6XzdyQDA6HNGQgFQAQw2yQt7E9MJ8E8tzYcr6",
+    "animation_url": "https://scapes.punkscape.xyz/#2235",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2235",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2235",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2235",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2235"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2235",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Europa"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Old Tree"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2049791069
+        }
+    ]
+}

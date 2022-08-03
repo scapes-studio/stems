@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #2457",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2457",
+    "image": "ipfs://QmbxJheoLZSSMyzLZC1mSaSzQtA7gKrwWhFvgY4MBtJmJR",
+    "animation_url": "https://scapes.punkscape.xyz/#2457",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2457",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2457",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2457",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2457"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2457",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Palm"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Hut"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2458792690
+        }
+    ]
+}

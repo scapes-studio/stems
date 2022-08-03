@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #8903",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8903",
+    "image": "ipfs://Qma1p6NzBAF35HaMyZcy5NKLRSLaV8bMfmmBzYbzz4KqUh",
+    "animation_url": "https://scapes.punkscape.xyz/#8903",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8903",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8903",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8903",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8903"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8903",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1702620705
+        }
+    ]
+}

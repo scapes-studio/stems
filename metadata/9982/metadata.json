@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #9982",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9982",
+    "image": "ipfs://QmZWhoeDBLdM5MLPLZA11Wync7Pt6TjyoRZMz2rReS5dbA",
+    "animation_url": "https://scapes.punkscape.xyz/#9982",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9982",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9982",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9982",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9982"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9982",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sedan"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2373787629
+        }
+    ]
+}

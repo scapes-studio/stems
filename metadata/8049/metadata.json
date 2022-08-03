@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #8049",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8049",
+    "image": "ipfs://Qmaox5uA91x4JYTyfdeex2XpPivpBFZ3gaUzkRkQMoNvqP",
+    "animation_url": "https://scapes.punkscape.xyz/#8049",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8049",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8049",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8049",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8049"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8049",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Beams"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1915275919
+        }
+    ]
+}

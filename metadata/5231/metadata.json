@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #5231",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5231",
+    "image": "ipfs://QmYp3y1T8H8j7mMP7AH94kTwneXrBpxao4Z3H7V9ZJQQJH",
+    "animation_url": "https://scapes.punkscape.xyz/#5231",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5231",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5231",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5231",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5231"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5231",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sportscar"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2070724405
+        }
+    ]
+}

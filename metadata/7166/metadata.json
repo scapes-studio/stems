@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #7166",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7166",
+    "image": "ipfs://QmUiNXGfigA2Qyfop2e84bkZZBNmdPWt5fwDtpfwt3ybpo",
+    "animation_url": "https://scapes.punkscape.xyz/#7166",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7166",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7166",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7166",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7166"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7166",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Beach"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 1"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2157365820
+        }
+    ]
+}

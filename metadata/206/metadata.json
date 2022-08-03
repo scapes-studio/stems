@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #206",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/206",
+    "image": "ipfs://QmaM6BwcGY9zgZ5hLueYKYPXe6ezMpM6htfYnQRyh3feFL",
+    "animation_url": "https://scapes.punkscape.xyz/#206",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#206",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#206",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#206",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#206"
+    },
+    "external_url": "https://punkscape.xyz/scapes/206",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1754536614
+        }
+    ]
+}

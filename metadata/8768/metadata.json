@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #8768",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8768",
+    "image": "ipfs://QmWpgoydT7U8WKMmBp24mQc7U9WSPZ6UVacWYbhY4o8CAf",
+    "animation_url": "https://scapes.punkscape.xyz/#8768",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8768",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8768",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8768",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8768"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8768",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Volcano"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Square Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2205406969
+        }
+    ]
+}

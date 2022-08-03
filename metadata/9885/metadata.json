@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #9885",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9885",
+    "image": "ipfs://Qmb58navd7UK7mSUdMdCs16xciSjcML5V6mNv83WNsiz2t",
+    "animation_url": "https://scapes.punkscape.xyz/#9885",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9885",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9885",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9885",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9885"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9885",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Saturn V"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2475406893
+        }
+    ]
+}

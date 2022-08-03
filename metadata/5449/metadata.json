@@ -1,0 +1,56 @@
+{
+    "name": "PunkScape #5449",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5449",
+    "image": "ipfs://QmYbrErM8vAx4m71nBsvCEpoLCYk7YJx6kjzBcWTHng6gB",
+    "animation_url": "https://scapes.punkscape.xyz/#5449",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5449",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5449",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5449",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5449"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5449",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Toxic River"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Hut"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1831749313
+        }
+    ]
+}

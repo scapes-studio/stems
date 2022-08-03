@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #7074",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7074",
+    "image": "ipfs://QmX7WxjNVqVR86XZNG2NvSf2D6SKa6GXAwEJboRNVddZMk",
+    "animation_url": "https://scapes.punkscape.xyz/#7074",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7074",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7074",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7074",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7074"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7074",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Evening Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sedan"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1659614436
+        }
+    ]
+}

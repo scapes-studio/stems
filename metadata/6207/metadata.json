@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #6207",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6207",
+    "image": "ipfs://QmYF4Wg9U6Zwey4MLpUE52rVpN8AizGKYocjNR8QYQ6mxS",
+    "animation_url": "https://scapes.punkscape.xyz/#6207",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6207",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6207",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6207",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6207"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6207",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2303833770
+        }
+    ]
+}

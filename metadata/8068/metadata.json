@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #8068",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8068",
+    "image": "ipfs://QmYz88EEP83s3Yp7oUd4LyHJ3B8RaqDPth4CaaFZ8Rvmkh",
+    "animation_url": "https://scapes.punkscape.xyz/#8068",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8068",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8068",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8068",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8068"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8068",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Lake"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1930307425
+        }
+    ]
+}

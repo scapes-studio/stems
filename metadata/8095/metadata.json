@@ -1,0 +1,56 @@
+{
+    "name": "PunkScape #8095",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8095",
+    "image": "ipfs://QmdUhpettZxzjjaQGiM3K9mEKBG35Sy39AVXuRq2zrvoza",
+    "animation_url": "https://scapes.punkscape.xyz/#8095",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8095",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8095",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8095",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8095"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8095",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Old Tree"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Lighthouse"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1850359008
+        }
+    ]
+}

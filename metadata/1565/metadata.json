@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #1565",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1565",
+    "image": "ipfs://QmbiD6GZiAHrg3SxRj1bLGdmQbbPyU51Dw3PhSEoVu49Th",
+    "animation_url": "https://scapes.punkscape.xyz/#1565",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1565",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1565",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1565",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1565"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1565",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Ether"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2287288083
+        }
+    ]
+}

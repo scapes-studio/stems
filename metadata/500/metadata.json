@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #500",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/500",
+    "image": "ipfs://QmVnHiszSpmc8rWzu5J2AhDw7BFhUxKhyPY6zrJMSnhCff",
+    "animation_url": "https://scapes.punkscape.xyz/#500",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#500",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#500",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#500",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#500"
+    },
+    "external_url": "https://punkscape.xyz/scapes/500",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2378613241
+        }
+    ]
+}

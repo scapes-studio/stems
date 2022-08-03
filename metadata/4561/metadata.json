@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #4561",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4561",
+    "image": "ipfs://Qma2hd9QiZXkwy3J4c1aowJ4CXECLv7Yi6JsYQBx2gPZAd",
+    "animation_url": "https://scapes.punkscape.xyz/#4561",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4561",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4561",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4561",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4561"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4561",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Pillars"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2304260910
+        }
+    ]
+}

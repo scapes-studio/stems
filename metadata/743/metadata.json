@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #743",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/743",
+    "image": "ipfs://QmQfmQWxMv564NH5KeezhzSM7eq8uXqKBnDjXGFf3X5t6J",
+    "animation_url": "https://scapes.punkscape.xyz/#743",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#743",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#743",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#743",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#743"
+    },
+    "external_url": "https://punkscape.xyz/scapes/743",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Oasis"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Lighthouse"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2351403323
+        }
+    ]
+}

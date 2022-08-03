@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #8252",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8252",
+    "image": "ipfs://QmPngA92uDXYFqssLhc7HZGQzZNSfJvxGLW1j4H6Tb9DY2",
+    "animation_url": "https://scapes.punkscape.xyz/#8252",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8252",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8252",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8252",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8252"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8252",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2160662236
+        }
+    ]
+}

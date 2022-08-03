@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #5965",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5965",
+    "image": "ipfs://QmS7itxNZRRr5zYX6rbQU6gTZEsUBzBgLKreBkBdYw5YSU",
+    "animation_url": "https://scapes.punkscape.xyz/#5965",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5965",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5965",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5965",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5965"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5965",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 3"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Statue of Liberty"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2235400013
+        }
+    ]
+}

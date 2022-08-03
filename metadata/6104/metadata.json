@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #6104",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6104",
+    "image": "ipfs://QmPN1FE5NeJiLfA9gGpD3FoG8kU7BBxTaMwj69unjGctzP",
+    "animation_url": "https://scapes.punkscape.xyz/#6104",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6104",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6104",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6104",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6104"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6104",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Statue of Liberty"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "BFR"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1699779103
+        }
+    ]
+}

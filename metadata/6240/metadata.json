@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #6240",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6240",
+    "image": "ipfs://QmbF2nqiTp67Wb2EtmJj5XbGVJ3y63qZWhoGqoQ1Qb6Rm2",
+    "animation_url": "https://scapes.punkscape.xyz/#6240",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6240",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6240",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6240",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6240"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6240",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Saturn V"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2058858825
+        }
+    ]
+}

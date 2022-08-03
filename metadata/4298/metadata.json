@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #4298",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4298",
+    "image": "ipfs://QmSDrm87eDZZpWSktvCahLGHdL4UoxCU4hw6ziAm58iC7U",
+    "animation_url": "https://scapes.punkscape.xyz/#4298",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4298",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4298",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4298",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4298"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4298",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Tiny House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1742883156
+        }
+    ]
+}

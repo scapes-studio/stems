@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #8488",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8488",
+    "image": "ipfs://QmVSfu88xbJKhJb8EpFnzVyD9eP92XTayygnTCgMwy7F4g",
+    "animation_url": "https://scapes.punkscape.xyz/#8488",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8488",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8488",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8488",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8488"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8488",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Volcano"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2422972909
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #7661",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7661",
+    "image": "ipfs://Qmd4MjQBhq2yxAPHeE2pZ9fPrGHedhWpxHYC3WU73BMTGD",
+    "animation_url": "https://scapes.punkscape.xyz/#7661",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7661",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7661",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7661",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7661"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7661",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sedan"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2355851031
+        }
+    ]
+}

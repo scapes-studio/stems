@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #3283",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3283",
+    "image": "ipfs://QmQCmUHtSNaUCJscE7VhmJHPZnh1WQ7yvCF9QcS22CZCBp",
+    "animation_url": "https://scapes.punkscape.xyz/#3283",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3283",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3283",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3283",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3283"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3283",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter and his Moon"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Lighthouse"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2267787531
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #2828",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2828",
+    "image": "ipfs://QmX9mng596ZW1qmV34hPHtsyeuhGSCHVnCcKXYVR9C9wwL",
+    "animation_url": "https://scapes.punkscape.xyz/#2828",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2828",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2828",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2828",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2828"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2828",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Saturn V"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Windmill"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1690609659
+        }
+    ]
+}

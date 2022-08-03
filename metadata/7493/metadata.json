@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #7493",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7493",
+    "image": "ipfs://QmcYDdtTXkjxrdUoULsf3qjZ7p6uDP7QbpmESsQHDEdooj",
+    "animation_url": "https://scapes.punkscape.xyz/#7493",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7493",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7493",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7493",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7493"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7493",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin and Ethereum"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2428898016
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #4925",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4925",
+    "image": "ipfs://QmSTR5XxoMgYZExpjibdtXbaPDQv7ofjf8CzgR8vgY6yrN",
+    "animation_url": "https://scapes.punkscape.xyz/#4925",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4925",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4925",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4925",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4925"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4925",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 5"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Saturn V"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1984158133
+        }
+    ]
+}

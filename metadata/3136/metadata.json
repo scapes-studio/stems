@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #3136",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3136",
+    "image": "ipfs://Qmdk7meMAgbnM4bGxQuXwFcJbKiwPBTxzg5Gozz6efZAb2",
+    "animation_url": "https://scapes.punkscape.xyz/#3136",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3136",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3136",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3136",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3136"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3136",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Hut"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "BFR"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2463643733
+        }
+    ]
+}

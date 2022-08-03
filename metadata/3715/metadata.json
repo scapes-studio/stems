@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #3715",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3715",
+    "image": "ipfs://Qmdzu69pLvZuZX8y6X3FoJnjEiG2cgsbND3wMPBnJ7n6Rv",
+    "animation_url": "https://scapes.punkscape.xyz/#3715",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3715",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3715",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3715",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3715"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3715",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Hut"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2126357214
+        }
+    ]
+}

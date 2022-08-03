@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #6768",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6768",
+    "image": "ipfs://QmVbzxk1bNyAQoPrCT1KuyeQ1aia1LmPavjFn5Zcw1HNHm",
+    "animation_url": "https://scapes.punkscape.xyz/#6768",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6768",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6768",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6768",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6768"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6768",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter and his Moon"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2023690003
+        }
+    ]
+}

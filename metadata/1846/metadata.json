@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #1846",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1846",
+    "image": "ipfs://QmdKV9JkJFUdoALyy8eBDzJc9TPJCKhrGnxBumuy64ZwgR",
+    "animation_url": "https://scapes.punkscape.xyz/#1846",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1846",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1846",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1846",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1846"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1846",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Falling Stars"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Block Tree"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Temple"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1652011836
+        }
+    ]
+}

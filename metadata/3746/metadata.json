@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #3746",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3746",
+    "image": "ipfs://QmcvjYLa4DGH5iawTWLpTj92TXhtx9fWGZtySNgdT8YCpz",
+    "animation_url": "https://scapes.punkscape.xyz/#3746",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3746",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3746",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3746",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3746"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3746",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Windmill"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Statue of Liberty"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2176915704
+        }
+    ]
+}

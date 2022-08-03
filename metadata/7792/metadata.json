@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #7792",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7792",
+    "image": "ipfs://QmUpQWGSTQFvMeqV64Do5taYkS8tj8p7rUQJXcmVwA4cB6",
+    "animation_url": "https://scapes.punkscape.xyz/#7792",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7792",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7792",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7792",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7792"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7792",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Old House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1907235401
+        }
+    ]
+}

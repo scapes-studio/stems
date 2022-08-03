@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #1351",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1351",
+    "image": "ipfs://QmV9Ajm1vzpknaBxW8K8v5r4eQctC2J8qTBJ3hK1bHVgzw",
+    "animation_url": "https://scapes.punkscape.xyz/#1351",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1351",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1351",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1351",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1351"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1351",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Pillars"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2405086283
+        }
+    ]
+}

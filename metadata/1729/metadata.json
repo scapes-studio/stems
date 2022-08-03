@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #1729",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1729",
+    "image": "ipfs://QmUQJv89F8MNiCrbaKt1DZxak4yxxKGCxRaQ2y3VakNi89",
+    "animation_url": "https://scapes.punkscape.xyz/#1729",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1729",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1729",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1729",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1729"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1729",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "City",
+            "value": "Old Town"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Delivery Van"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2429890026
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #5265",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5265",
+    "image": "ipfs://QmXGwZNK8Vam1LRUvwXY7URj6XzNTVnPzNuoTRvL6dBZct",
+    "animation_url": "https://scapes.punkscape.xyz/#5265",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5265",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5265",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5265",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5265"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5265",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Windmill"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1777116796
+        }
+    ]
+}

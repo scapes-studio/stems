@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #1701",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1701",
+    "image": "ipfs://QmaEKUMPHGcCSf7jSvYJxEkbTBwyGZ9DZqDsfpmsfbqv11",
+    "animation_url": "https://scapes.punkscape.xyz/#1701",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1701",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1701",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1701",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1701"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1701",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Tiny House"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin and Ethereum"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1855140699
+        }
+    ]
+}

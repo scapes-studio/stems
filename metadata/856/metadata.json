@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #856",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/856",
+    "image": "ipfs://QmeW3DC7GvmM9CqVYZ9iyxqUsFC1zntxsC5yHmas2FUMEZ",
+    "animation_url": "https://scapes.punkscape.xyz/#856",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#856",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#856",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#856",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#856"
+    },
+    "external_url": "https://punkscape.xyz/scapes/856",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Earths"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Animals",
+            "value": "Fox"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2110029815
+        }
+    ]
+}

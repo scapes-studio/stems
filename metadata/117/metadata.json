@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #117",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/117",
+    "image": "ipfs://QmcM7Qt7KSQt7bSUk2BK6GwcjoQho9yEJmfWGztAjnkJoZ",
+    "animation_url": "https://scapes.punkscape.xyz/#117",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#117",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#117",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#117",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#117"
+    },
+    "external_url": "https://punkscape.xyz/scapes/117",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2195726617
+        }
+    ]
+}

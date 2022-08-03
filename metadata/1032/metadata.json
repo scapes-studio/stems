@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #1032",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1032",
+    "image": "ipfs://QmURdbSpyVur2GVpyYCEHct52w1PBJkMv7NTNabkccD7t7",
+    "animation_url": "https://scapes.punkscape.xyz/#1032",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1032",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1032",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1032",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1032"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1032",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Volcano"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Ethereum"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2033838984
+        }
+    ]
+}

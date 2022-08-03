@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #5712",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5712",
+    "image": "ipfs://QmT5UcBfWwd9pPg2kgQqt3fAp7fSGoG9zrxzzSJBgYPjEq",
+    "animation_url": "https://scapes.punkscape.xyz/#5712",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5712",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5712",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5712",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5712"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5712",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Palm"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1885260423
+        }
+    ]
+}

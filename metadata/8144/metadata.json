@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #8144",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8144",
+    "image": "ipfs://QmcySgrmWzYXzcUTo8m4cXduNo7GPfEu9zknceYKtq2vZr",
+    "animation_url": "https://scapes.punkscape.xyz/#8144",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8144",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8144",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8144",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8144"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8144",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Windmill"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Square Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2309619149
+        }
+    ]
+}

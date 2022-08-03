@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #8075",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8075",
+    "image": "ipfs://QmRKxAMBUZxpBeGe32MpogrnUmYYxnhx77xz1RbkQTdJiX",
+    "animation_url": "https://scapes.punkscape.xyz/#8075",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8075",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8075",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8075",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8075"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8075",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sportscar"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1926857507
+        }
+    ]
+}

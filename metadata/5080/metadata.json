@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #5080",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5080",
+    "image": "ipfs://Qme6C5JoD3GFeDPDGp8VyrMW2GmttQb5wNxD4Y9dQTYEZA",
+    "animation_url": "https://scapes.punkscape.xyz/#5080",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5080",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5080",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5080",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5080"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5080",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1797167376
+        }
+    ]
+}

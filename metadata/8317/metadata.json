@@ -1,0 +1,56 @@
+{
+    "name": "PunkScape #8317",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8317",
+    "image": "ipfs://QmRE9dD6NtDKXahJHnJQmVPuJYq5u26XBhWUEd7iq6emu5",
+    "animation_url": "https://scapes.punkscape.xyz/#8317",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8317",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8317",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8317",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8317"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8317",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2116602077
+        }
+    ]
+}

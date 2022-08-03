@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #395",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/395",
+    "image": "ipfs://QmaxwnRU8idf62fZ135YfMU68d8SbkcFQaWBhVojh84uHe",
+    "animation_url": "https://scapes.punkscape.xyz/#395",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#395",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#395",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#395",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#395"
+    },
+    "external_url": "https://punkscape.xyz/scapes/395",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2384007590
+        }
+    ]
+}

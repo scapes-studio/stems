@@ -1,0 +1,56 @@
+{
+    "name": "PunkScape #9123",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9123",
+    "image": "ipfs://QmRtEV35KZ78dDptwpbehp6trfNr1CyK3UrttpGbsmrabM",
+    "animation_url": "https://scapes.punkscape.xyz/#9123",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9123",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9123",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9123",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9123"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9123",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter and his Moon"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Toxic River"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 3"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1747049539
+        }
+    ]
+}

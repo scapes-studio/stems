@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #2332",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2332",
+    "image": "ipfs://Qmc2YDf9L5EwziWcmu2V1ackUiZupgwXK5teW4PJ24vmos",
+    "animation_url": "https://scapes.punkscape.xyz/#2332",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2332",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2332",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2332",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2332"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2332",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Shuttle"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1859346873
+        }
+    ]
+}

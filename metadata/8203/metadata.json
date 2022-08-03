@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #8203",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8203",
+    "image": "ipfs://QmcXZErWKT8sWK2S1i3jqcYPftoKhnukHh5UQpp3yrV7si",
+    "animation_url": "https://scapes.punkscape.xyz/#8203",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8203",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8203",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8203",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8203"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8203",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "BFR"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1716483802
+        }
+    ]
+}

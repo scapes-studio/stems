@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #1575",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1575",
+    "image": "ipfs://QmUdXKn1szMiMhN66o8iUb2X3xWc9kDY5hBksGM48CQVFJ",
+    "animation_url": "https://scapes.punkscape.xyz/#1575",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1575",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1575",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1575",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1575"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1575",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Palm"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Ethereum"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2016459940
+        }
+    ]
+}

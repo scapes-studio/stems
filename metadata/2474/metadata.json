@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #2474",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2474",
+    "image": "ipfs://Qmb65yEnfVCgMujLvu7buXjq47KYy1KyEXh5evaaAUtzcq",
+    "animation_url": "https://scapes.punkscape.xyz/#2474",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2474",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2474",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2474",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2474"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2474",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "City",
+            "value": "Old Town"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Lighthouse"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2414848480
+        }
+    ]
+}

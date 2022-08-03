@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #7407",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7407",
+    "image": "ipfs://QmbefdtriegAUsfb18YBqzUxv7QXxCxz9tk2B7JuaEh2Ty",
+    "animation_url": "https://scapes.punkscape.xyz/#7407",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7407",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7407",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7407",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7407"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7407",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Delivery Van"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2216048683
+        }
+    ]
+}

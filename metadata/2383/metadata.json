@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #2383",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2383",
+    "image": "ipfs://QmPn8LWtinha3TWhzDZhKSw1YVShTjP43FkNVuAPsL2bgn",
+    "animation_url": "https://scapes.punkscape.xyz/#2383",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2383",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2383",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2383",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2383"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2383",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Falling Stars"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "UFO"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2207916810
+        }
+    ]
+}

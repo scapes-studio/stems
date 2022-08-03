@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #9808",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9808",
+    "image": "ipfs://QmR1t85sXoxd7c8JwvjSXnb6495w48XeaHB7YyqUdQVbLC",
+    "animation_url": "https://scapes.punkscape.xyz/#9808",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9808",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9808",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9808",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9808"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9808",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Beach"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Tiny House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1682151252
+        }
+    ]
+}

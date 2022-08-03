@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #5289",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5289",
+    "image": "ipfs://Qmf8Y8oEJBaQ3BPxkkvEaJ6NaUXjogzecju1aKjTEhWcUb",
+    "animation_url": "https://scapes.punkscape.xyz/#5289",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5289",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5289",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5289",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5289"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5289",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Ether"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "UFO"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2102776731
+        }
+    ]
+}

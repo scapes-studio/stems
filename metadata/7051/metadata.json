@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #7051",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7051",
+    "image": "ipfs://Qmc4ApUAmc7fkoAGwTEzv76cyp6Gtd7Tmw6TwQmCNyweCU",
+    "animation_url": "https://scapes.punkscape.xyz/#7051",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7051",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7051",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7051",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7051"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7051",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter and his Moon"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Temple"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1893671078
+        }
+    ]
+}

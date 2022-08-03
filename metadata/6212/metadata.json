@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #6212",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6212",
+    "image": "ipfs://Qmbgj3SrAuMWVhtGttAhih7fFmEqnDcjY95AhZ7oVwo5UK",
+    "animation_url": "https://scapes.punkscape.xyz/#6212",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6212",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6212",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6212",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6212"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6212",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Spacelab"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2119606307
+        }
+    ]
+}

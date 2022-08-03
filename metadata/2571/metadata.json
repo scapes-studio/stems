@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #2571",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2571",
+    "image": "ipfs://QmVacDr8q92CENgvQTyWq5kJebTXw8avFjvJkL4Bg3cRyU",
+    "animation_url": "https://scapes.punkscape.xyz/#2571",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2571",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2571",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2571",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2571"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2571",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Europa"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Chinese Gate"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2094973927
+        }
+    ]
+}

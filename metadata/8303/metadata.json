@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #8303",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8303",
+    "image": "ipfs://QmXTDM8Fkr16dkRTNFvW2wfrCouK4e3jTG5LKPAWPEb5xe",
+    "animation_url": "https://scapes.punkscape.xyz/#8303",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8303",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8303",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8303",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8303"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8303",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 2"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2309800904
+        }
+    ]
+}

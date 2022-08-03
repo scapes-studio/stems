@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #177",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/177",
+    "image": "ipfs://QmevhyJ4cnwpvP4rKagUW3icnRVu5wM5d3uXWBmPBdMbBX",
+    "animation_url": "https://scapes.punkscape.xyz/#177",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#177",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#177",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#177",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#177"
+    },
+    "external_url": "https://punkscape.xyz/scapes/177",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Soul Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1813652191
+        }
+    ]
+}

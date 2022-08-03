@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #8901",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8901",
+    "image": "ipfs://QmPe6PgMoPi2zY1X4ft3iZV1g8q6cbB4rV2P69xcB3cwHH",
+    "animation_url": "https://scapes.punkscape.xyz/#8901",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8901",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8901",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8901",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8901"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8901",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Evening Clouds"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Saturn V"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2235814367
+        }
+    ]
+}

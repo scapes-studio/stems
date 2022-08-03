@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #6259",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6259",
+    "image": "ipfs://QmTdLq2mL2ovTFjkZW8FG4mQYU3m1XwAEUvLk6nedqjVuf",
+    "animation_url": "https://scapes.punkscape.xyz/#6259",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6259",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6259",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6259",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6259"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6259",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Tree of Life"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Pickup"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1835352606
+        }
+    ]
+}

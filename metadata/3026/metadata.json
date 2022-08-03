@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #3026",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3026",
+    "image": "ipfs://QmbYDfT7e4WHuD6k5cj2YZuMKuvG9Qn34fqhHrT5vzRXok",
+    "animation_url": "https://scapes.punkscape.xyz/#3026",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3026",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3026",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3026",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3026"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3026",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sedan"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2250947390
+        }
+    ]
+}

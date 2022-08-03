@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #4310",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4310",
+    "image": "ipfs://QmaEPnewAkmMLjYTgRLt2rE7xBnENx9eJ8ykAzhzTKnt4V",
+    "animation_url": "https://scapes.punkscape.xyz/#4310",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4310",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4310",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4310",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4310"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4310",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mini House"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2066053843
+        }
+    ]
+}

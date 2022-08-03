@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #3268",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3268",
+    "image": "ipfs://QmVg2UE7X3ieVp3ccp8ajtLG2hr7AZC7oVMauYCLSLp9iQ",
+    "animation_url": "https://scapes.punkscape.xyz/#3268",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3268",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3268",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3268",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3268"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3268",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Golden Sea"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Beach"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Police Car"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2431280739
+        }
+    ]
+}

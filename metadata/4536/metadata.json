@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #4536",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4536",
+    "image": "ipfs://QmbDoyPB5wA3LiNz2P4XM8omoEvnyViT9UoLp9XJNVkQnn",
+    "animation_url": "https://scapes.punkscape.xyz/#4536",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4536",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4536",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4536",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4536"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4536",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2217386561
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #5587",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5587",
+    "image": "ipfs://QmZyt5PJBt7bCoiw8PApdZysqx9vibjz7jq67NzoGLAuzc",
+    "animation_url": "https://scapes.punkscape.xyz/#5587",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5587",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5587",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5587",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5587"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5587",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Evening Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 2"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2253278078
+        }
+    ]
+}

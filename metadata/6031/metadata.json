@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #6031",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6031",
+    "image": "ipfs://QmQL7oaVYLmDgKcdK3zzR9BGMVuwbL3v2rsuP9cWZ45sjK",
+    "animation_url": "https://scapes.punkscape.xyz/#6031",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6031",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6031",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6031",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6031"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6031",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Pyramid"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Ethereum"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1868269604
+        }
+    ]
+}

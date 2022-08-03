@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #4668",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4668",
+    "image": "ipfs://QmSVtQbiE9C2PV3bgWtdJDzqtUBuj8eU71tszEmapMzChi",
+    "animation_url": "https://scapes.punkscape.xyz/#4668",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4668",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4668",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4668",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4668"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4668",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sedan"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1721039185
+        }
+    ]
+}

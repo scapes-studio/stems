@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #9660",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9660",
+    "image": "ipfs://QmfPoAEtbCXQAcPRfXp8wEbpb9VLfNXVhRrLAJB29AwYWX",
+    "animation_url": "https://scapes.punkscape.xyz/#9660",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9660",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9660",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9660",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9660"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9660",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Evening Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Europa"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2314417670
+        }
+    ]
+}

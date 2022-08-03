@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #385",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/385",
+    "image": "ipfs://QmTareAgeBa29geFqhz7MUhDDafjNmmaQFw9zYsEqLBqca",
+    "animation_url": "https://scapes.punkscape.xyz/#385",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#385",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#385",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#385",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#385"
+    },
+    "external_url": "https://punkscape.xyz/scapes/385",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Evening Clouds"
+        },
+        {
+            "trait_type": "City",
+            "value": "Old Town"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sedan"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1673005160
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #5387",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5387",
+    "image": "ipfs://QmenW21TjMpNxXgRw7itzJAoF1rNC6qF2bYpJus5WnwbPa",
+    "animation_url": "https://scapes.punkscape.xyz/#5387",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5387",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5387",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5387",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5387"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5387",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2219072912
+        }
+    ]
+}

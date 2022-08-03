@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #793",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/793",
+    "image": "ipfs://QmQeyrct1PGmdUSVQ2ssW94JYCrRQieCM4XqjivXLgAKny",
+    "animation_url": "https://scapes.punkscape.xyz/#793",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#793",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#793",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#793",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#793"
+    },
+    "external_url": "https://punkscape.xyz/scapes/793",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Pickup"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1963676765
+        }
+    ]
+}

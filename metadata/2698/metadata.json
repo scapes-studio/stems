@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #2698",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2698",
+    "image": "ipfs://QmfLoi33nn22WQcUXBM3rZmEFrFS5MJuF9mZgNJcgPWms2",
+    "animation_url": "https://scapes.punkscape.xyz/#2698",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2698",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2698",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2698",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2698"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2698",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 2"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1916074545
+        }
+    ]
+}

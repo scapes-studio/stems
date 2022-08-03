@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #651",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/651",
+    "image": "ipfs://QmNdAd9XZwZJ6Zs4jQAw5buwckbEC9dxNrjebn6jRzGUgq",
+    "animation_url": "https://scapes.punkscape.xyz/#651",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#651",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#651",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#651",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#651"
+    },
+    "external_url": "https://punkscape.xyz/scapes/651",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "UFO"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2008063843
+        }
+    ]
+}

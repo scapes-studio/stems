@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #6102",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6102",
+    "image": "ipfs://QmUkQayCRS5JrGcRam65wQXEGk4ZAV1wSp4YmjdbeVyGFz",
+    "animation_url": "https://scapes.punkscape.xyz/#6102",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6102",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6102",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6102",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6102"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6102",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Lake"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1676899004
+        }
+    ]
+}

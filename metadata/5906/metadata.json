@@ -1,0 +1,56 @@
+{
+    "name": "PunkScape #5906",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5906",
+    "image": "ipfs://QmQz9ir4c2oPtsbQJtxPekEfXUR5drkZQA5REwm3y4Yt8G",
+    "animation_url": "https://scapes.punkscape.xyz/#5906",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5906",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5906",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5906",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5906"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5906",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Burj"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1782461951
+        }
+    ]
+}

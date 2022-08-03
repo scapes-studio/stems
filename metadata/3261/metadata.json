@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #3261",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3261",
+    "image": "ipfs://QmetvcJoakozSqeCRTWYTcyfcs1bHvpTp7551fEeQ11CA4",
+    "animation_url": "https://scapes.punkscape.xyz/#3261",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3261",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3261",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3261",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3261"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3261",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2052380309
+        }
+    ]
+}

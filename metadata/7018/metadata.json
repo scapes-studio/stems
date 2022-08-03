@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #7018",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7018",
+    "image": "ipfs://QmVrsn7Xz3TCeoQaFB1FttX7gbvywxZqTgw9w13eJHCpQx",
+    "animation_url": "https://scapes.punkscape.xyz/#7018",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7018",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7018",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7018",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7018"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7018",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "City",
+            "value": "Old Town"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Saturn V"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1961386658
+        }
+    ]
+}

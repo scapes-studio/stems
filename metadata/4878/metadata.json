@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #4878",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4878",
+    "image": "ipfs://QmUNZBrvVBR7cQNVLgn81FcyCNFgNCr9U59HBAWQXZjYD7",
+    "animation_url": "https://scapes.punkscape.xyz/#4878",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4878",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4878",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4878",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4878"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4878",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Toxic River"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Hut"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2039348433
+        }
+    ]
+}

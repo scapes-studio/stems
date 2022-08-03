@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #2910",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2910",
+    "image": "ipfs://QmX8hdy8XFNxWyaRpQ9Qv8NHf9Foi3oNHHjWwCAC2ika5d",
+    "animation_url": "https://scapes.punkscape.xyz/#2910",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2910",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2910",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2910",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2910"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2910",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1645468070
+        }
+    ]
+}

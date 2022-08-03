@@ -1,0 +1,56 @@
+{
+    "name": "PunkScape #3985",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3985",
+    "image": "ipfs://QmY69vJMtPm1q9gUQRPGoFPrtkBKMR8SxmfVfVoMPCHuGc",
+    "animation_url": "https://scapes.punkscape.xyz/#3985",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3985",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3985",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3985",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3985"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3985",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Old Tree"
+        },
+        {
+            "trait_type": "Animals",
+            "value": "Fox"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1783446339
+        }
+    ]
+}

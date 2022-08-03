@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #5864",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5864",
+    "image": "ipfs://QmcBHGD8ZWBrGZ8x3MR1i7dcRuXpGJmuqc6Me379dBnTkm",
+    "animation_url": "https://scapes.punkscape.xyz/#5864",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5864",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5864",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5864",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5864"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5864",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter and his Moon"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sportscar"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1721558132
+        }
+    ]
+}

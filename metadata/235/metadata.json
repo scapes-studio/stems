@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #235",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/235",
+    "image": "ipfs://QmfSURTM5YEVJhSzEFHh9kq1wjNx6nwwLuQQNVeMcggAVD",
+    "animation_url": "https://scapes.punkscape.xyz/#235",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#235",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#235",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#235",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#235"
+    },
+    "external_url": "https://punkscape.xyz/scapes/235",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2112347269
+        }
+    ]
+}

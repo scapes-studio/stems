@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #5160",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5160",
+    "image": "ipfs://QmatRRyK9RsrWhH9hSzz7qu4ThbVPs5hkG4tUFLQv31Qq2",
+    "animation_url": "https://scapes.punkscape.xyz/#5160",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5160",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5160",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5160",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5160"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5160",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 2"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Ethereum"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1705673366
+        }
+    ]
+}

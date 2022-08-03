@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #8696",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8696",
+    "image": "ipfs://QmdsF3rZERHTWGgd3Ns6HZqKmQbcM85EoT7ErBphsaTU5U",
+    "animation_url": "https://scapes.punkscape.xyz/#8696",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8696",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8696",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8696",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8696"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8696",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "City",
+            "value": "Old Town"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Burj"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1679895194
+        }
+    ]
+}

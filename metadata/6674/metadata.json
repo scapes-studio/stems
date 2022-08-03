@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #6674",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6674",
+    "image": "ipfs://QmSFJ4iMeF1JWiZn2Yu4KDa1GzirFEfDjp41teUCVDPgP4",
+    "animation_url": "https://scapes.punkscape.xyz/#6674",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6674",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6674",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6674",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6674"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6674",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Oasis"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2269970161
+        }
+    ]
+}

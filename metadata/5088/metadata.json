@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #5088",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5088",
+    "image": "ipfs://Qma5iEs2n5qkmU9PbmxrnnWb373dNs5DJyeXr2tDLsgWid",
+    "animation_url": "https://scapes.punkscape.xyz/#5088",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5088",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5088",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5088",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5088"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5088",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Colosseum"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Statue of Liberty"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1741111028
+        }
+    ]
+}

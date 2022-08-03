@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #2059",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2059",
+    "image": "ipfs://QmR62zCZnJiQmy6YQhjpm7Qiy4sjYmwa2mfXknsd4EHKtQ",
+    "animation_url": "https://scapes.punkscape.xyz/#2059",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2059",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2059",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2059",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2059"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2059",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Evening Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1701919070
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #4022",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4022",
+    "image": "ipfs://QmPBEfverSr4ru81Y3zHwi7LxYDvZhX16jgbJrmu2t3Wb6",
+    "animation_url": "https://scapes.punkscape.xyz/#4022",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4022",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4022",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4022",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4022"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4022",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "UFO"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1885640140
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #3151",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3151",
+    "image": "ipfs://QmX8wuXetRvqtNwp85B1PzeKZ3gYxLxvMTgE5ApyWxUmoo",
+    "animation_url": "https://scapes.punkscape.xyz/#3151",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3151",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3151",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3151",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3151"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3151",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Evening Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Saturn V"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Square Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1644651345
+        }
+    ]
+}

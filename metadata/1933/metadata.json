@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #1933",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1933",
+    "image": "ipfs://QmapgA51HDsLqeREYzxGeJKkeBgd8eHUHqPjfEShW9NYEU",
+    "animation_url": "https://scapes.punkscape.xyz/#1933",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1933",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1933",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1933",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1933"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1933",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Falling Stars"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 3"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2479828045
+        }
+    ]
+}

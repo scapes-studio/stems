@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #8519",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8519",
+    "image": "ipfs://QmadK7T7Ctcf5NtTDxhyTo57nUtfDTFNyWnqEUuht8unRb",
+    "animation_url": "https://scapes.punkscape.xyz/#8519",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8519",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8519",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8519",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8519"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8519",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mini House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2165581671
+        }
+    ]
+}

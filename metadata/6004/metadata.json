@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #6004",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6004",
+    "image": "ipfs://QmWtr1ZkAFM4FojjSbe9HK8pKFNnhxUh5r1Hn98q7kBrjz",
+    "animation_url": "https://scapes.punkscape.xyz/#6004",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6004",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6004",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6004",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6004"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6004",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Lake"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1911053327
+        }
+    ]
+}

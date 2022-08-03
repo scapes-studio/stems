@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #1391",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1391",
+    "image": "ipfs://QmXxdy6MsyoLBsN1D3CocYqaWEC4wmMSzcXoQ583osD5TZ",
+    "animation_url": "https://scapes.punkscape.xyz/#1391",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1391",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1391",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1391",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1391"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1391",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Lake"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1728537998
+        }
+    ]
+}

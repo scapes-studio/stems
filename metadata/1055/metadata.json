@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #1055",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1055",
+    "image": "ipfs://QmYXWaJokFgtkXDYnoMSbhitJS28M7BHoW2W6aPK4oBN9p",
+    "animation_url": "https://scapes.punkscape.xyz/#1055",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1055",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1055",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1055",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1055"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1055",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Lighthouse"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2002612183
+        }
+    ]
+}

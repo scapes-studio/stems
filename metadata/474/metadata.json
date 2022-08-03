@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #474",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/474",
+    "image": "ipfs://QmPviKzcx9xChn55aYmfNNRARKhSUF1yw8a3A8wazsCUme",
+    "animation_url": "https://scapes.punkscape.xyz/#474",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#474",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#474",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#474",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#474"
+    },
+    "external_url": "https://punkscape.xyz/scapes/474",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2328539813
+        }
+    ]
+}

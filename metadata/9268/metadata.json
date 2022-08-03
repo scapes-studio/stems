@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #9268",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9268",
+    "image": "ipfs://QmcLp18W26b2E5KBammChhGQLiBfPB4MJjL1sRUXNGgydG",
+    "animation_url": "https://scapes.punkscape.xyz/#9268",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9268",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9268",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9268",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9268"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9268",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Temple"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1972548391
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #8423",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8423",
+    "image": "ipfs://QmSYHQLSVGKtXi8udKp5hJySMkEEbLdwSMJkMJvr4ikKCK",
+    "animation_url": "https://scapes.punkscape.xyz/#8423",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8423",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8423",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8423",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8423"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8423",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1894303349
+        }
+    ]
+}

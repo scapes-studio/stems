@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #4855",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4855",
+    "image": "ipfs://QmNmCb8GSdiJFia6t8cNdFazp6xmuB9QL6PuGkhb3FcM79",
+    "animation_url": "https://scapes.punkscape.xyz/#4855",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4855",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4855",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4855",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4855"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4855",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Windmill"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2194105099
+        }
+    ]
+}

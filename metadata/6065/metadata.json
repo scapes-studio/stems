@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #6065",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6065",
+    "image": "ipfs://QmV8whyvCNju2w6jerPTh1ydkKxavHGy1u7EXuYNZaB1er",
+    "animation_url": "https://scapes.punkscape.xyz/#6065",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6065",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6065",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6065",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6065"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6065",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 4"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2055905203
+        }
+    ]
+}

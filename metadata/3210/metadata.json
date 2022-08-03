@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #3210",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3210",
+    "image": "ipfs://QmP1gP9aKMhveEq3YJ528rcyRJe1Y4AghQ4AW34NxhK2yS",
+    "animation_url": "https://scapes.punkscape.xyz/#3210",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3210",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3210",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3210",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3210"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3210",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Windmill"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2276237367
+        }
+    ]
+}

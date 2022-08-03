@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #4209",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4209",
+    "image": "ipfs://QmTpwJ6Msa1AHTQGGu6Diz1C5c7tJxcqwdtG9RWqx7FNF6",
+    "animation_url": "https://scapes.punkscape.xyz/#4209",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4209",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4209",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4209",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4209"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4209",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Evening Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Europa"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Golden Sea"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1927191136
+        }
+    ]
+}

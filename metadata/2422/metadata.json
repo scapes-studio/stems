@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #2422",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2422",
+    "image": "ipfs://Qmdfq2chCSvvNM5kMk8r5WWE6mPdhj6H6jzb1eqD1rhoCe",
+    "animation_url": "https://scapes.punkscape.xyz/#2422",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2422",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2422",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2422",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2422"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2422",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Evening Clouds"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Lake"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 2"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2449228376
+        }
+    ]
+}

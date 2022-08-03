@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #6886",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6886",
+    "image": "ipfs://QmRbfcL7eycT2ZdHZWiVkAnqE3QA39gjxvjfdfiznKd3yM",
+    "animation_url": "https://scapes.punkscape.xyz/#6886",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6886",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6886",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6886",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6886"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6886",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter and his Moon"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Europa"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mini House"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Statue of Liberty"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2018375693
+        }
+    ]
+}

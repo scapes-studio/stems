@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #4200",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4200",
+    "image": "ipfs://QmQZPkorn7NMz2Qr1mtN64iKBadV3JE6UJc19nkSKsqroR",
+    "animation_url": "https://scapes.punkscape.xyz/#4200",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4200",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4200",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4200",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4200"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4200",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1673461475
+        }
+    ]
+}

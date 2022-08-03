@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #7432",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7432",
+    "image": "ipfs://QmNscgxqT2PwhnG5oY7CPzpQeqZt65EX93ePqm8ULCK6QS",
+    "animation_url": "https://scapes.punkscape.xyz/#7432",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7432",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7432",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7432",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7432"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7432",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Tiny House"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2304510922
+        }
+    ]
+}

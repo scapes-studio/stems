@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #7244",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7244",
+    "image": "ipfs://Qmbn8AGD4q2uG1xrgs6gu4hUh5gVUvuogXPE1ag91ZPTfs",
+    "animation_url": "https://scapes.punkscape.xyz/#7244",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7244",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7244",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7244",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7244"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7244",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Ethereum"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1769685114
+        }
+    ]
+}

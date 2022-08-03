@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #6081",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6081",
+    "image": "ipfs://QmVioxPpKwQ78yHYguBrsFhXHZ5i1LqU5muAgpWKTAasDr",
+    "animation_url": "https://scapes.punkscape.xyz/#6081",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6081",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6081",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6081",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6081"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6081",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Old House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1655124191
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #9723",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9723",
+    "image": "ipfs://QmTmNKmQ4TBYPu32tDbGfjzEwH55iq3YWnBK47VKsptQCM",
+    "animation_url": "https://scapes.punkscape.xyz/#9723",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9723",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9723",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9723",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9723"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9723",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2464832912
+        }
+    ]
+}

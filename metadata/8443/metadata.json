@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #8443",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8443",
+    "image": "ipfs://QmSY2NYiPRM7egGNoDHwPUZoFhzF2wTWzNomwTJ8E8kWjN",
+    "animation_url": "https://scapes.punkscape.xyz/#8443",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8443",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8443",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8443",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8443"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8443",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Big Ben"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2004414220
+        }
+    ]
+}

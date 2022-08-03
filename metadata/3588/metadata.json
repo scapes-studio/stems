@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #3588",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3588",
+    "image": "ipfs://QmcEzaq36CVk2nWhEZwKZ1y44w5bz4LXFLLiKdEJ5CVvwB",
+    "animation_url": "https://scapes.punkscape.xyz/#3588",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3588",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3588",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3588",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3588"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3588",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Police Car"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1934975400
+        }
+    ]
+}

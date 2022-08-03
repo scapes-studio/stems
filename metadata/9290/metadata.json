@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #9290",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9290",
+    "image": "ipfs://QmUSgqU9aDWQZustE86FZUJYq3isAF1XbeJ6dW8gWCLA5P",
+    "animation_url": "https://scapes.punkscape.xyz/#9290",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9290",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9290",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9290",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9290"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9290",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Tree of Life"
+        },
+        {
+            "trait_type": "Animals",
+            "value": "Fox"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1692471108
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "name": "PunkScape #4249",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4249",
+    "image": "ipfs://QmZ9TUjBwg8rprrNtdvFikD7BLmkpcNW3d5LdXU1MivDDu",
+    "animation_url": "https://scapes.punkscape.xyz/#4249",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4249",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4249",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4249",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4249"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4249",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sherp"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2208605884
+        }
+    ]
+}

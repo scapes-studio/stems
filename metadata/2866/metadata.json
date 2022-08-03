@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #2866",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2866",
+    "image": "ipfs://QmRnmocNgNhYxeCDX61g7NEEA1NC4DwrwjbYHWmcwh8bvu",
+    "animation_url": "https://scapes.punkscape.xyz/#2866",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2866",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2866",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2866",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2866"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2866",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Burj"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2375499211
+        }
+    ]
+}

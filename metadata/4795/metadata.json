@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #4795",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4795",
+    "image": "ipfs://QmSGtKRBq2xLVTDCmvauV3cLhW5hJdYWXXe3V98aAWui1N",
+    "animation_url": "https://scapes.punkscape.xyz/#4795",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4795",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4795",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4795",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4795"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4795",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mini House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2138989617
+        }
+    ]
+}

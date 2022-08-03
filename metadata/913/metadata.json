@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #913",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/913",
+    "image": "ipfs://QmSPziphPWRfnXXs8muyL7EfT66QE9ZDAAzvPLbY4YAMUS",
+    "animation_url": "https://scapes.punkscape.xyz/#913",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#913",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#913",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#913",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#913"
+    },
+    "external_url": "https://punkscape.xyz/scapes/913",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Ethereum"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Pickup"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1786118288
+        }
+    ]
+}

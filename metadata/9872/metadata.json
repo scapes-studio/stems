@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #9872",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9872",
+    "image": "ipfs://QmR97ArUpr5A1RrM3t6ufHwR5p3nwScdG1iTLPVA6qkK8D",
+    "animation_url": "https://scapes.punkscape.xyz/#9872",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9872",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9872",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9872",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9872"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9872",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Lighthouse"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1715684614
+        }
+    ]
+}

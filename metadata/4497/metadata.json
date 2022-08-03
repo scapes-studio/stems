@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #4497",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4497",
+    "image": "ipfs://QmRLA2Cp3z3E3cjbjRTJb9psB9GRdrjFT12PWAPpusajLc",
+    "animation_url": "https://scapes.punkscape.xyz/#4497",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4497",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4497",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4497",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4497"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4497",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Soul Meteors"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1812475432
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #4388",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4388",
+    "image": "ipfs://QmQTBe3mHbnHSjNoKm4QXqhgG3qpjWhL7zkiSsYjix5Jc4",
+    "animation_url": "https://scapes.punkscape.xyz/#4388",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4388",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4388",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4388",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4388"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4388",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Square Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2147189240
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #1915",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1915",
+    "image": "ipfs://QmTxXAb2KoHL3Qigy1X6r3Gtz4AJPXSMUhFfrmzJrxieF8",
+    "animation_url": "https://scapes.punkscape.xyz/#1915",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1915",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1915",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1915",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1915"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1915",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "BFR"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1845173176
+        }
+    ]
+}

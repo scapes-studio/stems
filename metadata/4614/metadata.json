@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #4614",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4614",
+    "image": "ipfs://QmPeaB8BBJ93T4JQ7S53fkGRWYXsmonw7ZpycQnW8G46aT",
+    "animation_url": "https://scapes.punkscape.xyz/#4614",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4614",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4614",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4614",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4614"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4614",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Windmill"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1654949967
+        }
+    ]
+}

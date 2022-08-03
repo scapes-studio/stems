@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #4748",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4748",
+    "image": "ipfs://Qmbj2wvmzRJUK939VYM9fYXhv9AkfJEnQ3R1zKMMjbTe6T",
+    "animation_url": "https://scapes.punkscape.xyz/#4748",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4748",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4748",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4748",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4748"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4748",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Windmill"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "BFR"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2399974403
+        }
+    ]
+}

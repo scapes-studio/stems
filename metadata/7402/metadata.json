@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #7402",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7402",
+    "image": "ipfs://QmUfZ47k8x1y6CUutHxabzeU3RJUMb7EiYC1zpQUAox4Yr",
+    "animation_url": "https://scapes.punkscape.xyz/#7402",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7402",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7402",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7402",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7402"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7402",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Old Tree"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Hut"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1873810043
+        }
+    ]
+}

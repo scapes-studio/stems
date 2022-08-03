@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #4957",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4957",
+    "image": "ipfs://QmYVTpL4tuqTr5RNMiJMAPLWpc85m16sRA3afe4d5rDYju",
+    "animation_url": "https://scapes.punkscape.xyz/#4957",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4957",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4957",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4957",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4957"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4957",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Hut"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2113128115
+        }
+    ]
+}

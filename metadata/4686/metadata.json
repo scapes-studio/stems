@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #4686",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4686",
+    "image": "ipfs://QmdgbriayRB4CuvV21saaVhcSN57iNbR1qPoqWiiq2qKMK",
+    "animation_url": "https://scapes.punkscape.xyz/#4686",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4686",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4686",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4686",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4686"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4686",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Earths"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Spacelab"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1921586505
+        }
+    ]
+}

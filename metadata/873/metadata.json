@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #873",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/873",
+    "image": "ipfs://QmYaBiL7zjb5GK81FqRJzHpGCyVc7N8nvgow8tGeNLzCzK",
+    "animation_url": "https://scapes.punkscape.xyz/#873",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#873",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#873",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#873",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#873"
+    },
+    "external_url": "https://punkscape.xyz/scapes/873",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Old House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2036507259
+        }
+    ]
+}

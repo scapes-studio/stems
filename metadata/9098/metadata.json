@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #9098",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9098",
+    "image": "ipfs://QmQH8m7MjxKU4fJrUZXyh88hC7UevXF89YbHcQML3f9FoH",
+    "animation_url": "https://scapes.punkscape.xyz/#9098",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9098",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9098",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9098",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9098"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9098",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Lake"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1719284696
+        }
+    ]
+}

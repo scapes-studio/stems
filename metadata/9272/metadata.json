@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #9272",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9272",
+    "image": "ipfs://QmYqGEssbuRbYVCC6BWCsp8BvyxUPsiyS7RY9wRjqtpy4n",
+    "animation_url": "https://scapes.punkscape.xyz/#9272",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9272",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9272",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9272",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9272"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9272",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2091759858
+        }
+    ]
+}

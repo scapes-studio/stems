@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #9823",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9823",
+    "image": "ipfs://QmNyWfvcdqL2pTsgn7Q1yA6VugXJby2Z3NS4MbgRgevhwk",
+    "animation_url": "https://scapes.punkscape.xyz/#9823",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9823",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9823",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9823",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9823"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9823",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Hut"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1807294927
+        }
+    ]
+}

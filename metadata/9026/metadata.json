@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #9026",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9026",
+    "image": "ipfs://QmcsibXZZw1NG6mzcapSiVQTL9es8hzbw4zKhpxYfw8GDg",
+    "animation_url": "https://scapes.punkscape.xyz/#9026",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9026",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9026",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9026",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9026"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9026",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Animals",
+            "value": "Unicorn"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2218981931
+        }
+    ]
+}

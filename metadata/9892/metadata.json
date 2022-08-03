@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #9892",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9892",
+    "image": "ipfs://Qmch894ogkWYW9YEkaL5MuTsJpN8NaD1CcgcXZeehQbf37",
+    "animation_url": "https://scapes.punkscape.xyz/#9892",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9892",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9892",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9892",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9892"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9892",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "UFO"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2172840407
+        }
+    ]
+}

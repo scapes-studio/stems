@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #5490",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5490",
+    "image": "ipfs://QmeVFyfnSfpbke199zUPyC9DZHjr5rGdPbs7PCw5PJFFer",
+    "animation_url": "https://scapes.punkscape.xyz/#5490",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5490",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5490",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5490",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5490"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5490",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mini House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1873370225
+        }
+    ]
+}

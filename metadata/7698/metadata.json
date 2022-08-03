@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #7698",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7698",
+    "image": "ipfs://QmQpuYLjtyXUpTUFZCFysVe6tnZnHdNEiVgXQpSco5sErJ",
+    "animation_url": "https://scapes.punkscape.xyz/#7698",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7698",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7698",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7698",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7698"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7698",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Delivery Van"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2366980822
+        }
+    ]
+}

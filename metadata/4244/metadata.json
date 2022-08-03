@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #4244",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4244",
+    "image": "ipfs://QmTC9AfdbZBDkPY6c5rgcdX65Cuz9gwZwPLvLKc2BJfJcH",
+    "animation_url": "https://scapes.punkscape.xyz/#4244",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4244",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4244",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4244",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4244"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4244",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Saturn V"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2065867454
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #9451",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9451",
+    "image": "ipfs://QmRPjqAxga7dHcPQiBNik92K2L3ToKKQWCe4G9jtoGCKdh",
+    "animation_url": "https://scapes.punkscape.xyz/#9451",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9451",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9451",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9451",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9451"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9451",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Europa"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2479899482
+        }
+    ]
+}

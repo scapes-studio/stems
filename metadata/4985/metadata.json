@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #4985",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4985",
+    "image": "ipfs://QmPEHmQM8QDdj64twgy81VLZv5aJH1DEg2qtuHiLWtcCcE",
+    "animation_url": "https://scapes.punkscape.xyz/#4985",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4985",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4985",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4985",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4985"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4985",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Burned Tree"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2363491003
+        }
+    ]
+}

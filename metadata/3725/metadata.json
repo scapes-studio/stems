@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #3725",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3725",
+    "image": "ipfs://Qmf6pT6sCfZqyTPsRicDqN6sjP6a3zHwfC3ttRMYGwdFxV",
+    "animation_url": "https://scapes.punkscape.xyz/#3725",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3725",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3725",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3725",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3725"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3725",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Spacelab"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2233394311
+        }
+    ]
+}

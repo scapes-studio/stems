@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #8971",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8971",
+    "image": "ipfs://QmYc9F25pkcLgRwT5wAQRdQMSr5XzajPCSfeMdr2vN9bcw",
+    "animation_url": "https://scapes.punkscape.xyz/#8971",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8971",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8971",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8971",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8971"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8971",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1911746149
+        }
+    ]
+}

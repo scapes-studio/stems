@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #6898",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6898",
+    "image": "ipfs://QmWWFBYTQLj14hnP4dFTRqa3X1s3xUyCAFoeCXLibqn1pF",
+    "animation_url": "https://scapes.punkscape.xyz/#6898",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6898",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6898",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6898",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6898"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6898",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sedan"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2120565727
+        }
+    ]
+}

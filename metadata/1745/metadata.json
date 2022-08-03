@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #1745",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1745",
+    "image": "ipfs://QmcmkgndJCKDpubEk28QGGJZWrPwXEAkAbjry1JtkiVHd6",
+    "animation_url": "https://scapes.punkscape.xyz/#1745",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1745",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1745",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1745",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1745"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1745",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Big Ben"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2191487037
+        }
+    ]
+}

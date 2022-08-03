@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #8545",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8545",
+    "image": "ipfs://QmeVuYiVb2EV5Mf2iT1RhibzAJMtDBMATGZnZaN5oNQB5P",
+    "animation_url": "https://scapes.punkscape.xyz/#8545",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8545",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8545",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8545",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8545"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8545",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 1"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1829996618
+        }
+    ]
+}

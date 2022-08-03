@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #3611",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3611",
+    "image": "ipfs://QmPdMECZtNh8PRPy7zEYJzLDq413bcQv3fjgbMb4iv18P3",
+    "animation_url": "https://scapes.punkscape.xyz/#3611",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3611",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3611",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3611",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3611"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3611",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Burj"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1945884004
+        }
+    ]
+}

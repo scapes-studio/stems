@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #3700",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3700",
+    "image": "ipfs://Qmb6e4XvHsg3AUKLfJKHjRFDocnnjdyzV7GWuNk3Qgu1vD",
+    "animation_url": "https://scapes.punkscape.xyz/#3700",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3700",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3700",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3700",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3700"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3700",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Saturn V"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2465122656
+        }
+    ]
+}

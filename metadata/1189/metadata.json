@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #1189",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1189",
+    "image": "ipfs://QmXSqujKxy9v8rDvCPa4pUoLEYEuM8nv9N9LBnYYQFZG2p",
+    "animation_url": "https://scapes.punkscape.xyz/#1189",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1189",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1189",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1189",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1189"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1189",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Blocks"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 5"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2285520026
+        }
+    ]
+}

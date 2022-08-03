@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #8629",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8629",
+    "image": "ipfs://QmR2WT1x9hSB2f3GMypxfLc8Lh3xvCK2wioMV8HUj3ZuWv",
+    "animation_url": "https://scapes.punkscape.xyz/#8629",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8629",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8629",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8629",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8629"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8629",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Pillars"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1881329714
+        }
+    ]
+}

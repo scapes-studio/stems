@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #2071",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2071",
+    "image": "ipfs://QmZ6VLyYr43hcpUNFn2refVsiRFQsW6qo893nSG5TWFndg",
+    "animation_url": "https://scapes.punkscape.xyz/#2071",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2071",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2071",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2071",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2071"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2071",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Ether"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Lake"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Island"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Palm"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Pickup"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1853561347
+        }
+    ]
+}

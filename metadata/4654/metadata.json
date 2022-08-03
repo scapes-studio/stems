@@ -1,0 +1,56 @@
+{
+    "name": "PunkScape #4654",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4654",
+    "image": "ipfs://QmcLM6HP8wjgVpdBHsu2cTxsV26Ls9emx3xQSLs8euMffm",
+    "animation_url": "https://scapes.punkscape.xyz/#4654",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4654",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4654",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4654",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4654"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4654",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Golden Sea"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Old House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2336465223
+        }
+    ]
+}

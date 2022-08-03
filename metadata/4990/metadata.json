@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #4990",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4990",
+    "image": "ipfs://QmW77a6PSMuvNZwUshqGVmtHuukk6UWX9jXa47r8gRtF6m",
+    "animation_url": "https://scapes.punkscape.xyz/#4990",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4990",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4990",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4990",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4990"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4990",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Old House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2431172260
+        }
+    ]
+}

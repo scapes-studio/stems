@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #9469",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9469",
+    "image": "ipfs://QmXvMqqbG1ctTK9YBoNR2vbAigNSPBWwbNDa994kS32gWo",
+    "animation_url": "https://scapes.punkscape.xyz/#9469",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9469",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9469",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9469",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9469"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9469",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter and his Moon"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Burj"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1731004989
+        }
+    ]
+}

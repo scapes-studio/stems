@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #7312",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7312",
+    "image": "ipfs://QmVcU2x3S42tUGUwHGaWg2VpYSkCZPHMREZM9b2YDekJoT",
+    "animation_url": "https://scapes.punkscape.xyz/#7312",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7312",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7312",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7312",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7312"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7312",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Burj"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2175962717
+        }
+    ]
+}

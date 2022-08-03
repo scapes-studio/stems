@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #8486",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8486",
+    "image": "ipfs://QmWQjKDV96NyrKRGsWY8aWc59XM74vkstxof7yW3UBcE8m",
+    "animation_url": "https://scapes.punkscape.xyz/#8486",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8486",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8486",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8486",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8486"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8486",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Lake"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1902903064
+        }
+    ]
+}

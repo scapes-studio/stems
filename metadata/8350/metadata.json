@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #8350",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8350",
+    "image": "ipfs://QmVU38c2mbM8c4GGQ4XtEK8VnvheraiEuZa5U1tfGXDkKq",
+    "animation_url": "https://scapes.punkscape.xyz/#8350",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8350",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8350",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8350",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8350"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8350",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 3"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2284695794
+        }
+    ]
+}

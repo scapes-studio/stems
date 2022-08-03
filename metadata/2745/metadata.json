@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #2745",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2745",
+    "image": "ipfs://Qma2weG3YfyQnxhqG2DNaU2rKfDdUWQMiFCgJY2L3NVD8y",
+    "animation_url": "https://scapes.punkscape.xyz/#2745",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2745",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2745",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2745",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2745"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2745",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2169719527
+        }
+    ]
+}

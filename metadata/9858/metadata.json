@@ -1,0 +1,56 @@
+{
+    "name": "PunkScape #9858",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9858",
+    "image": "ipfs://QmfQsm7L4yLG47529P4Dd9evjYpooP19XTkjMmiUp4Wv1y",
+    "animation_url": "https://scapes.punkscape.xyz/#9858",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9858",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9858",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9858",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9858"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9858",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Old Tree"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1940659311
+        }
+    ]
+}

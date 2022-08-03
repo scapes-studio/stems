@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #5382",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5382",
+    "image": "ipfs://QmXvt6kEV5Ehvn5fuaLaoUJzHKV59U3NYEMwpS8D13hW8u",
+    "animation_url": "https://scapes.punkscape.xyz/#5382",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5382",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5382",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5382",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5382"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5382",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Ether"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Shuttle"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1668507291
+        }
+    ]
+}

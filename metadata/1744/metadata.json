@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #1744",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1744",
+    "image": "ipfs://QmZJFD7DbNySmvqHnn9KpN9pXZmpS8WVPuB5nBQBnMkWsP",
+    "animation_url": "https://scapes.punkscape.xyz/#1744",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1744",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1744",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1744",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1744"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1744",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Falling Stars"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "City",
+            "value": "Old Town"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sportscar"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Statue of Liberty"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2403770565
+        }
+    ]
+}

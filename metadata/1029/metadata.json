@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #1029",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1029",
+    "image": "ipfs://QmdSFN51HKnnjTP76mxMv8Jncx29rgSbDvF6YrSarH2paP",
+    "animation_url": "https://scapes.punkscape.xyz/#1029",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1029",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1029",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1029",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1029"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1029",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1685013698
+        }
+    ]
+}

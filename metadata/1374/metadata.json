@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #1374",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1374",
+    "image": "ipfs://QmSwGBRRW2mFq7zJUoN2mo1owG6qYFRf8mNd58mfm3oBnb",
+    "animation_url": "https://scapes.punkscape.xyz/#1374",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1374",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1374",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1374",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1374"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1374",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Soul Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Volcano"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1927961092
+        }
+    ]
+}

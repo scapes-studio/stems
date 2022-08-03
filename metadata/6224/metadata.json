@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #6224",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6224",
+    "image": "ipfs://QmZkRcksj4gBwHixyuDrzYZCkUwRHZD2TesdbPneMMew9Z",
+    "animation_url": "https://scapes.punkscape.xyz/#6224",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6224",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6224",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6224",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6224"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6224",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 1"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2392960008
+        }
+    ]
+}

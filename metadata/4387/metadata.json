@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #4387",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4387",
+    "image": "ipfs://QmY9gF9NpFr6acii1GHSZ4fuWK8vFXe59YQ7Y9DyFZavrK",
+    "animation_url": "https://scapes.punkscape.xyz/#4387",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4387",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4387",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4387",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4387"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4387",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "City",
+            "value": "Old Town"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1870574987
+        }
+    ]
+}

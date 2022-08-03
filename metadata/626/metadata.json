@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #626",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/626",
+    "image": "ipfs://QmXQux22aerW31Sx9GQSET61tEdfxjGaFBk7iEWky5yuPG",
+    "animation_url": "https://scapes.punkscape.xyz/#626",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#626",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#626",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#626",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#626"
+    },
+    "external_url": "https://punkscape.xyz/scapes/626",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1805375192
+        }
+    ]
+}

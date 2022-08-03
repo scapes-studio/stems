@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #670",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/670",
+    "image": "ipfs://QmdB53XjM79ZRHtbFWQrCodFNpnnwyumjibX3ynrAJvTac",
+    "animation_url": "https://scapes.punkscape.xyz/#670",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#670",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#670",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#670",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#670"
+    },
+    "external_url": "https://punkscape.xyz/scapes/670",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 1"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1667466322
+        }
+    ]
+}

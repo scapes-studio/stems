@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #455",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/455",
+    "image": "ipfs://QmR9BKqZWF5Kqb6QAVZCqQ3n2iXzP8xFkUoGya5Yicnx8y",
+    "animation_url": "https://scapes.punkscape.xyz/#455",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#455",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#455",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#455",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#455"
+    },
+    "external_url": "https://punkscape.xyz/scapes/455",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter and his Moon"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Pyramid"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1850120186
+        }
+    ]
+}

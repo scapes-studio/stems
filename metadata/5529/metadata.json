@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #5529",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5529",
+    "image": "ipfs://QmXz6By8jSBajWxPRnXcYQ4PM1VEiKio89CMKhcxbtKzmJ",
+    "animation_url": "https://scapes.punkscape.xyz/#5529",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5529",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5529",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5529",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5529"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5529",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Big Ben"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1794489601
+        }
+    ]
+}

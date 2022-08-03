@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #1562",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1562",
+    "image": "ipfs://QmSnRWqbteez83dEV9rvzhx2c2kyXJX8c2Edmx5DKbmvDF",
+    "animation_url": "https://scapes.punkscape.xyz/#1562",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1562",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1562",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1562",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1562"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1562",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Pyramid"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1933349946
+        }
+    ]
+}

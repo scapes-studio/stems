@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #88",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/88",
+    "image": "ipfs://Qmd6PJ9AeMtGSZ9v3EfB2hey6Ey5AGSgSDcJG66HXuSCQ6",
+    "animation_url": "https://scapes.punkscape.xyz/#88",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#88",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#88",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#88",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#88"
+    },
+    "external_url": "https://punkscape.xyz/scapes/88",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Europa"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Lighthouse"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2306749445
+        }
+    ]
+}

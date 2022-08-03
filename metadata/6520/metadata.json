@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #6520",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6520",
+    "image": "ipfs://Qmb69hBw5hXJBh1qYgfxY7UfmUpQqDWr4kBHxPxqigytpn",
+    "animation_url": "https://scapes.punkscape.xyz/#6520",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6520",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6520",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6520",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6520"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6520",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1893058618
+        }
+    ]
+}

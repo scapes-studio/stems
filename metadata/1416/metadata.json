@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #1416",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1416",
+    "image": "ipfs://QmSqPDZ3K52YqWnGoQKq6V8NQhFm7uqGYCWp7JGJ6p9hKM",
+    "animation_url": "https://scapes.punkscape.xyz/#1416",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1416",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1416",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1416",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1416"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1416",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2210848469
+        }
+    ]
+}

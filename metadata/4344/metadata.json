@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #4344",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4344",
+    "image": "ipfs://QmdwJCmJgRiP8BM4CAiFyuDnRxBJeQVhWM8wvu4YRy8G1y",
+    "animation_url": "https://scapes.punkscape.xyz/#4344",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4344",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4344",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4344",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4344"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4344",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Toxic River"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Island"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 3"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2256752146
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #3476",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3476",
+    "image": "ipfs://QmfWXWpXaJMMAgpAC6qowe7BNDLDAj8btAjg6hhmMjByT6",
+    "animation_url": "https://scapes.punkscape.xyz/#3476",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3476",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3476",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3476",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3476"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3476",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1662267421
+        }
+    ]
+}

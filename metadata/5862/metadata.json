@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #5862",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5862",
+    "image": "ipfs://QmZSWDnN4iaEdxE17NDdkctufs7ZDAakyDsKwCmafErDbM",
+    "animation_url": "https://scapes.punkscape.xyz/#5862",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5862",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5862",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5862",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5862"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5862",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1921490986
+        }
+    ]
+}

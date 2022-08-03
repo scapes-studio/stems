@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #6684",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6684",
+    "image": "ipfs://QmZ2rjt8u1Wo3kYz4xNRfzHyJJURMLGsT8fV22uiyazjru",
+    "animation_url": "https://scapes.punkscape.xyz/#6684",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6684",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6684",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6684",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6684"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6684",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Burned Tree"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2439563687
+        }
+    ]
+}

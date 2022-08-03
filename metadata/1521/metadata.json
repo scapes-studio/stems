@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #1521",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1521",
+    "image": "ipfs://QmcZZRDdxRbtMNoMn41V9mxngMyAAWMBmuv8utj4RxDcVU",
+    "animation_url": "https://scapes.punkscape.xyz/#1521",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1521",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1521",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1521",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1521"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1521",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Palm"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Square Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1845742305
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #6227",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6227",
+    "image": "ipfs://QmQB2TWWow9wW7o8n3ivSPE82iiV63tATUjNtYqFfRjxUv",
+    "animation_url": "https://scapes.punkscape.xyz/#6227",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6227",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6227",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6227",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6227"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6227",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1663764711
+        }
+    ]
+}

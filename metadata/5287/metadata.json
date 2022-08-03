@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #5287",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5287",
+    "image": "ipfs://QmPWXgnCEHtCZnfmAp61HgQWox3rRqV9j2gtus4WNqgwb6",
+    "animation_url": "https://scapes.punkscape.xyz/#5287",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5287",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5287",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5287",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5287"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5287",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Delivery Van"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1891859340
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #9060",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9060",
+    "image": "ipfs://Qmd1u4wejVFRjFL7uisVXxgvE4ZZWp9H78LpzfjBMpWsad",
+    "animation_url": "https://scapes.punkscape.xyz/#9060",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9060",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9060",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9060",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9060"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9060",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter and his Moon"
+        },
+        {
+            "trait_type": "City",
+            "value": "Old Town"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2007829857
+        }
+    ]
+}

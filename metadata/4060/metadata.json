@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #4060",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4060",
+    "image": "ipfs://Qmbu1ShxB18obY7sGdqpiMtkuMkV3aub7XR6jv6xth262q",
+    "animation_url": "https://scapes.punkscape.xyz/#4060",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4060",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4060",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4060",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4060"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4060",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Temple"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2129459055
+        }
+    ]
+}

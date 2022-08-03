@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #9770",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9770",
+    "image": "ipfs://Qmc9jds3cEa4i8KGLXKMimrBimnTWgAF5k8o9c1b1Jvqvk",
+    "animation_url": "https://scapes.punkscape.xyz/#9770",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9770",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9770",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9770",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9770"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9770",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 1"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2405518920
+        }
+    ]
+}

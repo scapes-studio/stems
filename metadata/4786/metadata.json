@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #4786",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4786",
+    "image": "ipfs://QmSdm2EB2WuZJJysR5S1Z5Xjzgzn5MNVo46ttDQviXF62p",
+    "animation_url": "https://scapes.punkscape.xyz/#4786",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4786",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4786",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4786",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4786"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4786",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Old House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1971333368
+        }
+    ]
+}

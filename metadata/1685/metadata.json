@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #1685",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1685",
+    "image": "ipfs://QmWwyLu267adLCduphk7WTejm3i3rYvo35SXo96JM3HGkJ",
+    "animation_url": "https://scapes.punkscape.xyz/#1685",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1685",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1685",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1685",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1685"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1685",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Pyramid"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2347207429
+        }
+    ]
+}

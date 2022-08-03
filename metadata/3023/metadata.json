@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #3023",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3023",
+    "image": "ipfs://QmVM46d2H8zNxQN6PMWCndkVXUF19ysdrAemganT212WtD",
+    "animation_url": "https://scapes.punkscape.xyz/#3023",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3023",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3023",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3023",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3023"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3023",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Oasis"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sedan"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2408882717
+        }
+    ]
+}

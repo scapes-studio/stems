@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #1188",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1188",
+    "image": "ipfs://QmSq82byKLWYF31sph1PmDmfK7h8xzs7ZABJs1ZHJk2riZ",
+    "animation_url": "https://scapes.punkscape.xyz/#1188",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1188",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1188",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1188",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1188"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1188",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Spacelab"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1900838265
+        }
+    ]
+}

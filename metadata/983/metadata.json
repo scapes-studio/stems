@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #983",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/983",
+    "image": "ipfs://QmNUmr9SQFKcghaYPfTts47C6jtYRHCpZH7xsCKJ577pwd",
+    "animation_url": "https://scapes.punkscape.xyz/#983",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#983",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#983",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#983",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#983"
+    },
+    "external_url": "https://punkscape.xyz/scapes/983",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Temple"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1921063017
+        }
+    ]
+}

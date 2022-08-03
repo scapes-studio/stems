@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #1856",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1856",
+    "image": "ipfs://QmQjeKBbrEZuST3wQ6iRUvPQz9QC8AgdPuXR8YwLynFzSd",
+    "animation_url": "https://scapes.punkscape.xyz/#1856",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1856",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1856",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1856",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1856"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1856",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Saturn V"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2360076764
+        }
+    ]
+}

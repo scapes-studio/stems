@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #5083",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5083",
+    "image": "ipfs://QmZJg16pP3Jirk1e2jX43KRLbWDWVigCNP4sB4jzsm9bVy",
+    "animation_url": "https://scapes.punkscape.xyz/#5083",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5083",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5083",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5083",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5083"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5083",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Soul"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter and his Moon"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Island"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Old House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1854372722
+        }
+    ]
+}

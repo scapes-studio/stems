@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #4783",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4783",
+    "image": "ipfs://QmWzFMTk9mk7gkYqH6xYaLwgYfENToKo3xLb7iYefve5MA",
+    "animation_url": "https://scapes.punkscape.xyz/#4783",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4783",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4783",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4783",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4783"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4783",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Statue of Liberty"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2498054867
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #9628",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9628",
+    "image": "ipfs://QmRfCwJnZYHYhkq1ppPPdg3EdiiEvyyGciyrzBVEqkwhP3",
+    "animation_url": "https://scapes.punkscape.xyz/#9628",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9628",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9628",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9628",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9628"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9628",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sedan"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1868872965
+        }
+    ]
+}

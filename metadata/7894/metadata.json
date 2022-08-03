@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #7894",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7894",
+    "image": "ipfs://QmdVCH8gMbV4mUVgRVMEknhr1KbVb1shQiC8oqkppqXd9G",
+    "animation_url": "https://scapes.punkscape.xyz/#7894",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7894",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7894",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7894",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7894"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7894",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Animals",
+            "value": "Unicorn"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1851425011
+        }
+    ]
+}

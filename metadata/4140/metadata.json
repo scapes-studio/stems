@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #4140",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4140",
+    "image": "ipfs://QmYnDa4rjB1QQBgzVK7SnJKZqUoNdoMTEUY4WfJjYdgK8U",
+    "animation_url": "https://scapes.punkscape.xyz/#4140",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4140",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4140",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4140",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4140"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4140",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Golden Sea"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Island"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Windmill"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2180106269
+        }
+    ]
+}

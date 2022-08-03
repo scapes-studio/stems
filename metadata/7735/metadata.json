@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #7735",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7735",
+    "image": "ipfs://QmQ4bKBXL2a7ixsxbAARKhx9Y8Mz48owJHeVJqvVeYFx3h",
+    "animation_url": "https://scapes.punkscape.xyz/#7735",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7735",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7735",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7735",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7735"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7735",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 5"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1671419751
+        }
+    ]
+}

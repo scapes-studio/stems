@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #6099",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6099",
+    "image": "ipfs://QmWvNBAarhXVxwP9UDLt8nj5JBfrZT9WqfhcrpzgdcXza6",
+    "animation_url": "https://scapes.punkscape.xyz/#6099",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6099",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6099",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6099",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6099"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6099",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Falling Stars"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Earths"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2053528387
+        }
+    ]
+}

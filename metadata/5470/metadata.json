@@ -1,0 +1,60 @@
+{
+    "name": "PunkScape #5470",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5470",
+    "image": "ipfs://QmduDvY7puKbph2AFSifZHCXkf4bY149vrzs2FHyMrHfWA",
+    "animation_url": "https://scapes.punkscape.xyz/#5470",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5470",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5470",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5470",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5470"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5470",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Golden Sea"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "trait_type": "Animals",
+            "value": "Fox"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2132159182
+        }
+    ]
+}

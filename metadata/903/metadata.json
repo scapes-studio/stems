@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #903",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/903",
+    "image": "ipfs://QmQQW6ssLv4JA8vdpAAF83gYhAS88fKpVrU5kCGKdr4Cbi",
+    "animation_url": "https://scapes.punkscape.xyz/#903",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#903",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#903",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#903",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#903"
+    },
+    "external_url": "https://punkscape.xyz/scapes/903",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Pickup"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1674190385
+        }
+    ]
+}

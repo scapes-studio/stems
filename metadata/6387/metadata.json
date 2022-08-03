@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #6387",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6387",
+    "image": "ipfs://QmQH8Lu1HUgbbBPaPcSV28EmMCSRBZYYNxH5XQrpjKkdV9",
+    "animation_url": "https://scapes.punkscape.xyz/#6387",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6387",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6387",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6387",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6387"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6387",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 1"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1704118579
+        }
+    ]
+}

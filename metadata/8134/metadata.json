@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #8134",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8134",
+    "image": "ipfs://QmWS8VsFdhiZnTu6AKu6PC3npUyW2KhiHXmi9roTqGAi2L",
+    "animation_url": "https://scapes.punkscape.xyz/#8134",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8134",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8134",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8134",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8134"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8134",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter and his Moon"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2426174079
+        }
+    ]
+}

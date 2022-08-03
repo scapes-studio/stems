@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #5404",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5404",
+    "image": "ipfs://QmRqPZoTdVTHz8d5dvXNDxYsFVHUuvwxxDoQp2tN9kwqF9",
+    "animation_url": "https://scapes.punkscape.xyz/#5404",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5404",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5404",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5404",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5404"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5404",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1933905243
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #8011",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8011",
+    "image": "ipfs://Qma9LKSg5HTe1gexPNrnquMHyVvitZkKc43XULzGv2GbrT",
+    "animation_url": "https://scapes.punkscape.xyz/#8011",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8011",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8011",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8011",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8011"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8011",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Palm"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Windmill"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1936115176
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #8755",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8755",
+    "image": "ipfs://QmXcX3wiaU9ouLP9dBcUWM4F1a5Vpu2NKqW4NWYdYxEbJv",
+    "animation_url": "https://scapes.punkscape.xyz/#8755",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8755",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8755",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8755",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8755"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8755",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Burj"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1983669919
+        }
+    ]
+}

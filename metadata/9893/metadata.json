@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #9893",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9893",
+    "image": "ipfs://QmRXfFHcs6GYivezwT7or7KWfPdKanwXDBXPK7P7esmzhu",
+    "animation_url": "https://scapes.punkscape.xyz/#9893",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9893",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9893",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9893",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9893"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9893",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Windmill"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2158929275
+        }
+    ]
+}

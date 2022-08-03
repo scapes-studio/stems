@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #2459",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2459",
+    "image": "ipfs://QmWFh4tALs69wCcSieVz5Z6okkXerHLmDSKqLUs5oc6D7Y",
+    "animation_url": "https://scapes.punkscape.xyz/#2459",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2459",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2459",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2459",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2459"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2459",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Old House"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Statue of Liberty"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1995825313
+        }
+    ]
+}

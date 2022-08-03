@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #7148",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7148",
+    "image": "ipfs://QmUiwDXjEePx8cY8ChfbdM94n6MmWYA2xbNBqmtf1jMq7e",
+    "animation_url": "https://scapes.punkscape.xyz/#7148",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7148",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7148",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7148",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7148"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7148",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Tiny House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2290172515
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #1978",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1978",
+    "image": "ipfs://QmaWzUjfd2j9hkGkV7A6BiNhT8HCVjXz44kjbiSvrPaBa2",
+    "animation_url": "https://scapes.punkscape.xyz/#1978",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1978",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1978",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1978",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1978"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1978",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2172057078
+        }
+    ]
+}

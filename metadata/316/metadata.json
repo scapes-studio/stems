@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #316",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/316",
+    "image": "ipfs://QmZsAz6Ui7P7JbJzfjGdHD7sorgmq5xEikGzEDRC62twRf",
+    "animation_url": "https://scapes.punkscape.xyz/#316",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#316",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#316",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#316",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#316"
+    },
+    "external_url": "https://punkscape.xyz/scapes/316",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Ether"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1991024938
+        }
+    ]
+}

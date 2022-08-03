@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #822",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/822",
+    "image": "ipfs://QmR7d6xm9GfGNTYk4pVYTwZ6r6BLgW1xn8GjNQeFGwVL8V",
+    "animation_url": "https://scapes.punkscape.xyz/#822",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#822",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#822",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#822",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#822"
+    },
+    "external_url": "https://punkscape.xyz/scapes/822",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Chinese Gate"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1873558282
+        }
+    ]
+}

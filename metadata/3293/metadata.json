@@ -1,0 +1,56 @@
+{
+    "name": "PunkScape #3293",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3293",
+    "image": "ipfs://QmSQf5i5GVYkRvJhU26hwCBTWvxNq8PqxQEQRpPDhN7fAW",
+    "animation_url": "https://scapes.punkscape.xyz/#3293",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3293",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3293",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3293",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3293"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3293",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Blocks"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Lake"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Windmill"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2034648434
+        }
+    ]
+}

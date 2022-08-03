@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #6946",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6946",
+    "image": "ipfs://QmeUfWW5CaobZUd5Dvbt9eCxR4H2WYv3tfL3VojEuNHAU9",
+    "animation_url": "https://scapes.punkscape.xyz/#6946",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6946",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6946",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6946",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6946"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6946",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2441474035
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #5646",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5646",
+    "image": "ipfs://QmQFo3qvmAHDkLdsUp3PBpBJqcobm1ueCEvexxeSb5G7Ft",
+    "animation_url": "https://scapes.punkscape.xyz/#5646",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5646",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5646",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5646",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5646"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5646",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1703770101
+        }
+    ]
+}

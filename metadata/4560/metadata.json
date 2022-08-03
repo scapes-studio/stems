@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #4560",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4560",
+    "image": "ipfs://QmZznNrMwLyWFYiLrvDMiFTxdZgmapKgmwnt4KiCS8sWeT",
+    "animation_url": "https://scapes.punkscape.xyz/#4560",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4560",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4560",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4560",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4560"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4560",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Golden Sea"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2250072190
+        }
+    ]
+}

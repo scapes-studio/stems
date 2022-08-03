@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #9389",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9389",
+    "image": "ipfs://QmY6GcMyncffkvtqJ6ASbmF2njow9m11WvnJPafqv2rbzR",
+    "animation_url": "https://scapes.punkscape.xyz/#9389",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9389",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9389",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9389",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9389"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9389",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2274926586
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #9097",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9097",
+    "image": "ipfs://QmauPgJxKVXtrQbBYfGbzGUY3bY9d1bc8yjrYgLPPbnvAJ",
+    "animation_url": "https://scapes.punkscape.xyz/#9097",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9097",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9097",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9097",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9097"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9097",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sportscar"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1886352014
+        }
+    ]
+}

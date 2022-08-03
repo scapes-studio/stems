@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #6859",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6859",
+    "image": "ipfs://QmVrpv82ypDmicVkmGrHX3KVk8P4xSXmkxhy17B87VDZsc",
+    "animation_url": "https://scapes.punkscape.xyz/#6859",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6859",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6859",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6859",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6859"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6859",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1705592343
+        }
+    ]
+}

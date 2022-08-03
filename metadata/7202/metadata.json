@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #7202",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7202",
+    "image": "ipfs://QmXZybdY3Qp9ebYxiuK3JvfNmvzsSRL6uM4UJoUyznksL7",
+    "animation_url": "https://scapes.punkscape.xyz/#7202",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7202",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7202",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7202",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7202"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7202",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Hut"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1796544005
+        }
+    ]
+}

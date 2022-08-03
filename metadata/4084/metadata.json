@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #4084",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4084",
+    "image": "ipfs://QmXL3oJDQrf57yGZ8h9DpK5cDEFfBkJq4qgtLUnckqhkwu",
+    "animation_url": "https://scapes.punkscape.xyz/#4084",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4084",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4084",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4084",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4084"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4084",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "City",
+            "value": "Old Town"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Chinese Gate"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1798187441
+        }
+    ]
+}

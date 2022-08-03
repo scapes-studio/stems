@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #7916",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7916",
+    "image": "ipfs://QmZeUMVwYvDi9tS8SdG3vi8HYzA2k75AYetMiTWsYxsNFT",
+    "animation_url": "https://scapes.punkscape.xyz/#7916",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7916",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7916",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7916",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7916"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7916",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Old House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2092230487
+        }
+    ]
+}

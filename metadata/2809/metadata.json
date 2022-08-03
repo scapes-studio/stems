@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #2809",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2809",
+    "image": "ipfs://QmPmXtgmP2o5z1VeMRuGVQ6t1tMmyPdStrWZ9KBEuZ7G94",
+    "animation_url": "https://scapes.punkscape.xyz/#2809",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2809",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2809",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2809",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2809"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2809",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2186796780
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #8533",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8533",
+    "image": "ipfs://QmVNDiMtG9VwehC8EA7LSu2rpbgHNRtr7yRtqgx9J7tT1T",
+    "animation_url": "https://scapes.punkscape.xyz/#8533",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8533",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8533",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8533",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8533"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8533",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1750862831
+        }
+    ]
+}

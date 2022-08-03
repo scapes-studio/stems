@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #1168",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1168",
+    "image": "ipfs://QmeUN3hH76bUFT9eXj56W8QZ5nXqE9Luqbufpa4whykeSu",
+    "animation_url": "https://scapes.punkscape.xyz/#1168",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1168",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1168",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1168",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1168"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1168",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "BFR"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sherp"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1705864443
+        }
+    ]
+}

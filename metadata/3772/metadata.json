@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #3772",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3772",
+    "image": "ipfs://Qmf8jgyQw5Et12fy6SoiWYnWXC2Hhv2uB3RTykDQKajcCf",
+    "animation_url": "https://scapes.punkscape.xyz/#3772",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3772",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3772",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3772",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3772"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3772",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Europa"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Tree of Life"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "BFR"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2131616902
+        }
+    ]
+}

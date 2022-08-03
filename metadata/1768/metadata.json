@@ -1,0 +1,56 @@
+{
+    "name": "PunkScape #1768",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1768",
+    "image": "ipfs://Qmc3tQFa2PKeyaAF9ageJJ9GQYWJEEb1gedKH46gkGcNvK",
+    "animation_url": "https://scapes.punkscape.xyz/#1768",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1768",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1768",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1768",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1768"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1768",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Burj"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1876155169
+        }
+    ]
+}

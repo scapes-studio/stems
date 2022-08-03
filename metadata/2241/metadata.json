@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #2241",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2241",
+    "image": "ipfs://QmTsGDzr2KppWkhwH6UBfwtZ1KxEMoUyzATp4AdBm2gb2i",
+    "animation_url": "https://scapes.punkscape.xyz/#2241",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2241",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2241",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2241",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2241"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2241",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Burj"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "BFR"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2070471803
+        }
+    ]
+}

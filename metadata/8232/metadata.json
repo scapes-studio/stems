@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #8232",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8232",
+    "image": "ipfs://QmX2URa67nzWbL2FuX5kDUGhCcxyrEufnoRLVT3vtuvsyV",
+    "animation_url": "https://scapes.punkscape.xyz/#8232",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8232",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8232",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8232",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8232"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8232",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sportscar"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2036126228
+        }
+    ]
+}

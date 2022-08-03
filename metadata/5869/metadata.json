@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #5869",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5869",
+    "image": "ipfs://QmP49eQWFcn9fJcy8CEZ2iFGfHCWQBF1MY6bQpJWgt7Zbb",
+    "animation_url": "https://scapes.punkscape.xyz/#5869",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5869",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5869",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5869",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5869"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5869",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Toxic River"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Square Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1986865537
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #3956",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3956",
+    "image": "ipfs://QmdKvNkoWDoert2D88Dr5WA2eETLe1eahg27pDwEbB7vTg",
+    "animation_url": "https://scapes.punkscape.xyz/#3956",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3956",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3956",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3956",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3956"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3956",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Tiny House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2366534814
+        }
+    ]
+}

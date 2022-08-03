@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #3206",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3206",
+    "image": "ipfs://QmSdDFtfciXsA7meB64q6uqw73G1b6F7wDiYWWkyX2xzCT",
+    "animation_url": "https://scapes.punkscape.xyz/#3206",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3206",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3206",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3206",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3206"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3206",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sedan"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1783313722
+        }
+    ]
+}

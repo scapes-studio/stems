@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #5991",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5991",
+    "image": "ipfs://QmSYZdDPg2gspZ4NX5jtfqTbidsgZLtye9p45h6QTnEAxs",
+    "animation_url": "https://scapes.punkscape.xyz/#5991",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5991",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5991",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5991",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5991"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5991",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Statue of Liberty"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2335763074
+        }
+    ]
+}

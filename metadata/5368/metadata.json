@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #5368",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5368",
+    "image": "ipfs://QmZCjgXZobK1PVjiWGFQ2idAmS1NVFrM9cY7ZWCD5Daf1s",
+    "animation_url": "https://scapes.punkscape.xyz/#5368",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5368",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5368",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5368",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5368"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5368",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Oasis"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1686138834
+        }
+    ]
+}

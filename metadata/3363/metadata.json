@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #3363",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3363",
+    "image": "ipfs://QmZomXCdu57D3rmvVxYi8YewvYnFM8mXZ2tCxA4AY2FJJC",
+    "animation_url": "https://scapes.punkscape.xyz/#3363",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3363",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3363",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3363",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3363"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3363",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Europa"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Old Tree"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Lighthouse"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1666241217
+        }
+    ]
+}

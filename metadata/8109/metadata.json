@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #8109",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8109",
+    "image": "ipfs://Qme5y2VtusENQU3ZCdaC5TKnArUU4iC92RMqLthYDRx276",
+    "animation_url": "https://scapes.punkscape.xyz/#8109",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8109",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8109",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8109",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8109"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8109",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "City",
+            "value": "Old Town"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 3"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2274184992
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #9294",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9294",
+    "image": "ipfs://QmTXHHAyBC6XFtp3DfojRRMJrtMeGKFywbWa7u7MJEp9XD",
+    "animation_url": "https://scapes.punkscape.xyz/#9294",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9294",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9294",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9294",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9294"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9294",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2472389476
+        }
+    ]
+}

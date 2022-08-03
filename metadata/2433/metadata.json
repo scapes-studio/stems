@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #2433",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2433",
+    "image": "ipfs://QmYZTLsZzquCVia1WmXpparHFKzp8xdr6vumepWcyr1k6U",
+    "animation_url": "https://scapes.punkscape.xyz/#2433",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2433",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2433",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2433",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2433"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2433",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mini House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1935746959
+        }
+    ]
+}

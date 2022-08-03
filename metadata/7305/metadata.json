@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #7305",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7305",
+    "image": "ipfs://Qmc5GZ4GiPg5LCmSnJ7m9Tf1mXcD1CcE8CGp6QoWDXAYAZ",
+    "animation_url": "https://scapes.punkscape.xyz/#7305",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7305",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7305",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7305",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7305"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7305",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1756234440
+        }
+    ]
+}

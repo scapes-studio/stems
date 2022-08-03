@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #7118",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7118",
+    "image": "ipfs://QmdL3QP4VE5JFiP67wYsBp5GBTRWBUDNrvqMgzZhVHmEFx",
+    "animation_url": "https://scapes.punkscape.xyz/#7118",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7118",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7118",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7118",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7118"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7118",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Volcano"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Tiny House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2171014418
+        }
+    ]
+}

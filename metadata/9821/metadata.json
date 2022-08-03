@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #9821",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9821",
+    "image": "ipfs://QmazJohHAhravpviTYtPrCY1AWD7gp83iA8F17yLMHhq9w",
+    "animation_url": "https://scapes.punkscape.xyz/#9821",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9821",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9821",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9821",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9821"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9821",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mini House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2226745593
+        }
+    ]
+}

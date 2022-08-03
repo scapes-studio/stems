@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #6107",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6107",
+    "image": "ipfs://QmUhD5Enk1g3C7nTy5FLj9hrm8HiqbPnybj4EkGnLtawrZ",
+    "animation_url": "https://scapes.punkscape.xyz/#6107",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6107",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6107",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6107",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6107"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6107",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Beams"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 3"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2500313191
+        }
+    ]
+}

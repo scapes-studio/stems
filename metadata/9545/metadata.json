@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #9545",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9545",
+    "image": "ipfs://QmQre2Au27o8biKTQ72Efo4t4siqWWTzRGUpG843Xg4rpG",
+    "animation_url": "https://scapes.punkscape.xyz/#9545",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9545",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9545",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9545",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9545"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9545",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Police Car"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1692300102
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #6232",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6232",
+    "image": "ipfs://QmaAGMEUfTJXKboZJQL6d1f1qpiUDGCvW2oujd7BH7prrq",
+    "animation_url": "https://scapes.punkscape.xyz/#6232",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6232",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6232",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6232",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6232"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6232",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Beams"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2390210686
+        }
+    ]
+}

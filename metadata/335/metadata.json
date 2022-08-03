@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #335",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/335",
+    "image": "ipfs://Qma5QszB31Ua8QygAvYrCBiDt5UoEgxg5mpQC5c2QipKZ5",
+    "animation_url": "https://scapes.punkscape.xyz/#335",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#335",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#335",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#335",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#335"
+    },
+    "external_url": "https://punkscape.xyz/scapes/335",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Lighthouse"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2035981225
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #9932",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9932",
+    "image": "ipfs://QmRbZgSSRHgyi3ASpCN2VFqLTi8CNMFiRSxxpK4xiu7HV6",
+    "animation_url": "https://scapes.punkscape.xyz/#9932",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9932",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9932",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9932",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9932"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9932",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Toxic River"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1894853386
+        }
+    ]
+}

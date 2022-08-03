@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #2914",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2914",
+    "image": "ipfs://QmPoskiQJSR89WL8DXkYJKFmYC28SR5mua7aAd73QuYvoE",
+    "animation_url": "https://scapes.punkscape.xyz/#2914",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2914",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2914",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2914",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2914"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2914",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Burj"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1948019209
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #2503",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2503",
+    "image": "ipfs://QmZDHvRucKNBomtByquAAoPm1CcJwji7xuAn6byBzcKvc6",
+    "animation_url": "https://scapes.punkscape.xyz/#2503",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2503",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2503",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2503",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2503"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2503",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Old House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2337671695
+        }
+    ]
+}

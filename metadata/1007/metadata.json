@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #1007",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1007",
+    "image": "ipfs://QmYuF521ocL1oR5RpMiAdhix9BZ6VBJ5bh9B7V58UEZEXV",
+    "animation_url": "https://scapes.punkscape.xyz/#1007",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1007",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1007",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1007",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1007"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1007",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sedan"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2109319494
+        }
+    ]
+}

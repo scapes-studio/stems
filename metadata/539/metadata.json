@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #539",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/539",
+    "image": "ipfs://QmSB5wbnC4bhM32gBHSVcK6qL5gMM9k617s7kVfkrK9nb1",
+    "animation_url": "https://scapes.punkscape.xyz/#539",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#539",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#539",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#539",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#539"
+    },
+    "external_url": "https://punkscape.xyz/scapes/539",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Falling Stars"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Tiny House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2490354066
+        }
+    ]
+}

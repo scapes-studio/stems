@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #403",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/403",
+    "image": "ipfs://Qmb7xUzQtQcVcuKrBCzRox4HSbt9PTLgtzedFgYgPmDKgo",
+    "animation_url": "https://scapes.punkscape.xyz/#403",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#403",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#403",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#403",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#403"
+    },
+    "external_url": "https://punkscape.xyz/scapes/403",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Lighthouse"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1716984929
+        }
+    ]
+}

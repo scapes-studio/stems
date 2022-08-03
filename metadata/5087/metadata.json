@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #5087",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5087",
+    "image": "ipfs://QmSrK3PQvaKu9BVXZAuCUJoffZyiarhAT8YzMX7MULwY4z",
+    "animation_url": "https://scapes.punkscape.xyz/#5087",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5087",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5087",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5087",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5087"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5087",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2048698315
+        }
+    ]
+}

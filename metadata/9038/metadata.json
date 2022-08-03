@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #9038",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9038",
+    "image": "ipfs://QmRb3GksXSWZ29aY4fPViJ1pEEL5Dkkk5HpGAt5Z91JS14",
+    "animation_url": "https://scapes.punkscape.xyz/#9038",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9038",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9038",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9038",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9038"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9038",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Toxic River"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Island"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Big Ben"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2251280015
+        }
+    ]
+}

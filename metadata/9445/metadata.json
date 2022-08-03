@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #9445",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9445",
+    "image": "ipfs://QmShuM2f48Qc5aHPTYGCW9j1EFCSDQxRaKVb7M9hBR1obd",
+    "animation_url": "https://scapes.punkscape.xyz/#9445",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9445",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9445",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9445",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9445"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9445",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Europa"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1875211092
+        }
+    ]
+}

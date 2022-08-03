@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #3758",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3758",
+    "image": "ipfs://QmUTmjuVRcFkU1jxVz6VHFXturqqyAS9odGsSp2tgsUWVY",
+    "animation_url": "https://scapes.punkscape.xyz/#3758",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3758",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3758",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3758",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3758"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3758",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Statue of Liberty"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1812039420
+        }
+    ]
+}

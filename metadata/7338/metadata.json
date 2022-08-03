@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #7338",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7338",
+    "image": "ipfs://QmNWwEKucJpD2pmdPeyHQAfSaEa8BZNXFQ7ihJTjseR3MB",
+    "animation_url": "https://scapes.punkscape.xyz/#7338",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7338",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7338",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7338",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7338"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7338",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2311520957
+        }
+    ]
+}

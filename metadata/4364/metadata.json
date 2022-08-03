@@ -1,0 +1,56 @@
+{
+    "name": "PunkScape #4364",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4364",
+    "image": "ipfs://QmWh6toURkWRGV5B5L38Ncfgy7z2yeJVsASmMHTVccfPMU",
+    "animation_url": "https://scapes.punkscape.xyz/#4364",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4364",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4364",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4364",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4364"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4364",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Soul"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2315809387
+        }
+    ]
+}

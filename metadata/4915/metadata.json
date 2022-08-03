@@ -1,0 +1,56 @@
+{
+    "name": "PunkScape #4915",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4915",
+    "image": "ipfs://QmWYqfAq8y3FHG4PCBbCRnuYE5HDvtmJAVX3bzXBwkYd9p",
+    "animation_url": "https://scapes.punkscape.xyz/#4915",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4915",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4915",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4915",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4915"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4915",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin and Ethereum"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2356360930
+        }
+    ]
+}

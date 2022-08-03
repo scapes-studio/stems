@@ -1,0 +1,28 @@
+{
+    "name": "PunkScape #6529",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6529",
+    "image": "ipfs://QmSCyC9usvwoabUzce1dxAHB4Vztb9t88b7rggeWehKwV5",
+    "animation_url": "https://scapes.punkscape.xyz/#6529",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6529",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6529",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6529",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6529"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6529",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2115097521
+        }
+    ]
+}

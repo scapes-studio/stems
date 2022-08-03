@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #5367",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5367",
+    "image": "ipfs://QmZWo2NKscSC7xH2xFu11kfZN7FgMMvs7kSQtt4eiLgDGS",
+    "animation_url": "https://scapes.punkscape.xyz/#5367",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5367",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5367",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5367",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5367"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5367",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2049706010
+        }
+    ]
+}

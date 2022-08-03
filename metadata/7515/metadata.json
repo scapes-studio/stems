@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #7515",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7515",
+    "image": "ipfs://QmaCTZoNZeJqsTEPqhuvy7aVL61aV2vB8kyCjxFNdLwazD",
+    "animation_url": "https://scapes.punkscape.xyz/#7515",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7515",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7515",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7515",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7515"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7515",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2016535878
+        }
+    ]
+}

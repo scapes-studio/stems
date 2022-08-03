@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #3428",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3428",
+    "image": "ipfs://QmS4YwWbz2wCn8h2vDLzJtPt8mVBapit2Quz23MTHNgXBC",
+    "animation_url": "https://scapes.punkscape.xyz/#3428",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3428",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3428",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3428",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3428"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3428",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Colosseum"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2286642972
+        }
+    ]
+}

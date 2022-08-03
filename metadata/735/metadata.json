@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #735",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/735",
+    "image": "ipfs://Qmbz8iVmkhnHZRPZTe1vh3dqaPZCkv8sHtMdYGKt2D1hYK",
+    "animation_url": "https://scapes.punkscape.xyz/#735",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#735",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#735",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#735",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#735"
+    },
+    "external_url": "https://punkscape.xyz/scapes/735",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2253860154
+        }
+    ]
+}

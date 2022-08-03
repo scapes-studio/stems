@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #804",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/804",
+    "image": "ipfs://QmQ55p66gdoeHGL9JtuGGftVQyMXKp4CwthjopGb8g2L5B",
+    "animation_url": "https://scapes.punkscape.xyz/#804",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#804",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#804",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#804",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#804"
+    },
+    "external_url": "https://punkscape.xyz/scapes/804",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Soul Meteors"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Delivery Van"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1661166038
+        }
+    ]
+}

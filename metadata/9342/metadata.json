@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #9342",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9342",
+    "image": "ipfs://Qma25DHiv7xq1ApU69i8bvZzhDfobi9xC8oonVQE93xTzT",
+    "animation_url": "https://scapes.punkscape.xyz/#9342",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9342",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9342",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9342",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9342"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9342",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2241008109
+        }
+    ]
+}

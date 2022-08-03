@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #2646",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2646",
+    "image": "ipfs://QmdwoQuo1KFHAwnpxWVTWHNwNTFhgi4Mhs2LXSXbGtkihC",
+    "animation_url": "https://scapes.punkscape.xyz/#2646",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2646",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2646",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2646",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2646"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2646",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1928286120
+        }
+    ]
+}

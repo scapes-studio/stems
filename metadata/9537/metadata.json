@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #9537",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9537",
+    "image": "ipfs://QmZnjctWCRtSwukMnrs9wdJghpbfB86dKTZbozwhz64SVm",
+    "animation_url": "https://scapes.punkscape.xyz/#9537",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9537",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9537",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9537",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9537"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9537",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Animals",
+            "value": "Fox"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2331575725
+        }
+    ]
+}

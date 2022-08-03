@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #9244",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9244",
+    "image": "ipfs://QmV3urPBHf4zx9vFcV6TxDcSGrga5X5AdwVGe3Wko6TX2V",
+    "animation_url": "https://scapes.punkscape.xyz/#9244",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9244",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9244",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9244",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9244"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9244",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Toxic River"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Beach"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2414581138
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #9773",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9773",
+    "image": "ipfs://Qmaap64LYcpHo9g7p62aLN21GSmG7qJjnCLiqHXydKAkCe",
+    "animation_url": "https://scapes.punkscape.xyz/#9773",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9773",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9773",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9773",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9773"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9773",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1938137949
+        }
+    ]
+}

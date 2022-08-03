@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #6903",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6903",
+    "image": "ipfs://QmSdW8sYD5midN8t4srmkHpoFgSpHvdq4wmMdsUWUhJQ55",
+    "animation_url": "https://scapes.punkscape.xyz/#6903",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6903",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6903",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6903",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6903"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6903",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter and his Moon"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sedan"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1764502988
+        }
+    ]
+}

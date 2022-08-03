@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #9819",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9819",
+    "image": "ipfs://QmcADiUC9rUJ4DdR4X2PfWdyqGpCLepJn5e54tC9Wd7o5E",
+    "animation_url": "https://scapes.punkscape.xyz/#9819",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9819",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9819",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9819",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9819"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9819",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Soul Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1968606517
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #5992",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5992",
+    "image": "ipfs://QmdvjHkcC3gNkFJJ74fXEGP9rzFdiNv9JYfXVFqiPikqRH",
+    "animation_url": "https://scapes.punkscape.xyz/#5992",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5992",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5992",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5992",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5992"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5992",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1647876914
+        }
+    ]
+}

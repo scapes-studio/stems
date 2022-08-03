@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #7779",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7779",
+    "image": "ipfs://QmYSDkicf9ZgoZV2hLMru8GAoD8nzm18gweFw9yUMwUqvW",
+    "animation_url": "https://scapes.punkscape.xyz/#7779",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7779",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7779",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7779",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7779"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7779",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1646214173
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #9232",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9232",
+    "image": "ipfs://QmRLHzkF55ygZ6L2BdkC9WFedTRMNTX6eReEgdooQVk4BW",
+    "animation_url": "https://scapes.punkscape.xyz/#9232",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9232",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9232",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9232",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9232"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9232",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2466594577
+        }
+    ]
+}

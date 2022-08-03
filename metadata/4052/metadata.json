@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #4052",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4052",
+    "image": "ipfs://QmZPGjxrcVW4LArqJRf5sg11aAGTYHTSR1H7LQJkniVNwj",
+    "animation_url": "https://scapes.punkscape.xyz/#4052",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4052",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4052",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4052",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4052"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4052",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Big Ben"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2037469874
+        }
+    ]
+}

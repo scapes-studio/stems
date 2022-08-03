@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #8693",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8693",
+    "image": "ipfs://QmP8zhq2ucnuV4cvrV2LzidCvapycvJnyKefhgDDUJLVTV",
+    "animation_url": "https://scapes.punkscape.xyz/#8693",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8693",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8693",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8693",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8693"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8693",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Statue of Liberty"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1940574193
+        }
+    ]
+}

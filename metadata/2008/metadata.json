@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #2008",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2008",
+    "image": "ipfs://Qma6JrsioBhf5Coxnbt6suZPazirPr1Bj5B437q2ejMASk",
+    "animation_url": "https://scapes.punkscape.xyz/#2008",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2008",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2008",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2008",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2008"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2008",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Evening Clouds"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2144379675
+        }
+    ]
+}

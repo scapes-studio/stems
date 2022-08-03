@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #7837",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7837",
+    "image": "ipfs://QmeUhn2MxSru2d4HBHLoMdVvck5p51ekJHd2puup8aXtfg",
+    "animation_url": "https://scapes.punkscape.xyz/#7837",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7837",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7837",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7837",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7837"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7837",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Island"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1858852893
+        }
+    ]
+}

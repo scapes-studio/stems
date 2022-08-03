@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #453",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/453",
+    "image": "ipfs://QmNtLdbSMxCGGrR4gZJAhdrGkazPhxvvn1Vd1DfXESCKUo",
+    "animation_url": "https://scapes.punkscape.xyz/#453",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#453",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#453",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#453",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#453"
+    },
+    "external_url": "https://punkscape.xyz/scapes/453",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Falling Stars"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Hut"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1749533400
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #6690",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6690",
+    "image": "ipfs://QmSbbMmYeDzLe8sqHGXwKSoiAjeSeBcHmwqPDMtxR4VW6C",
+    "animation_url": "https://scapes.punkscape.xyz/#6690",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6690",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6690",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6690",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6690"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6690",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2092495959
+        }
+    ]
+}

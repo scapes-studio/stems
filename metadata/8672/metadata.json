@@ -1,0 +1,56 @@
+{
+    "name": "PunkScape #8672",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8672",
+    "image": "ipfs://QmaNsy5k89Q5vnwEd6QUzWgfHeKHuEFmmAbvbKpB4fcuEh",
+    "animation_url": "https://scapes.punkscape.xyz/#8672",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8672",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8672",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8672",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8672"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8672",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "BFR"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2235529018
+        }
+    ]
+}

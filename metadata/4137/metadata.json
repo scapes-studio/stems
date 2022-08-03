@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #4137",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4137",
+    "image": "ipfs://QmTbszWVSsQ4ycWHFL4sRWLeVVjkG5mqwaRSo3vDF6CSBD",
+    "animation_url": "https://scapes.punkscape.xyz/#4137",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4137",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4137",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4137",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4137"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4137",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "UFO"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2158772610
+        }
+    ]
+}

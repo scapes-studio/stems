@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #3968",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3968",
+    "image": "ipfs://QmVMn9ibcnguKXqVcGxP4kPcThwzNuyarYo8K3DzmsPCm9",
+    "animation_url": "https://scapes.punkscape.xyz/#3968",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3968",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3968",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3968",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3968"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3968",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2382615872
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #812",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/812",
+    "image": "ipfs://QmcYfCKjA5L64ZpqyRqU78GVnTarXjyRaswi4k5Md8ro5Y",
+    "animation_url": "https://scapes.punkscape.xyz/#812",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#812",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#812",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#812",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#812"
+    },
+    "external_url": "https://punkscape.xyz/scapes/812",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Falling Stars"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2171623841
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #2371",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2371",
+    "image": "ipfs://QmbLgCivZe93Hb7kcotqpkgCYFKmhPkGJ2k6BjrziTYywB",
+    "animation_url": "https://scapes.punkscape.xyz/#2371",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2371",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2371",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2371",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2371"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2371",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Europa"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sportscar"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1907672157
+        }
+    ]
+}

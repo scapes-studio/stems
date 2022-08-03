@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #8641",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8641",
+    "image": "ipfs://QmeJhBghesN7vthG7Q41YP3nDPrqXVov8EFRhHwUtqEvRC",
+    "animation_url": "https://scapes.punkscape.xyz/#8641",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8641",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8641",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8641",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8641"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8641",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Falling Stars"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1910664473
+        }
+    ]
+}

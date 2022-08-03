@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #4429",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4429",
+    "image": "ipfs://QmUSLFVXTysV5KWWQLKmn5jJErMNzwh3hbBc5mNfgaTQ5F",
+    "animation_url": "https://scapes.punkscape.xyz/#4429",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4429",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4429",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4429",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4429"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4429",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Europa"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Statue of Liberty"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "BFR"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2042169591
+        }
+    ]
+}

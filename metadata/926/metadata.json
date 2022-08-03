@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #926",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/926",
+    "image": "ipfs://QmU93mKSQMUvtvWj2Vu8PvEpniNYaoHmSDEsYwYqDJ1fZD",
+    "animation_url": "https://scapes.punkscape.xyz/#926",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#926",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#926",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#926",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#926"
+    },
+    "external_url": "https://punkscape.xyz/scapes/926",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1770982905
+        }
+    ]
+}

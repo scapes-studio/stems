@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #8388",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8388",
+    "image": "ipfs://QmNbPmaez89iGSs8jtN3vxKnr9rpSBBd8Dq96aa5hu1JzE",
+    "animation_url": "https://scapes.punkscape.xyz/#8388",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8388",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8388",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8388",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8388"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8388",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Chinese Gate"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1747160989
+        }
+    ]
+}

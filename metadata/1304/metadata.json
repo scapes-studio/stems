@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #1304",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1304",
+    "image": "ipfs://QmYLnaPWNZb5QxZSYqCb4ytygYWmxRAawBKtCgFr8GZ4Bm",
+    "animation_url": "https://scapes.punkscape.xyz/#1304",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1304",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1304",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1304",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1304"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1304",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Temple"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1773512948
+        }
+    ]
+}

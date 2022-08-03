@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #6329",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6329",
+    "image": "ipfs://QmQUUzoQDd1VQd6Rbs4e6tEiEjujGAZqKhEKGMEyMpygai",
+    "animation_url": "https://scapes.punkscape.xyz/#6329",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6329",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6329",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6329",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6329"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6329",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Volcano"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Pickup"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2384609592
+        }
+    ]
+}

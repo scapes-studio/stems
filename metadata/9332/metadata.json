@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #9332",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9332",
+    "image": "ipfs://QmWKDnbCtJ9TQSyrVxFdjNVKiLPj9Y3TewrJ67Te4npYA2",
+    "animation_url": "https://scapes.punkscape.xyz/#9332",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9332",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9332",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9332",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9332"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9332",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Old House"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1761387391
+        }
+    ]
+}

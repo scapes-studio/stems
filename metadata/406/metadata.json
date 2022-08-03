@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #406",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/406",
+    "image": "ipfs://QmYGNU4QChRm4qPQ7wYxHCqUehobyjjQLGUHEGcqrAPaAL",
+    "animation_url": "https://scapes.punkscape.xyz/#406",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#406",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#406",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#406",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#406"
+    },
+    "external_url": "https://punkscape.xyz/scapes/406",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Volcano"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sherp"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2267607389
+        }
+    ]
+}

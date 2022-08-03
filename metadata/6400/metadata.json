@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #6400",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6400",
+    "image": "ipfs://QmTJkPBFAKEJQ6xPTQKqgR4hoHL2rWWWLMEJMxW5sMpkNw",
+    "animation_url": "https://scapes.punkscape.xyz/#6400",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6400",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6400",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6400",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6400"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6400",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Saturn V"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2406952604
+        }
+    ]
+}

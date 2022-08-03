@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #2560",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2560",
+    "image": "ipfs://QmbDjxKqKryXrik18wKZPhDg1Eq678SAafvurPXVwecDVP",
+    "animation_url": "https://scapes.punkscape.xyz/#2560",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2560",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2560",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2560",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2560"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2560",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2271988933
+        }
+    ]
+}

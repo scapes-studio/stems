@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #7485",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7485",
+    "image": "ipfs://QmSY4rfDU49kZQega7rarq6aMCna2tav1dLtmWET81AZew",
+    "animation_url": "https://scapes.punkscape.xyz/#7485",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7485",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7485",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7485",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7485"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7485",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "City",
+            "value": "Old Town"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Windmill"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1739383245
+        }
+    ]
+}

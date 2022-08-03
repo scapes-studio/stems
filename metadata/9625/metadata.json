@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #9625",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9625",
+    "image": "ipfs://QmPwSRepqsxcRXNEjCsjDS7o3MDhha9cDDP1CCDsMJrfsL",
+    "animation_url": "https://scapes.punkscape.xyz/#9625",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9625",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9625",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9625",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9625"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9625",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Lake"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1885488851
+        }
+    ]
+}

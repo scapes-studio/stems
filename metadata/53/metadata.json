@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #53",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/53",
+    "image": "ipfs://QmPXX6ZYP4jQU3MwyT9zUJV6Sv7isaBCMYtBQAoySragWg",
+    "animation_url": "https://scapes.punkscape.xyz/#53",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#53",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#53",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#53",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#53"
+    },
+    "external_url": "https://punkscape.xyz/scapes/53",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Lighthouse"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2114006790
+        }
+    ]
+}

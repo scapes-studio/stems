@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #4694",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4694",
+    "image": "ipfs://QmXVg68Pv2B7s6rBUoXxJvyDoVa6ru39Ux6jE9ZxDvRDzD",
+    "animation_url": "https://scapes.punkscape.xyz/#4694",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4694",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4694",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4694",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4694"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4694",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Burned Tree"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1943182564
+        }
+    ]
+}

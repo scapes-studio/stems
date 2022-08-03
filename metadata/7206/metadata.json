@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #7206",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7206",
+    "image": "ipfs://Qmb2YG75NVHYnc1oYnKgzZS2JzB7BA8bSYhsnCT18Kg2xF",
+    "animation_url": "https://scapes.punkscape.xyz/#7206",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7206",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7206",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7206",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7206"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7206",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Old Tree"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Hut"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2364320734
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #250",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/250",
+    "image": "ipfs://QmZmSFcvbQY1rKbRXxJZSiHaek6CA1z9xBeqLxD7PpuKA5",
+    "animation_url": "https://scapes.punkscape.xyz/#250",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#250",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#250",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#250",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#250"
+    },
+    "external_url": "https://punkscape.xyz/scapes/250",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Lighthouse"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2001226815
+        }
+    ]
+}

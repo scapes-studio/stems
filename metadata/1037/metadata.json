@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #1037",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1037",
+    "image": "ipfs://QmZYtJY3aQdWwsxggSJrbdUTXvDJ3nb2kHBf3axexXP4X8",
+    "animation_url": "https://scapes.punkscape.xyz/#1037",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1037",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1037",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1037",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1037"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1037",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Ethereum"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2356191393
+        }
+    ]
+}

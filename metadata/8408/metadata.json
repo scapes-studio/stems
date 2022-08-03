@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #8408",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8408",
+    "image": "ipfs://QmPQ7Ybz5j9pDJKfmpz1yw2fie62ZzUX96sBXHaVeMXRp9",
+    "animation_url": "https://scapes.punkscape.xyz/#8408",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8408",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8408",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8408",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8408"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8408",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Golden Sea"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Beach"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 4"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "BFR"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2364031324
+        }
+    ]
+}

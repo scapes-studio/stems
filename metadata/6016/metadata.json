@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #6016",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6016",
+    "image": "ipfs://QmPFPct7JptFeo6AmS4nhm2iPFYGakhTWgjJutz9wd9b1X",
+    "animation_url": "https://scapes.punkscape.xyz/#6016",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6016",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6016",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6016",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6016"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6016",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Block Tree"
+        },
+        {
+            "trait_type": "Animals",
+            "value": "Fox"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2289638856
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #760",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/760",
+    "image": "ipfs://QmR4nWkA7iiiRYyU5cJF3Byd68D1zS2uoN6nkgURMJzyPL",
+    "animation_url": "https://scapes.punkscape.xyz/#760",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#760",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#760",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#760",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#760"
+    },
+    "external_url": "https://punkscape.xyz/scapes/760",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2156592610
+        }
+    ]
+}

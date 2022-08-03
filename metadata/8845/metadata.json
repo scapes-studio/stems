@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #8845",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8845",
+    "image": "ipfs://QmadLyrKUyWafysQsa5V112hQuoNT32QcFCpPMKzunieWs",
+    "animation_url": "https://scapes.punkscape.xyz/#8845",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8845",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8845",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8845",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8845"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8845",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sportscar"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2238415907
+        }
+    ]
+}

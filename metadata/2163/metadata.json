@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #2163",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2163",
+    "image": "ipfs://Qmf6hxVyvfDnALeuq3o4eEHvMjpTZRkFsBbpHb8Hi8whHp",
+    "animation_url": "https://scapes.punkscape.xyz/#2163",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2163",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2163",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2163",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2163"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2163",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sportscar"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1968081151
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #4607",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4607",
+    "image": "ipfs://QmcH5mwEnNw5UPhFWcEW7P7nXhBRZemckPkbe6B6skrwK2",
+    "animation_url": "https://scapes.punkscape.xyz/#4607",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4607",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4607",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4607",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4607"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4607",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Burned Tree"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1787057256
+        }
+    ]
+}

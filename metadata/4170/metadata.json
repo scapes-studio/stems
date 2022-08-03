@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #4170",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4170",
+    "image": "ipfs://QmSAxz9LxkRwsNv3G4TFK4dve3tpHP3GZEV1hZruazwvMV",
+    "animation_url": "https://scapes.punkscape.xyz/#4170",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4170",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4170",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4170",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4170"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4170",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Windmill"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Saturn V"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1660474892
+        }
+    ]
+}

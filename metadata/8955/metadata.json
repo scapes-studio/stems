@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #8955",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8955",
+    "image": "ipfs://QmVVKVjNeLRQponPZA6MrpSGAskeQb7VN5tLm5hjH5FSoc",
+    "animation_url": "https://scapes.punkscape.xyz/#8955",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8955",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8955",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8955",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8955"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8955",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 4"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Saturn V"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2013303655
+        }
+    ]
+}

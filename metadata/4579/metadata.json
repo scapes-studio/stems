@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #4579",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4579",
+    "image": "ipfs://QmevpR5gMQYcrL5MgUWTb9daFqyKE4PgKjpHnX6CKpnT6W",
+    "animation_url": "https://scapes.punkscape.xyz/#4579",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4579",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4579",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4579",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4579"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4579",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Toxic River"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2291209510
+        }
+    ]
+}

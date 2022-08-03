@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #5372",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5372",
+    "image": "ipfs://QmZ3ad3rjyNs9FYUvWnHxyDkUqACyvwVCPw1DC8QWAhX2q",
+    "animation_url": "https://scapes.punkscape.xyz/#5372",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5372",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5372",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5372",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5372"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5372",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Burj"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2045762584
+        }
+    ]
+}

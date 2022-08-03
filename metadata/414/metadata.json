@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #414",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/414",
+    "image": "ipfs://QmZL6fWnXQYotpxnXrvdnGnsgSiCMsyV45YoDQoXrkxxNG",
+    "animation_url": "https://scapes.punkscape.xyz/#414",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#414",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#414",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#414",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#414"
+    },
+    "external_url": "https://punkscape.xyz/scapes/414",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Statue of Liberty"
+        },
+        {
+            "trait_type": "Animals",
+            "value": "Unicorn"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2168602284
+        }
+    ]
+}

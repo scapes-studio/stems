@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #6649",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6649",
+    "image": "ipfs://QmY4X87T9p8vtLGMBJ56BMAn3J7LguFNPmGiV7y6n82Fm7",
+    "animation_url": "https://scapes.punkscape.xyz/#6649",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6649",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6649",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6649",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6649"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6649",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Golden Sea"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1919342822
+        }
+    ]
+}

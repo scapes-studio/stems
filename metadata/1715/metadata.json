@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #1715",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1715",
+    "image": "ipfs://QmcuT28pFgxE5JwbDsrWNXB4Zcvq2ayTHcmF7hyhSghEdJ",
+    "animation_url": "https://scapes.punkscape.xyz/#1715",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1715",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1715",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1715",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1715"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1715",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Temple"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1694004862
+        }
+    ]
+}

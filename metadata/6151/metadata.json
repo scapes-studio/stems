@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #6151",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6151",
+    "image": "ipfs://QmSqr442jpBB7S5uEy5yLZPSTm8J3ofJ1WoQ4Eu8GAZME7",
+    "animation_url": "https://scapes.punkscape.xyz/#6151",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6151",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6151",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6151",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6151"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6151",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2206604947
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #8541",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8541",
+    "image": "ipfs://Qmasg2mxLYh3U2aAZfBuSyt1JG1WkNe7rLUM5gCqopdNjD",
+    "animation_url": "https://scapes.punkscape.xyz/#8541",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8541",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8541",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8541",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8541"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8541",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Beams"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2289795440
+        }
+    ]
+}

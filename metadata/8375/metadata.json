@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #8375",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8375",
+    "image": "ipfs://QmTNsSpXwTGhJcfik1YwDVQ4VBiUtYwD7XnDQQq26cUYSr",
+    "animation_url": "https://scapes.punkscape.xyz/#8375",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8375",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8375",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8375",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8375"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8375",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2134100920
+        }
+    ]
+}

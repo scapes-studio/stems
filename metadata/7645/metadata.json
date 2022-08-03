@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #7645",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7645",
+    "image": "ipfs://QmSozEtQAvaJVmKvFAX9EVuRmvrqj3tJFLeiKUW3NchxrV",
+    "animation_url": "https://scapes.punkscape.xyz/#7645",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7645",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7645",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7645",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7645"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7645",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Ether"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Police Car"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2480321688
+        }
+    ]
+}

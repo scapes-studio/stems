@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #4011",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4011",
+    "image": "ipfs://QmTGonok32rx3kMCzLx6ePgUfj6Xar6CkPBdvoraTTUH1t",
+    "animation_url": "https://scapes.punkscape.xyz/#4011",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4011",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4011",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4011",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4011"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4011",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1832473727
+        }
+    ]
+}

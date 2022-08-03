@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #3337",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3337",
+    "image": "ipfs://QmQxoX5EzgKvbn9XFbxDLjCxqL88CZe58eZFDh9M1A9A74",
+    "animation_url": "https://scapes.punkscape.xyz/#3337",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3337",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3337",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3337",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3337"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3337",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2269574467
+        }
+    ]
+}

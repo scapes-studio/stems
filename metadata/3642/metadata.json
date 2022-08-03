@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #3642",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3642",
+    "image": "ipfs://QmR8J2fbrmHs3AEj8s2xf1RPsLyKeFRHyoYSrj1VWV5br4",
+    "animation_url": "https://scapes.punkscape.xyz/#3642",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3642",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3642",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3642",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3642"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3642",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "trait_type": "Animals",
+            "value": "Unicorn"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2229061930
+        }
+    ]
+}

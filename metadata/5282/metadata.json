@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #5282",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5282",
+    "image": "ipfs://Qmf8kp3N8ACqcaVPAUG7UbKg2T6Cn5CqhUCCrZMVjtjoLa",
+    "animation_url": "https://scapes.punkscape.xyz/#5282",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5282",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5282",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5282",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5282"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5282",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Big Ben"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1992270667
+        }
+    ]
+}

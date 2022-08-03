@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #1928",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1928",
+    "image": "ipfs://QmQdCzWhXj2RQnUYvfkBixGWRfykDkRQ3gq9uK59Vix7p6",
+    "animation_url": "https://scapes.punkscape.xyz/#1928",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1928",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1928",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1928",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1928"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1928",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Soul Meteors"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1939312402
+        }
+    ]
+}

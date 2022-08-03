@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #4041",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4041",
+    "image": "ipfs://QmYykuT3soZ7pjQLRrKeRjHvsZW6bfcgeTYth4tNUJytS4",
+    "animation_url": "https://scapes.punkscape.xyz/#4041",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4041",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4041",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4041",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4041"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4041",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sedan"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2159086120
+        }
+    ]
+}

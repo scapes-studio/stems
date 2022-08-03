@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #9322",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9322",
+    "image": "ipfs://Qma5dw5XVDoK7i3GSYhNgXanQRwS3SSPftGpZbkC878DrF",
+    "animation_url": "https://scapes.punkscape.xyz/#9322",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9322",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9322",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9322",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9322"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9322",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2357470726
+        }
+    ]
+}

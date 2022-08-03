@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #1619",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1619",
+    "image": "ipfs://QmRMN45pHcJtTKGfZcALrhEoaZNUCYsFt3pK5cdty41AtL",
+    "animation_url": "https://scapes.punkscape.xyz/#1619",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1619",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1619",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1619",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1619"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1619",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Falling Stars"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Old House"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Saturn V"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2505662458
+        }
+    ]
+}

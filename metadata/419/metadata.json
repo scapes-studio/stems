@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #419",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/419",
+    "image": "ipfs://Qmcp3bX1ZreGHjAwBHYLrvecEAWJaaD8H4NmdciPRZ2NbS",
+    "animation_url": "https://scapes.punkscape.xyz/#419",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#419",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#419",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#419",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#419"
+    },
+    "external_url": "https://punkscape.xyz/scapes/419",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Pickup"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1673801164
+        }
+    ]
+}

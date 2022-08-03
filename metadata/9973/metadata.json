@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #9973",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9973",
+    "image": "ipfs://QmfHskCv1cQYZ2LDfZBrUxpmjmcENecXGhdrAmuq9PzZtz",
+    "animation_url": "https://scapes.punkscape.xyz/#9973",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9973",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9973",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9973",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9973"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9973",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Oasis"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Tiny House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2392141182
+        }
+    ]
+}

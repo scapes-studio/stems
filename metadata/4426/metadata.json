@@ -1,0 +1,56 @@
+{
+    "name": "PunkScape #4426",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4426",
+    "image": "ipfs://QmVk93hXeZiSTZhVAJHSTFjKv63Zqve7fc7bsvWjuqukgp",
+    "animation_url": "https://scapes.punkscape.xyz/#4426",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4426",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4426",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4426",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4426"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4426",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Animals",
+            "value": "Unicorn"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1914175353
+        }
+    ]
+}

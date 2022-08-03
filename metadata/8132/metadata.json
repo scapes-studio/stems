@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #8132",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8132",
+    "image": "ipfs://QmPTXRUJqP6pwF1zJy1owSSntY3vRmCH149AQWNcjTM68b",
+    "animation_url": "https://scapes.punkscape.xyz/#8132",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8132",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8132",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8132",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8132"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8132",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Chinese Gate"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2043211839
+        }
+    ]
+}

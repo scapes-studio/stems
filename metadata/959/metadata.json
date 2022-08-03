@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #959",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/959",
+    "image": "ipfs://QmV6TSVkUMAuvFFX7EU7mJdYkyC6q8NrJHU17aPjCh8iU1",
+    "animation_url": "https://scapes.punkscape.xyz/#959",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#959",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#959",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#959",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#959"
+    },
+    "external_url": "https://punkscape.xyz/scapes/959",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Spacelab"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1798376657
+        }
+    ]
+}

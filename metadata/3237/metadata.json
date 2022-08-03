@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #3237",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3237",
+    "image": "ipfs://QmaAsatsZBeNRaPuczMfmD7U2hdzhpYZtEZnWY2o7hVb59",
+    "animation_url": "https://scapes.punkscape.xyz/#3237",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3237",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3237",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3237",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3237"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3237",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Lighthouse"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1972819601
+        }
+    ]
+}

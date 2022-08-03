@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #9791",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9791",
+    "image": "ipfs://QmVA2BtpUadCUhHcMTA1mBrdsmbqZkw3W6uextmKDacUhy",
+    "animation_url": "https://scapes.punkscape.xyz/#9791",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9791",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9791",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9791",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9791"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9791",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Animals",
+            "value": "Unicorn"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2144766118
+        }
+    ]
+}

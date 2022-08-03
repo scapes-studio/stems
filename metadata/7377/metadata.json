@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #7377",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7377",
+    "image": "ipfs://Qmdd6trJAxZCyxySCCFEKSaEt8pXFbr6XcvyE2kYUKK8R4",
+    "animation_url": "https://scapes.punkscape.xyz/#7377",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7377",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7377",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7377",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7377"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7377",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Volcano"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2137509914
+        }
+    ]
+}

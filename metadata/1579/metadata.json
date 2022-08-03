@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #1579",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1579",
+    "image": "ipfs://QmXb6QwAKgH1FxLprRQihTy4tKrDDChbUsnU63RGry2ReW",
+    "animation_url": "https://scapes.punkscape.xyz/#1579",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1579",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1579",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1579",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1579"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1579",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Golden Sea"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2254835341
+        }
+    ]
+}

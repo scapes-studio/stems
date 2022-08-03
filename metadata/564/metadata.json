@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #564",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/564",
+    "image": "ipfs://QmctzgwHhyaBsfWYHebBfS2EiPHtvS91CLk6D4nd5LYRTq",
+    "animation_url": "https://scapes.punkscape.xyz/#564",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#564",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#564",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#564",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#564"
+    },
+    "external_url": "https://punkscape.xyz/scapes/564",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter and his Moon"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1737478223
+        }
+    ]
+}

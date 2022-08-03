@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #8023",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8023",
+    "image": "ipfs://QmeZX4Uo3Cn6Xaqa8ug3Xzc5P4eKExfRZGracTyhtwZnUr",
+    "animation_url": "https://scapes.punkscape.xyz/#8023",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8023",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8023",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8023",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8023"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8023",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1966870703
+        }
+    ]
+}

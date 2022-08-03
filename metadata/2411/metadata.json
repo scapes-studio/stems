@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #2411",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2411",
+    "image": "ipfs://QmQhQACde8Fisgz9Bh9hrYwhqf3HH6Bc7UAw3dQaseWGVu",
+    "animation_url": "https://scapes.punkscape.xyz/#2411",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2411",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2411",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2411",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2411"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2411",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1802494097
+        }
+    ]
+}

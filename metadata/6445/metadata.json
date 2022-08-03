@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #6445",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6445",
+    "image": "ipfs://QmNkdRJRpBXHbM5AcswBHVSAoqeqPRzmSxreMkyvyXRdRk",
+    "animation_url": "https://scapes.punkscape.xyz/#6445",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6445",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6445",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6445",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6445"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6445",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Burj"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1767450576
+        }
+    ]
+}

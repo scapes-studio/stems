@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #6947",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6947",
+    "image": "ipfs://QmbxCPPU2YiZPSM1WqxeM8VeSd1JsEmZq26sjk7e66BHZi",
+    "animation_url": "https://scapes.punkscape.xyz/#6947",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6947",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6947",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6947",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6947"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6947",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1659293854
+        }
+    ]
+}

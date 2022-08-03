@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #7089",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7089",
+    "image": "ipfs://QmYwEv4UYUEQcqa6TRYzgPmehSW3A7kuie6rEd4S5RY2kG",
+    "animation_url": "https://scapes.punkscape.xyz/#7089",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7089",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7089",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7089",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7089"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7089",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Blocks"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Ethereum"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2394245611
+        }
+    ]
+}

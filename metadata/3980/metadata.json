@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #3980",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3980",
+    "image": "ipfs://Qmc55LWKx1yJQMzWMVB21Rf954De8R8tjzi3aswEPiJzAm",
+    "animation_url": "https://scapes.punkscape.xyz/#3980",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3980",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3980",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3980",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3980"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3980",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Big Ben"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2267520593
+        }
+    ]
+}

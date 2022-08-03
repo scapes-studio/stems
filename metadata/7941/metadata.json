@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #7941",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7941",
+    "image": "ipfs://QmTU5PeGthGTijAshPY6JZdLgu4eZ1JgYfQ9truqpz7BXw",
+    "animation_url": "https://scapes.punkscape.xyz/#7941",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7941",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7941",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7941",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7941"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7941",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2014971130
+        }
+    ]
+}

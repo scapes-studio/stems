@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #9219",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9219",
+    "image": "ipfs://QmQxhRyuZL3MpbPihgRVeMshCRNXYgSLrGhLRi4fwmF36k",
+    "animation_url": "https://scapes.punkscape.xyz/#9219",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9219",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9219",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9219",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9219"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9219",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Europa"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Tiny House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2441300148
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #9129",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9129",
+    "image": "ipfs://QmR6MJenHrny5VgrY3BQrFasd36xCK6j7yJHnmhaHZ23rU",
+    "animation_url": "https://scapes.punkscape.xyz/#9129",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9129",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9129",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9129",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9129"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9129",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2056374221
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #904",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/904",
+    "image": "ipfs://QmXrp2F3DdY5useekmJS6Q2a5n8E3DnzwmaCndRYkvif1d",
+    "animation_url": "https://scapes.punkscape.xyz/#904",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#904",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#904",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#904",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#904"
+    },
+    "external_url": "https://punkscape.xyz/scapes/904",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sedan"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1693413785
+        }
+    ]
+}

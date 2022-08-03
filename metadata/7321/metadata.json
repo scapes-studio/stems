@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #7321",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7321",
+    "image": "ipfs://Qmd1hjMTN4RasM7LjXwSNPeoW3PmFWkENR9Yv6VZh7qTua",
+    "animation_url": "https://scapes.punkscape.xyz/#7321",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7321",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7321",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7321",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7321"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7321",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Toxic River"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2464348937
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "name": "PunkScape #9889",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9889",
+    "image": "ipfs://QmZZrTh8Hw1chheD6bUqqUx5RMkd9X7HZ1FJksUuQ3S69i",
+    "animation_url": "https://scapes.punkscape.xyz/#9889",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9889",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9889",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9889",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9889"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9889",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Old House"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1871185188
+        }
+    ]
+}

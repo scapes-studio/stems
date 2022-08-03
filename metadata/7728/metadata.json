@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #7728",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7728",
+    "image": "ipfs://QmcJetNgHgvf7n5fMrhZuVU2kCEA9rDEevA2XJHLBMo9LV",
+    "animation_url": "https://scapes.punkscape.xyz/#7728",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7728",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7728",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7728",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7728"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7728",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Soul Meteors"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2107008996
+        }
+    ]
+}

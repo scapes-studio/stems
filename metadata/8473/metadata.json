@@ -1,0 +1,56 @@
+{
+    "name": "PunkScape #8473",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8473",
+    "image": "ipfs://Qmcdpcf7rmrcgSv1YuQAosAhQnRFpfpCUgZrcTqpK11hDA",
+    "animation_url": "https://scapes.punkscape.xyz/#8473",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8473",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8473",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8473",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8473"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8473",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Evening Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2507737281
+        }
+    ]
+}

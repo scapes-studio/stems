@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #1358",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1358",
+    "image": "ipfs://QmcaXF2c9Cw5dqrTuVE9YYq3ifJonRjzCSJmv3W34moUiS",
+    "animation_url": "https://scapes.punkscape.xyz/#1358",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1358",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1358",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1358",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1358"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1358",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Europa"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Pyramid"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1707329250
+        }
+    ]
+}

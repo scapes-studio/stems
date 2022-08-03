@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #7339",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7339",
+    "image": "ipfs://QmQJNiqJQf39y5XvEquaLi23kRnq9iH3NaWbJbee53zud3",
+    "animation_url": "https://scapes.punkscape.xyz/#7339",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7339",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7339",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7339",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7339"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7339",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2312462547
+        }
+    ]
+}

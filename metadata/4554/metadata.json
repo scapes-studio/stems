@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #4554",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4554",
+    "image": "ipfs://QmVM9N4FmpdrnpeBXK3LoK5TQqt4Pfhjxdiz5jRDMh2VyE",
+    "animation_url": "https://scapes.punkscape.xyz/#4554",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4554",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4554",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4554",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4554"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4554",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Statue of Liberty"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2176467692
+        }
+    ]
+}

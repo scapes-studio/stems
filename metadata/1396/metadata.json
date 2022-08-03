@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #1396",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1396",
+    "image": "ipfs://QmXWkHFMrL8W1GJFegSex7yzu6rHfAHUCTBs1UH8JbbqAb",
+    "animation_url": "https://scapes.punkscape.xyz/#1396",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1396",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1396",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1396",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1396"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1396",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2103538261
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #4071",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4071",
+    "image": "ipfs://Qmc4bz35Dpab2wqkuorFCxJMqJZZfe3Gpd2pTA6pg9TV7U",
+    "animation_url": "https://scapes.punkscape.xyz/#4071",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4071",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4071",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4071",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4071"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4071",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Soul Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Tree of Life"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2344504103
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #7111",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7111",
+    "image": "ipfs://QmZsJZY3mkiadA2MrjxVvok8jyE3A5HA3YunHCvgaQmJmJ",
+    "animation_url": "https://scapes.punkscape.xyz/#7111",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7111",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7111",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7111",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7111"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7111",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Earths"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Burj"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1676205028
+        }
+    ]
+}

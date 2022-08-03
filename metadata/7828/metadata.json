@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #7828",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7828",
+    "image": "ipfs://QmeMuTvZvNjKUBxUgSVSEh2tMGTkN4byurnakpukxARQdU",
+    "animation_url": "https://scapes.punkscape.xyz/#7828",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7828",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7828",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7828",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7828"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7828",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Lake"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2357786849
+        }
+    ]
+}

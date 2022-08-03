@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #3580",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3580",
+    "image": "ipfs://QmRHCkcvBrYn7fnhxbGzyDz6h87CAz3g3MkxH7brWEzumZ",
+    "animation_url": "https://scapes.punkscape.xyz/#3580",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3580",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3580",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3580",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3580"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3580",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1879696820
+        }
+    ]
+}

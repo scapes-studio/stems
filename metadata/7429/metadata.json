@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #7429",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7429",
+    "image": "ipfs://QmeJ7DChFsCA2oGiSdrxagRBcZEHvasAED7wKfSQozKCgx",
+    "animation_url": "https://scapes.punkscape.xyz/#7429",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7429",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7429",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7429",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7429"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7429",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Windmill"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2050246668
+        }
+    ]
+}

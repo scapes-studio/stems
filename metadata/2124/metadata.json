@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #2124",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2124",
+    "image": "ipfs://QmVZNmF1z9Lnfziz5yUXkijSP5Wg6ux7bK8HGEHXtbtukD",
+    "animation_url": "https://scapes.punkscape.xyz/#2124",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2124",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2124",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2124",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2124"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2124",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Blocks"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Big Ben"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "BFR"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2440089071
+        }
+    ]
+}

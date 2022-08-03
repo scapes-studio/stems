@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #7315",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7315",
+    "image": "ipfs://QmUggBv58W2egmXsa2rWYnsVFbtFRi8JmmhVX2c3PkRpGK",
+    "animation_url": "https://scapes.punkscape.xyz/#7315",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7315",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7315",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7315",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7315"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7315",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Old Tree"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1842367609
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #2239",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2239",
+    "image": "ipfs://Qma6bFr22M4eTCEzuocryBnhtGGkbLRZTTdqjZFULvFKao",
+    "animation_url": "https://scapes.punkscape.xyz/#2239",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2239",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2239",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2239",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2239"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2239",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1867946887
+        }
+    ]
+}

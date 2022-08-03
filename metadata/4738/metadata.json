@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #4738",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4738",
+    "image": "ipfs://QmcXfCW8FaLBy6pcCEZZJcpo9nzqHg1qLEGsNmat49z8Jz",
+    "animation_url": "https://scapes.punkscape.xyz/#4738",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4738",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4738",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4738",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4738"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4738",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2463311630
+        }
+    ]
+}

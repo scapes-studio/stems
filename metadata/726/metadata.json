@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #726",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/726",
+    "image": "ipfs://QmbQ3FUCpPReeWHUZ6B4RuLVvGfBo1wvjxwfyRhApjULnk",
+    "animation_url": "https://scapes.punkscape.xyz/#726",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#726",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#726",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#726",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#726"
+    },
+    "external_url": "https://punkscape.xyz/scapes/726",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter and his Moon"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Shuttle"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1960969579
+        }
+    ]
+}

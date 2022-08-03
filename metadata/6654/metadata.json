@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #6654",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6654",
+    "image": "ipfs://QmbZ8eJii4LQ584Por6fG2S7RpAxJ2zvGGgfFy9ACn3her",
+    "animation_url": "https://scapes.punkscape.xyz/#6654",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6654",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6654",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6654",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6654"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6654",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Delivery Van"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1920555925
+        }
+    ]
+}

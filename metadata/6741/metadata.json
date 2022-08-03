@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #6741",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6741",
+    "image": "ipfs://QmVUpWpCKceNBiUExSfVxnufWLgWrE82sQD6nPazD8afqR",
+    "animation_url": "https://scapes.punkscape.xyz/#6741",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6741",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6741",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6741",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6741"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6741",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sportscar"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2468292483
+        }
+    ]
+}

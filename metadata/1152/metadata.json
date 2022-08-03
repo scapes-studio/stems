@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #1152",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1152",
+    "image": "ipfs://QmVFYaQLQQ74kpNMa693L4rkm1nqAWHdC2Q2YEuz2ve2F6",
+    "animation_url": "https://scapes.punkscape.xyz/#1152",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1152",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1152",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1152",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1152"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1152",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sedan"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2209136107
+        }
+    ]
+}

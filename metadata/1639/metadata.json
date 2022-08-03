@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #1639",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1639",
+    "image": "ipfs://QmWQybtTWX7v1ayzAUs6k1tp9dZcD7BB9isDGDqCagLenN",
+    "animation_url": "https://scapes.punkscape.xyz/#1639",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1639",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1639",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1639",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1639"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1639",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Pyramid"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2396700516
+        }
+    ]
+}

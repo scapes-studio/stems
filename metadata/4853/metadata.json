@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #4853",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4853",
+    "image": "ipfs://QmV8Jt2KjhyJoHSrW1Q5pT9c2TLi2cUJECELragHtshyRS",
+    "animation_url": "https://scapes.punkscape.xyz/#4853",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4853",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4853",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4853",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4853"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4853",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Blocks"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1660247381
+        }
+    ]
+}

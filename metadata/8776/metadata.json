@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #8776",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8776",
+    "image": "ipfs://Qmeg6ZnMxZHBWseFPudbDgzbx9QswXNvFXKbffMngKM6eN",
+    "animation_url": "https://scapes.punkscape.xyz/#8776",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8776",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8776",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8776",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8776"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8776",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 3"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1763649416
+        }
+    ]
+}

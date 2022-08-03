@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #847",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/847",
+    "image": "ipfs://QmahYdrbUha9bEm5aJJCN57vCiN8Brr4j1EGJos7KMd87p",
+    "animation_url": "https://scapes.punkscape.xyz/#847",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#847",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#847",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#847",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#847"
+    },
+    "external_url": "https://punkscape.xyz/scapes/847",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 1"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Saturn V"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1652805110
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #8502",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8502",
+    "image": "ipfs://Qmed63uDoK7KqpY2g1Ad6SMj6u6NXKjjz4PGRCGrquupGT",
+    "animation_url": "https://scapes.punkscape.xyz/#8502",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8502",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8502",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8502",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8502"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8502",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Pillars"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1755172959
+        }
+    ]
+}

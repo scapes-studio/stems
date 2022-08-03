@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #7806",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7806",
+    "image": "ipfs://QmfPmaobxRtkjbJfbymRqTa2z43YzYJGmGL33EKCY7N3bU",
+    "animation_url": "https://scapes.punkscape.xyz/#7806",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7806",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7806",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7806",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7806"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7806",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Block Tree"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Hut"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2271500661
+        }
+    ]
+}

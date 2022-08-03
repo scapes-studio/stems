@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #8982",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8982",
+    "image": "ipfs://QmSE5t6yaUNkeNp1NMEkfFHWGwV86qh1NEHn8o914SxV6W",
+    "animation_url": "https://scapes.punkscape.xyz/#8982",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8982",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8982",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8982",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8982"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8982",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Shuttle"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1876456307
+        }
+    ]
+}

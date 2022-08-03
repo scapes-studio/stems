@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #2069",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2069",
+    "image": "ipfs://QmceP1NDvWGfrP5YJ7Qu7iURRoxzpwjj4rS8jUCuQQyooe",
+    "animation_url": "https://scapes.punkscape.xyz/#2069",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2069",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2069",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2069",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2069"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2069",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Ether"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Statue of Liberty"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2240830179
+        }
+    ]
+}

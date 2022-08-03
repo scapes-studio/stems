@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #8892",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8892",
+    "image": "ipfs://Qmf9kbwvdvN6H2MwZ4JVQckhLNj46psZGCjfiMoX9yzj5S",
+    "animation_url": "https://scapes.punkscape.xyz/#8892",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8892",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8892",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8892",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8892"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8892",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Lake"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2046749013
+        }
+    ]
+}

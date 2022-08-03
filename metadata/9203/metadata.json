@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #9203",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9203",
+    "image": "ipfs://QmZLwfyWGBqvd7FZ6xsB8EaqLUTjms7UsH9cKTJHUFA9Ye",
+    "animation_url": "https://scapes.punkscape.xyz/#9203",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9203",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9203",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9203",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9203"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9203",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Soul Planet"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "UFO"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2192248582
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #4819",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4819",
+    "image": "ipfs://QmUQLEA5pUzW7j1F4Y7e2nTcQcqdtYYQ6LybuhoyqG33Fm",
+    "animation_url": "https://scapes.punkscape.xyz/#4819",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4819",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4819",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4819",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4819"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4819",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Burj"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Saturn V"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2215572108
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #3523",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3523",
+    "image": "ipfs://QmNWx4rTHJKRYBEvch47FvPhduWUkRtKvRkgSy34b8TCWA",
+    "animation_url": "https://scapes.punkscape.xyz/#3523",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3523",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3523",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3523",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3523"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3523",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Tiny House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1995165087
+        }
+    ]
+}

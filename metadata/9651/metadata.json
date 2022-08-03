@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #9651",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9651",
+    "image": "ipfs://QmVfNVFXycwDRTGMuYrSH4dLjkahiMggKHQ3CwFy5Egdbj",
+    "animation_url": "https://scapes.punkscape.xyz/#9651",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9651",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9651",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9651",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9651"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9651",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1712835056
+        }
+    ]
+}

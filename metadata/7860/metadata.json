@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #7860",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7860",
+    "image": "ipfs://Qmbz4Zs7Sc9vshiV7aFEcFgxGRy762royNqjCoXDWA56Ya",
+    "animation_url": "https://scapes.punkscape.xyz/#7860",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7860",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7860",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7860",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7860"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7860",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Burj"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1873690154
+        }
+    ]
+}

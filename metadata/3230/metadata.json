@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #3230",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3230",
+    "image": "ipfs://QmUoosUdRcxsp6EWELBJfFvCX7s6cvKhuTQ1WgzuKK8tJZ",
+    "animation_url": "https://scapes.punkscape.xyz/#3230",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3230",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3230",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3230",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3230"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3230",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Statue of Liberty"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Delivery Van"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2204377828
+        }
+    ]
+}

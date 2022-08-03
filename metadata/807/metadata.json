@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #807",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/807",
+    "image": "ipfs://QmbenWJbRR9e1nadcTCrzHyxxG9PeqoKbWFofbUpY6ApWB",
+    "animation_url": "https://scapes.punkscape.xyz/#807",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#807",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#807",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#807",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#807"
+    },
+    "external_url": "https://punkscape.xyz/scapes/807",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Spacelab"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1770358616
+        }
+    ]
+}

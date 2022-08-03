@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #9814",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9814",
+    "image": "ipfs://QmczL7LQTuWR7CYyZbNpx5hm1PZYB8ZmBTYXXD5zjacLeX",
+    "animation_url": "https://scapes.punkscape.xyz/#9814",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9814",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9814",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9814",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9814"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9814",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Beams"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Chinese Gate"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1655062455
+        }
+    ]
+}

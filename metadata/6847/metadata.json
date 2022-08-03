@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #6847",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6847",
+    "image": "ipfs://QmUPYfqogucZb79MA6P7MThEQZsTgznkjS477Ev4CKWUwB",
+    "animation_url": "https://scapes.punkscape.xyz/#6847",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6847",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6847",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6847",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6847"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6847",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mini House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1691249833
+        }
+    ]
+}

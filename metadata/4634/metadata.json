@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #4634",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4634",
+    "image": "ipfs://QmRu48PnxvCc4mPm4XEWMGmXEhNmngJNWn73dJs8QU7VZC",
+    "animation_url": "https://scapes.punkscape.xyz/#4634",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4634",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4634",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4634",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4634"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4634",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Oasis"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 5"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2445516497
+        }
+    ]
+}

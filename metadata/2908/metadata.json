@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #2908",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2908",
+    "image": "ipfs://Qmev9HLeVA9A6PNAj1hzqah7T6Qb6C2kmKZmgAWAJ3KrpD",
+    "animation_url": "https://scapes.punkscape.xyz/#2908",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2908",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2908",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2908",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2908"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2908",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Police Car"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1735182799
+        }
+    ]
+}

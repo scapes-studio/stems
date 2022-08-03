@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #895",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/895",
+    "image": "ipfs://QmVe687VoAExEzmc4BtQMHoam6NxwKew7jvCxjSGB6LRNT",
+    "animation_url": "https://scapes.punkscape.xyz/#895",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#895",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#895",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#895",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#895"
+    },
+    "external_url": "https://punkscape.xyz/scapes/895",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2180274082
+        }
+    ]
+}

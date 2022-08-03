@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #7073",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7073",
+    "image": "ipfs://QmUrFXF2H93FGy4B2fTakNSW1VXkyRkfNitrM5SQEfsopu",
+    "animation_url": "https://scapes.punkscape.xyz/#7073",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7073",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7073",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7073",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7073"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7073",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Falling Stars"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Lighthouse"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2279166670
+        }
+    ]
+}

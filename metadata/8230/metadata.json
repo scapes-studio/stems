@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #8230",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8230",
+    "image": "ipfs://QmdEMH2ha8kPbsRUpHtXeUWHo2dY27p1wgoZhjp5DeVTZf",
+    "animation_url": "https://scapes.punkscape.xyz/#8230",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8230",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8230",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8230",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8230"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8230",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Burned Tree"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2112959594
+        }
+    ]
+}

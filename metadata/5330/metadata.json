@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #5330",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5330",
+    "image": "ipfs://QmZiGffwbi6XAS5XBYkwKdXghsoqt1EpgbDu6DEKD3LRoK",
+    "animation_url": "https://scapes.punkscape.xyz/#5330",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5330",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5330",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5330",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5330"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5330",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Statue of Liberty"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2195894446
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #431",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/431",
+    "image": "ipfs://QmQPa9U2x5sKzyqbMBicnb95rLvzGbUr5q6brHJfBLoe8Z",
+    "animation_url": "https://scapes.punkscape.xyz/#431",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#431",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#431",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#431",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#431"
+    },
+    "external_url": "https://punkscape.xyz/scapes/431",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Europa"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Square Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1980063174
+        }
+    ]
+}

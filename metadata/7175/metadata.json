@@ -1,0 +1,56 @@
+{
+    "name": "PunkScape #7175",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7175",
+    "image": "ipfs://QmPq349xhAb2KLFsLQpGP2rumEKQQjbVT7jchywE9pFzdm",
+    "animation_url": "https://scapes.punkscape.xyz/#7175",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7175",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7175",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7175",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7175"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7175",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sedan"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2334736088
+        }
+    ]
+}

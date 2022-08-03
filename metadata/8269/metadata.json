@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #8269",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8269",
+    "image": "ipfs://QmZRCdshApRW5Q4B46Mf5o5hKJe613jig6i9YEujv1r32P",
+    "animation_url": "https://scapes.punkscape.xyz/#8269",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8269",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8269",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8269",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8269"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8269",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2262455278
+        }
+    ]
+}

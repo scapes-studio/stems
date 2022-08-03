@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #4311",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4311",
+    "image": "ipfs://QmRdBBAA1Xyezrk6Z2GDtqQHRtocxm6qG9vPD8g4GFe9oN",
+    "animation_url": "https://scapes.punkscape.xyz/#4311",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4311",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4311",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4311",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4311"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4311",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Spacelab"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2252727320
+        }
+    ]
+}

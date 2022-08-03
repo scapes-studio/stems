@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #8379",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8379",
+    "image": "ipfs://Qmf966ruyxhC7WU9trT2RoudVsexUEWqrDqtZdNVmsTwLs",
+    "animation_url": "https://scapes.punkscape.xyz/#8379",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8379",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8379",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8379",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8379"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8379",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Soul"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 1"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2063611268
+        }
+    ]
+}

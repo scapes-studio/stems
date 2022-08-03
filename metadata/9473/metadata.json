@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #9473",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9473",
+    "image": "ipfs://QmWab1b6ZCi8L9KwB2ncFJTRQw7R3WekJjnayV7An4QWBy",
+    "animation_url": "https://scapes.punkscape.xyz/#9473",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9473",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9473",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9473",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9473"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9473",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2077535974
+        }
+    ]
+}

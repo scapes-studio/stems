@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #7326",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7326",
+    "image": "ipfs://QmajSBeGyh78nsuDTz77FwMj2naw9fdwoY16qXM8h5fCpx",
+    "animation_url": "https://scapes.punkscape.xyz/#7326",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7326",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7326",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7326",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7326"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7326",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Spacelab"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2066961673
+        }
+    ]
+}

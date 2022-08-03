@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #9262",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9262",
+    "image": "ipfs://QmfXHWqCCFijei6QWAakt5sF4JjdSY9T264n29fE3YySzd",
+    "animation_url": "https://scapes.punkscape.xyz/#9262",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9262",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9262",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9262",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9262"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9262",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Island"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2120304590
+        }
+    ]
+}

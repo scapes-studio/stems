@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #443",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/443",
+    "image": "ipfs://QmaQGf7uNmiPNN9hVEtxwP76vz3By7c5rnZABfXUPRgD9w",
+    "animation_url": "https://scapes.punkscape.xyz/#443",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#443",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#443",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#443",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#443"
+    },
+    "external_url": "https://punkscape.xyz/scapes/443",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Lake"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2208869761
+        }
+    ]
+}

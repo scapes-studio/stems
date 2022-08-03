@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #9968",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9968",
+    "image": "ipfs://Qme1ExQa8vRAEQ9rZJc5RcbGLU6fYc6Pn6RnG4cdekHKZb",
+    "animation_url": "https://scapes.punkscape.xyz/#9968",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9968",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9968",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9968",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9968"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9968",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Burj"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2305949331
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #7787",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7787",
+    "image": "ipfs://QmZcxreu4qrNKYkKPpH2PHpumGok9FaZX1PxkR1bWSUtQq",
+    "animation_url": "https://scapes.punkscape.xyz/#7787",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7787",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7787",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7787",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7787"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7787",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Ether"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Tree of Life"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2111311145
+        }
+    ]
+}

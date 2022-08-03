@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #782",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/782",
+    "image": "ipfs://QmedmU8zYDZspBdnoeTuMUBmzSteRQSnafUY26oDhSgYig",
+    "animation_url": "https://scapes.punkscape.xyz/#782",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#782",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#782",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#782",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#782"
+    },
+    "external_url": "https://punkscape.xyz/scapes/782",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1880446057
+        }
+    ]
+}

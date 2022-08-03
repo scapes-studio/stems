@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #1308",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1308",
+    "image": "ipfs://QmfUj2BJUVUad5vCEnUnv4qJZGjtez8HKkYn45y2xmQbCy",
+    "animation_url": "https://scapes.punkscape.xyz/#1308",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1308",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1308",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1308",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1308"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1308",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Europa"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Hut"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Saturn V"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1774681353
+        }
+    ]
+}

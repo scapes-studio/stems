@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #4021",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4021",
+    "image": "ipfs://QmRraMrMKpWxafeNhpJXGbQW85mD3jfV7CXR82Cufy3g5A",
+    "animation_url": "https://scapes.punkscape.xyz/#4021",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4021",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4021",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4021",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4021"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4021",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Lighthouse"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2025436106
+        }
+    ]
+}

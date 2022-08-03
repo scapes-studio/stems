@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #7290",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7290",
+    "image": "ipfs://QmXsiyPgxZpUngGrX6wVG3ZxAHb4fUWg795Y1pvAqpAEqF",
+    "animation_url": "https://scapes.punkscape.xyz/#7290",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7290",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7290",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7290",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7290"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7290",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Spacelab"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2092539753
+        }
+    ]
+}

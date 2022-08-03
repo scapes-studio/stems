@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #9790",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9790",
+    "image": "ipfs://QmUckEyvZtHHxjXhatzHiu7pBzviZB2apuw5r5zbhXy7WP",
+    "animation_url": "https://scapes.punkscape.xyz/#9790",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9790",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9790",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9790",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9790"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9790",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2327567226
+        }
+    ]
+}

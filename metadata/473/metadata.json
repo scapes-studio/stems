@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #473",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/473",
+    "image": "ipfs://QmdCKbJGJFz8DEM6Pirbro71zxGb21iDA5v6fs4xwdaxti",
+    "animation_url": "https://scapes.punkscape.xyz/#473",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#473",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#473",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#473",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#473"
+    },
+    "external_url": "https://punkscape.xyz/scapes/473",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Tree of Life"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2389247000
+        }
+    ]
+}

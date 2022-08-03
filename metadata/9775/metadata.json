@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #9775",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9775",
+    "image": "ipfs://QmYkahwa2QupgAxgDBpCPeafus2aL6FV2zMfXVVGA9XNWf",
+    "animation_url": "https://scapes.punkscape.xyz/#9775",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9775",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9775",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9775",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9775"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9775",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "UFO"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1948505589
+        }
+    ]
+}

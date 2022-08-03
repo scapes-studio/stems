@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #121",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/121",
+    "image": "ipfs://QmSqAzUXTA8oNky1BZrbWj762zbgnKq3K1mimdGRiR7zaz",
+    "animation_url": "https://scapes.punkscape.xyz/#121",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#121",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#121",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#121",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#121"
+    },
+    "external_url": "https://punkscape.xyz/scapes/121",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Temple"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1715401355
+        }
+    ]
+}

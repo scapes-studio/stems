@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #9656",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9656",
+    "image": "ipfs://QmNz8qcQGpPH4HZzwsNqmfNGmsY7hiTYdrufJc4X8zCoE6",
+    "animation_url": "https://scapes.punkscape.xyz/#9656",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9656",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9656",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9656",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9656"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9656",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Europa"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Block Tree"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2388917625
+        }
+    ]
+}

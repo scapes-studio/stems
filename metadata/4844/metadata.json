@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #4844",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4844",
+    "image": "ipfs://QmXeLhv1nWtbgmLyqyLz5LczHEhTGp92qctcxhasjQPrKa",
+    "animation_url": "https://scapes.punkscape.xyz/#4844",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4844",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4844",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4844",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4844"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4844",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Square Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2094024775
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "name": "PunkScape #4601",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4601",
+    "image": "ipfs://QmTrnkM76ZczjGnszRuSa13QbQjZwhroHaQdxwaimfaS7g",
+    "animation_url": "https://scapes.punkscape.xyz/#4601",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4601",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4601",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4601",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4601"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4601",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Lake"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Ethereum"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sherp"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2167995965
+        }
+    ]
+}

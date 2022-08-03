@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #1253",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1253",
+    "image": "ipfs://QmSJCXnekYwrNaKxKPdj72iBRGod68SPsF3kHrkcK9xwQ1",
+    "animation_url": "https://scapes.punkscape.xyz/#1253",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1253",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1253",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1253",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1253"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1253",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2017151453
+        }
+    ]
+}

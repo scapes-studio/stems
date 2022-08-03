@@ -1,0 +1,56 @@
+{
+    "name": "PunkScape #9274",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9274",
+    "image": "ipfs://QmY7fR6YwdBzHtAsihYbnbNnbbi9fU4yxsKWg4xyEt4bzZ",
+    "animation_url": "https://scapes.punkscape.xyz/#9274",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9274",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9274",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9274",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9274"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9274",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Falling Stars"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Block Tree"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sherp"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1704178500
+        }
+    ]
+}

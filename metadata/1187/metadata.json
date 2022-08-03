@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #1187",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1187",
+    "image": "ipfs://QmUpMH65aLFsqtho8uH17QjaE57D7qJgMAWMHa5GsqmE5b",
+    "animation_url": "https://scapes.punkscape.xyz/#1187",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1187",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1187",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1187",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1187"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1187",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sherp"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2394019479
+        }
+    ]
+}

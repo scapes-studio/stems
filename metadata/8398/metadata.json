@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #8398",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8398",
+    "image": "ipfs://QmUf34VTVR1UW5y8ayRCU325WLYSu8bNByeQFP32Qmrc4q",
+    "animation_url": "https://scapes.punkscape.xyz/#8398",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8398",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8398",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8398",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8398"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8398",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Windmill"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2381137046
+        }
+    ]
+}

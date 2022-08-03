@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #7271",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7271",
+    "image": "ipfs://QmQbb9A9zf1rZUGusYUWkRCyYXWatHLKw1SKhHxrTeiT29",
+    "animation_url": "https://scapes.punkscape.xyz/#7271",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7271",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7271",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7271",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7271"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7271",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Golden Sea"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1758730834
+        }
+    ]
+}

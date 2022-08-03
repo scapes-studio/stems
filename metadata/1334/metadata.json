@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #1334",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1334",
+    "image": "ipfs://QmTvgBQZpmumHNfp1o2YDUHtiU1bj8kG8d7CFz3wY4kKb1",
+    "animation_url": "https://scapes.punkscape.xyz/#1334",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1334",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1334",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1334",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1334"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1334",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1777528116
+        }
+    ]
+}

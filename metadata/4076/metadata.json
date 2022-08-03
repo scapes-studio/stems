@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #4076",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4076",
+    "image": "ipfs://QmR8wx4fAdRK4Mt3335iSmFfxhketdYKzDab1krpXQVUcu",
+    "animation_url": "https://scapes.punkscape.xyz/#4076",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4076",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4076",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4076",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4076"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4076",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Lake"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2341069261
+        }
+    ]
+}

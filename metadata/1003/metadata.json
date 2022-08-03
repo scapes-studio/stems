@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #1003",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1003",
+    "image": "ipfs://QmcSSkB7mEui7amXF6CfLJd6NBH5QhGCXRC4R7hYTJCYax",
+    "animation_url": "https://scapes.punkscape.xyz/#1003",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1003",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1003",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1003",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1003"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1003",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Shuttle"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2058073844
+        }
+    ]
+}

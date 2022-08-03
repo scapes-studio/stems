@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #4219",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4219",
+    "image": "ipfs://QmUymJhgzJzaj2JYdeW97k46V7YewWvUuRuroQJ25vFCNa",
+    "animation_url": "https://scapes.punkscape.xyz/#4219",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4219",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4219",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4219",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4219"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4219",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Evening Clouds"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Pickup"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1824481816
+        }
+    ]
+}

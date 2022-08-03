@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #9090",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9090",
+    "image": "ipfs://QmYWUgsngmz8DJeuXSHjKxk3AtyQgmFttn8kGgSBiRZfCX",
+    "animation_url": "https://scapes.punkscape.xyz/#9090",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9090",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9090",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9090",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9090"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9090",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mini House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2470288369
+        }
+    ]
+}

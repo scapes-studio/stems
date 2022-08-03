@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #669",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/669",
+    "image": "ipfs://QmVM5gmTT9bo5mDFTp1DDt4yFQzc38t1EFaxWXvPNSG6cH",
+    "animation_url": "https://scapes.punkscape.xyz/#669",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#669",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#669",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#669",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#669"
+    },
+    "external_url": "https://punkscape.xyz/scapes/669",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Golden Sea"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Shuttle"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2430656502
+        }
+    ]
+}

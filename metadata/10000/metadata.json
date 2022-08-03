@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #10000",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/10000",
+    "image": "ipfs://QmWS2oPgAkQac5i52B5r2jM5jajaTrG1ktDF6we2K3Vp2U",
+    "animation_url": "https://scapes.punkscape.xyz/#10000",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#10000",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#10000",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#10000",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#10000"
+    },
+    "external_url": "https://punkscape.xyz/scapes/10000",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1855296693
+        }
+    ]
+}

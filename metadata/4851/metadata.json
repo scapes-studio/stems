@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #4851",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4851",
+    "image": "ipfs://QmRaUhkHHmRoG9EtHyN9t4mZfVZeSRotgTx7AqsEM4RjzB",
+    "animation_url": "https://scapes.punkscape.xyz/#4851",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4851",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4851",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4851",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4851"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4851",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Burned Tree"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "BFR"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2466250568
+        }
+    ]
+}

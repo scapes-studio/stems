@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #4873",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4873",
+    "image": "ipfs://QmZq9Un9ZyXMYT8HdGb9G86fViXKbHgbufXHc4HNtr93xF",
+    "animation_url": "https://scapes.punkscape.xyz/#4873",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4873",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4873",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4873",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4873"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4873",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter and his Moon"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Toxic River"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1867578269
+        }
+    ]
+}

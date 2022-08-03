@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #8772",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8772",
+    "image": "ipfs://QmaVxAtVwYES2aFVbRAbMGSmeXDEk1w3uXN7vAsYPogcTL",
+    "animation_url": "https://scapes.punkscape.xyz/#8772",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8772",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8772",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8772",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8772"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8772",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Ether"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Big Ben"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2230459791
+        }
+    ]
+}

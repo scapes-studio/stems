@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #3422",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3422",
+    "image": "ipfs://QmavW7yMgNri9gKAQcumgs88qbfR6WPNMT1Rtz4Qbxs2C9",
+    "animation_url": "https://scapes.punkscape.xyz/#3422",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3422",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3422",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3422",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3422"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3422",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Golden Sea"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2014341846
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #6337",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6337",
+    "image": "ipfs://QmbAYgjKz9VepxayyYZy6s5z9XJxUSWtNzr5E7xUcQHKMb",
+    "animation_url": "https://scapes.punkscape.xyz/#6337",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6337",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6337",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6337",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6337"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6337",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Soul"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2120621537
+        }
+    ]
+}

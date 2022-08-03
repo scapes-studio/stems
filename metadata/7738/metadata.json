@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #7738",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7738",
+    "image": "ipfs://QmWvaesdBr9Cc6hSeScGeW1uJAM6LBR1L9zBqDvSjU7xGQ",
+    "animation_url": "https://scapes.punkscape.xyz/#7738",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7738",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7738",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7738",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7738"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7738",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2332254819
+        }
+    ]
+}

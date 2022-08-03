@@ -1,0 +1,56 @@
+{
+    "name": "PunkScape #8651",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8651",
+    "image": "ipfs://Qmd3M19k3tE4DKfL1GTdNZQgmpgEXpnU3noXKsQeNwEr5F",
+    "animation_url": "https://scapes.punkscape.xyz/#8651",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8651",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8651",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8651",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8651"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8651",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Old House"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2361501191
+        }
+    ]
+}

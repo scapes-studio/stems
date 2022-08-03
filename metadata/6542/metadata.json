@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #6542",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6542",
+    "image": "ipfs://QmXvjQ2RaMYjxEiAY4KgXkUNDpcmodNgEhmiZewHqUdQJD",
+    "animation_url": "https://scapes.punkscape.xyz/#6542",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6542",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6542",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6542",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6542"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6542",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Palm"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2258557104
+        }
+    ]
+}

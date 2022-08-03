@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #6386",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6386",
+    "image": "ipfs://Qma2qupwea5UhNSauE9CcpoXnC4B9aAJnzUtiCuU7inewL",
+    "animation_url": "https://scapes.punkscape.xyz/#6386",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6386",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6386",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6386",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6386"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6386",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Oasis"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2314001783
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #3240",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3240",
+    "image": "ipfs://Qmd2JMh5x9pL7ZvL9tzWYQ1vSVJVdDd48rCuQg8PGeUHzx",
+    "animation_url": "https://scapes.punkscape.xyz/#3240",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3240",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3240",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3240",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3240"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3240",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Soul Light"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Blocks"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Tiny House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2030539813
+        }
+    ]
+}

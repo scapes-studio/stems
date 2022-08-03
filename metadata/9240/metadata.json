@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #9240",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9240",
+    "image": "ipfs://QmYo9PSpoF7AjzqkTzcPpDF7HMPE6qYikgRnKJZs1ad7Mm",
+    "animation_url": "https://scapes.punkscape.xyz/#9240",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9240",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9240",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9240",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9240"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9240",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Europa"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Toxic River"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2313232895
+        }
+    ]
+}

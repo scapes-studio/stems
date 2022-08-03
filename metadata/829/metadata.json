@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #829",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/829",
+    "image": "ipfs://QmYU9Lj5q6TStMW19Xn7iaFep9cHuVLub7eyZ8z3r2PbNY",
+    "animation_url": "https://scapes.punkscape.xyz/#829",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#829",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#829",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#829",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#829"
+    },
+    "external_url": "https://punkscape.xyz/scapes/829",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Hut"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2486218210
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #1749",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1749",
+    "image": "ipfs://QmdhYZAWYffkq1wi5Bdo95NvhggzMm6fT4XKybU2HaThMV",
+    "animation_url": "https://scapes.punkscape.xyz/#1749",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1749",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1749",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1749",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1749"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1749",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Lake"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1800451444
+        }
+    ]
+}

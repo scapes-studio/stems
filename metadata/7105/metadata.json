@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #7105",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7105",
+    "image": "ipfs://QmbBHqeXdvhTDuWMUrRx96Bpd5xVW8hr7SwVrW4bufxRqQ",
+    "animation_url": "https://scapes.punkscape.xyz/#7105",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7105",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7105",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7105",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7105"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7105",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1906046958
+        }
+    ]
+}

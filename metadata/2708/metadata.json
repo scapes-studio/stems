@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #2708",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2708",
+    "image": "ipfs://QmeuRY35qLytQZLKaoAJqDMitUcVDnmLaQPKYZosictsJK",
+    "animation_url": "https://scapes.punkscape.xyz/#2708",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2708",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2708",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2708",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2708"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2708",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1694604039
+        }
+    ]
+}

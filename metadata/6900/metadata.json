@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #6900",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6900",
+    "image": "ipfs://QmeGZsgrhyvd44P1WMqmfDN6uvCSDdkov98B2FsapciSvb",
+    "animation_url": "https://scapes.punkscape.xyz/#6900",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6900",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6900",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6900",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6900"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6900",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Europa"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Lighthouse"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2479001681
+        }
+    ]
+}

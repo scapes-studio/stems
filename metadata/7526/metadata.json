@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #7526",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7526",
+    "image": "ipfs://QmduJQuJRiciHKJ7HBenoJB4WZweb9jshmvK3J8mvQQ8Mb",
+    "animation_url": "https://scapes.punkscape.xyz/#7526",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7526",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7526",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7526",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7526"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7526",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Evening Clouds"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Colosseum"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1755091604
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #764",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/764",
+    "image": "ipfs://QmRuhY753Cnc9fraCekwYTwFbZvx6a66LB1rqGFs3Kz3yb",
+    "animation_url": "https://scapes.punkscape.xyz/#764",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#764",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#764",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#764",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#764"
+    },
+    "external_url": "https://punkscape.xyz/scapes/764",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mini House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2427994115
+        }
+    ]
+}

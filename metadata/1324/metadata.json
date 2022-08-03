@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #1324",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1324",
+    "image": "ipfs://QmP6Qb6sFL51JN6ufNKnRKZ8nt47Ju2EW2FQWSDGShRjQP",
+    "animation_url": "https://scapes.punkscape.xyz/#1324",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1324",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1324",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1324",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1324"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1324",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "BFR"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2320849314
+        }
+    ]
+}

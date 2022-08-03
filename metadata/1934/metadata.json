@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #1934",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1934",
+    "image": "ipfs://QmfMDKK7RNbvwP4DEvbfbmq4njEsdGoucmFthHqou3q83M",
+    "animation_url": "https://scapes.punkscape.xyz/#1934",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1934",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1934",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1934",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1934"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1934",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sherp"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2349950337
+        }
+    ]
+}

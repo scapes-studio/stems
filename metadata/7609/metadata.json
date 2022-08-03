@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #7609",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7609",
+    "image": "ipfs://QmeM59N8aGWZFkHHguyWbZhRhwnj5embpe5HN9zwkz9Lt8",
+    "animation_url": "https://scapes.punkscape.xyz/#7609",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7609",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7609",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7609",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7609"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7609",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Delivery Van"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2345917556
+        }
+    ]
+}

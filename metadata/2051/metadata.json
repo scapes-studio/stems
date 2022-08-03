@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #2051",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2051",
+    "image": "ipfs://QmP7DChMbquFAgCYhGQjYoMTQeL9D4P66HNLgP6MLWFsMu",
+    "animation_url": "https://scapes.punkscape.xyz/#2051",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2051",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2051",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2051",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2051"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2051",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1865933631
+        }
+    ]
+}

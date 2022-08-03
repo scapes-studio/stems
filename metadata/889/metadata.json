@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #889",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/889",
+    "image": "ipfs://QmRrLMy2vXpPiw7KyxGZAWK1grebQE3SFcUk195SSBJ3TW",
+    "animation_url": "https://scapes.punkscape.xyz/#889",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#889",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#889",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#889",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#889"
+    },
+    "external_url": "https://punkscape.xyz/scapes/889",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Police Car"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2139829825
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #9198",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9198",
+    "image": "ipfs://Qmb2mejiAxti39daatoRmMGiZ5QVy4kcGxcT6ZPzynUpSx",
+    "animation_url": "https://scapes.punkscape.xyz/#9198",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9198",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9198",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9198",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9198"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9198",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Windmill"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Saturn V"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2406026961
+        }
+    ]
+}

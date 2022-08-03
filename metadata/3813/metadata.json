@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #3813",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3813",
+    "image": "ipfs://QmTT2S9Ti8j3Xys4UANVZwgsfAXKwuJQwHfMM5JoEe8zMy",
+    "animation_url": "https://scapes.punkscape.xyz/#3813",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3813",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3813",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3813",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3813"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3813",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Tiny House"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "BFR"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2202397374
+        }
+    ]
+}

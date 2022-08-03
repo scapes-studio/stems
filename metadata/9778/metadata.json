@@ -1,0 +1,56 @@
+{
+    "name": "PunkScape #9778",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9778",
+    "image": "ipfs://Qmc2RcefjhpuDXub6QV91z3p5Dx5KQfCRiGNNi7gvbmxwj",
+    "animation_url": "https://scapes.punkscape.xyz/#9778",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9778",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9778",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9778",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9778"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9778",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 2"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2139302964
+        }
+    ]
+}

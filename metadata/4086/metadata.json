@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #4086",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4086",
+    "image": "ipfs://QmNM7XzHxnnQ7UhAY3m9AMocngZP3wBBNaVUpH19ovnzn6",
+    "animation_url": "https://scapes.punkscape.xyz/#4086",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4086",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4086",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4086",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4086"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4086",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Island"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Big Ben"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2084162895
+        }
+    ]
+}

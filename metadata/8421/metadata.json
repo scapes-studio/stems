@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #8421",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8421",
+    "image": "ipfs://QmU7dP2C1LkkD8TtB3RmF4ivjsQn44uccd5fR6SFe9Avnh",
+    "animation_url": "https://scapes.punkscape.xyz/#8421",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8421",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8421",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8421",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8421"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8421",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Europa"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Shuttle"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1654508587
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #4636",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4636",
+    "image": "ipfs://QmaFxyXbLy8Bqe7wNuj634Y3rPoCQxdCUbWiyKeUdLeY8X",
+    "animation_url": "https://scapes.punkscape.xyz/#4636",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4636",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4636",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4636",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4636"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4636",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1987751395
+        }
+    ]
+}

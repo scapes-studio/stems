@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #6319",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6319",
+    "image": "ipfs://QmQbao234SBvR1nsYvr75cRTCR8NNBCnxJbdkaRszMWzcW",
+    "animation_url": "https://scapes.punkscape.xyz/#6319",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6319",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6319",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6319",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6319"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6319",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "BFR"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2456592724
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #3547",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3547",
+    "image": "ipfs://QmNMapoJYnnoeNtm4fiS6Lfwmt7ru6yJJBr1g4hG2vryPd",
+    "animation_url": "https://scapes.punkscape.xyz/#3547",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3547",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3547",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3547",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3547"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3547",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 4"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1798099736
+        }
+    ]
+}

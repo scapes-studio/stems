@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #2920",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2920",
+    "image": "ipfs://QmQNFpKffH3b73QrM9krKidAdALXeAGV99bsnn7xMctNoG",
+    "animation_url": "https://scapes.punkscape.xyz/#2920",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2920",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2920",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2920",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2920"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2920",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Old House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1982744966
+        }
+    ]
+}

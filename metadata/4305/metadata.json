@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #4305",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4305",
+    "image": "ipfs://Qmc18w6dG41qG7poKFkMayAqAEhvWVDMAwucnBeeHeQYGr",
+    "animation_url": "https://scapes.punkscape.xyz/#4305",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4305",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4305",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4305",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4305"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4305",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Colosseum"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2435577131
+        }
+    ]
+}

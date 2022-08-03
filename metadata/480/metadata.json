@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #480",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/480",
+    "image": "ipfs://QmR5PyE9QBHNBBemHLTd66BnHM6uj8TJa3SMkcp2mPpiha",
+    "animation_url": "https://scapes.punkscape.xyz/#480",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#480",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#480",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#480",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#480"
+    },
+    "external_url": "https://punkscape.xyz/scapes/480",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "City",
+            "value": "Old Town"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Lake"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2506010672
+        }
+    ]
+}

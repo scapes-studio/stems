@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #2898",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2898",
+    "image": "ipfs://Qmf9KjQ2s5tcFfBfrABBgJmfAtM97eLcVKvrvnD4mf9ETU",
+    "animation_url": "https://scapes.punkscape.xyz/#2898",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2898",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2898",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2898",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2898"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2898",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 2"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2041902358
+        }
+    ]
+}

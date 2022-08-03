@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #2100",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2100",
+    "image": "ipfs://QmV5DgtT3rRkXweyNzh3chqAeBduaQ6uwq14B8nsgK1cAJ",
+    "animation_url": "https://scapes.punkscape.xyz/#2100",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2100",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2100",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2100",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2100"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2100",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Falling Stars"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Evening Clouds"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Beams"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2079665138
+        }
+    ]
+}

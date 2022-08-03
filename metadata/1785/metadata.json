@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #1785",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1785",
+    "image": "ipfs://QmXipskmHpigw35Kh318DTmC1jsRbj4dZkmF3LbPiptXa7",
+    "animation_url": "https://scapes.punkscape.xyz/#1785",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1785",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1785",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1785",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1785"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1785",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Evening Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Lighthouse"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2481108065
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #8310",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8310",
+    "image": "ipfs://QmbRVqXBh1rgTMXXcsggkwtqmK1CJhx4JWEVBPXwkariD2",
+    "animation_url": "https://scapes.punkscape.xyz/#8310",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8310",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8310",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8310",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8310"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8310",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1718702823
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #9740",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9740",
+    "image": "ipfs://QmfAt9Rt2eqrsZmzAQgZX4517FLy213k6roBBVCvyVwzXG",
+    "animation_url": "https://scapes.punkscape.xyz/#9740",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9740",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9740",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9740",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9740"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9740",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Temple"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1977472642
+        }
+    ]
+}

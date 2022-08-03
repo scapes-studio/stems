@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #8012",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8012",
+    "image": "ipfs://Qmc2FpKrXVJPCDP4zZnXzPH7oySnG8KA1FmSqRWgY5PVzH",
+    "animation_url": "https://scapes.punkscape.xyz/#8012",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8012",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8012",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8012",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8012"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8012",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Tiny House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2401188738
+        }
+    ]
+}

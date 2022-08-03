@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #5003",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5003",
+    "image": "ipfs://QmTK8YU5TgoEMZp6AzG8EhPewmbKEfcwg17BgWr4tZCe4P",
+    "animation_url": "https://scapes.punkscape.xyz/#5003",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5003",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5003",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5003",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5003"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5003",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Pickup"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1840474693
+        }
+    ]
+}

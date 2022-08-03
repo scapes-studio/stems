@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #6874",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6874",
+    "image": "ipfs://Qmc3uzbXLuFRFAx6aK7azLCLuaF1j4g2fh2aT52TK2tcM5",
+    "animation_url": "https://scapes.punkscape.xyz/#6874",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6874",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6874",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6874",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6874"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6874",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sherp"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2313602090
+        }
+    ]
+}

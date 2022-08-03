@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #3173",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3173",
+    "image": "ipfs://QmaWCUdWcjHLWU6fRsgBVXJwstK3po6sTbdiyXmcXhuB6Y",
+    "animation_url": "https://scapes.punkscape.xyz/#3173",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3173",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3173",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3173",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3173"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3173",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "City",
+            "value": "Old Town"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Lake"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2109070068
+        }
+    ]
+}

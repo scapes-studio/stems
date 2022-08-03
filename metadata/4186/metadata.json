@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #4186",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4186",
+    "image": "ipfs://QmdH65SEDm44vTkpKhrBUrJ4hEedGseECGT3bTjU1iSaFH",
+    "animation_url": "https://scapes.punkscape.xyz/#4186",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4186",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4186",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4186",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4186"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4186",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1821276110
+        }
+    ]
+}

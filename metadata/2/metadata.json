@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #2",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2",
+    "image": "ipfs://QmXcUXq4oDEhhhsyJTQzgFFU2CRkmBZi7p9gAQyf1sALob",
+    "animation_url": "https://scapes.punkscape.xyz/#2",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "BFR"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2329741857
+        }
+    ]
+}

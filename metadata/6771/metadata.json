@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #6771",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6771",
+    "image": "ipfs://QmR8uA7dYcFGR2KFurM2wciXzdgMiJ7iDNpizeuNAPvX9M",
+    "animation_url": "https://scapes.punkscape.xyz/#6771",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6771",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6771",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6771",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6771"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6771",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Falling Stars"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Tiny House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1662870421
+        }
+    ]
+}

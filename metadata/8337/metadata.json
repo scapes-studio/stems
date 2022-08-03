@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #8337",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8337",
+    "image": "ipfs://QmWmJDfamJZBiUF7cbqFPUPLp1P3t332P3qBWPnL52oy55",
+    "animation_url": "https://scapes.punkscape.xyz/#8337",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8337",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8337",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8337",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8337"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8337",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Falling Stars"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Europa"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sherp"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1909402760
+        }
+    ]
+}

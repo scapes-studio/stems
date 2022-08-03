@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #6997",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6997",
+    "image": "ipfs://QmWEPB2mE8tpkh2BdjN8GDM2p6ZHkAZP4WHnxKTEw9Jwb6",
+    "animation_url": "https://scapes.punkscape.xyz/#6997",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6997",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6997",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6997",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6997"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6997",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Lighthouse"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2124276863
+        }
+    ]
+}

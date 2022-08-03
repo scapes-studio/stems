@@ -1,0 +1,56 @@
+{
+    "name": "PunkScape #2068",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2068",
+    "image": "ipfs://QmaEHUUU28J5NCy6cDnSD7whgpe5tpqpjz78fqNfLqP4V8",
+    "animation_url": "https://scapes.punkscape.xyz/#2068",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2068",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2068",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2068",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2068"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2068",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Europa"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Big Ben"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "BFR"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2183206577
+        }
+    ]
+}

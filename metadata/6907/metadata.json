@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #6907",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6907",
+    "image": "ipfs://QmY8cmU4hfNQJbB2ALLYTJe6uJeRuDtXt478i2EhJjjmEg",
+    "animation_url": "https://scapes.punkscape.xyz/#6907",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6907",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6907",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6907",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6907"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6907",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Tiny House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1871286063
+        }
+    ]
+}

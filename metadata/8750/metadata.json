@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #8750",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8750",
+    "image": "ipfs://QmTUCKydjNF9tgQ7hqi5wu29iQYm5K5oUBqd81CU4HNnt8",
+    "animation_url": "https://scapes.punkscape.xyz/#8750",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8750",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8750",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8750",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8750"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8750",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Cyber Truck"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1804337281
+        }
+    ]
+}

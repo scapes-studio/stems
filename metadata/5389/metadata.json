@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #5389",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5389",
+    "image": "ipfs://QmNQqPdL8WTKVWvgkBHQxydYVFhHyQjMXUpPKi83K4ppr2",
+    "animation_url": "https://scapes.punkscape.xyz/#5389",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5389",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5389",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5389",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5389"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5389",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1806490999
+        }
+    ]
+}

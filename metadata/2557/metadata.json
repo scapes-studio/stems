@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #2557",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2557",
+    "image": "ipfs://QmPn6tsm68q93zQbyU4bGUqZPbQWxVrM4ATTpfC8WvnFc9",
+    "animation_url": "https://scapes.punkscape.xyz/#2557",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2557",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2557",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2557",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2557"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2557",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Europa"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 4"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2197281336
+        }
+    ]
+}

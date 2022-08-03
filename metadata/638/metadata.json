@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #638",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/638",
+    "image": "ipfs://QmY8Z2Xfsx2HnGyzNapZYnmyS9pfnZkbpx9fVsx8GN7gbK",
+    "animation_url": "https://scapes.punkscape.xyz/#638",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#638",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#638",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#638",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#638"
+    },
+    "external_url": "https://punkscape.xyz/scapes/638",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Old House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2240030654
+        }
+    ]
+}

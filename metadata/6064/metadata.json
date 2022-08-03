@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #6064",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6064",
+    "image": "ipfs://QmSp6fV9b9hPEbkmtBz85d4tvTafy73YG6jkqQiEbtrvDp",
+    "animation_url": "https://scapes.punkscape.xyz/#6064",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6064",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6064",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6064",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6064"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6064",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2330077497
+        }
+    ]
+}

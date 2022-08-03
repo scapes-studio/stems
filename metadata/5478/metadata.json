@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #5478",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5478",
+    "image": "ipfs://QmauS1nKjcP8N4vXJ1xWQm69bk4EnVvE8HdxD1gjEtYpos",
+    "animation_url": "https://scapes.punkscape.xyz/#5478",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5478",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5478",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5478",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5478"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5478",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 5"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2328112039
+        }
+    ]
+}

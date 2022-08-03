@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #8492",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8492",
+    "image": "ipfs://QmRW48H9NZcpSiUEKGJFWQ2RHqbstLFzgJ44hVvqUHEtUU",
+    "animation_url": "https://scapes.punkscape.xyz/#8492",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8492",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8492",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8492",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8492"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8492",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Falling Stars"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Saturn V"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sedan"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1981548295
+        }
+    ]
+}

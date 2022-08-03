@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #8047",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8047",
+    "image": "ipfs://QmXhNAdscXiyTfm5AHQ5TYrUNLqCZ7v9DfRGeqrnTaRRkD",
+    "animation_url": "https://scapes.punkscape.xyz/#8047",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8047",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8047",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8047",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8047"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8047",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Lake"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1693660072
+        }
+    ]
+}

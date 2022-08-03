@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #1861",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1861",
+    "image": "ipfs://QmfNhWHrsBZjxRxVmHKbibJxC1HcFXQ1eNKWDVsp3Lb92Z",
+    "animation_url": "https://scapes.punkscape.xyz/#1861",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1861",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1861",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1861",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1861"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1861",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Delivery Van"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2468554312
+        }
+    ]
+}

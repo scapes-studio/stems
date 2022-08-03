@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #8937",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8937",
+    "image": "ipfs://QmdmfUPozkJCzRAoKBZC4kS77KLbYuNgDY2LFozxAmFEuv",
+    "animation_url": "https://scapes.punkscape.xyz/#8937",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8937",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8937",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8937",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8937"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8937",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Toxic River"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Island"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Palm"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2380875249
+        }
+    ]
+}

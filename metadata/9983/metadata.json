@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #9983",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9983",
+    "image": "ipfs://QmZd1Pjej7TCzwmNe3YMBnKrrSdy1dTjyZkCxt1Y4puLnK",
+    "animation_url": "https://scapes.punkscape.xyz/#9983",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9983",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9983",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9983",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9983"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9983",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Tiny House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1899389661
+        }
+    ]
+}

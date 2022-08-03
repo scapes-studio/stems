@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #9360",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9360",
+    "image": "ipfs://QmS7kHaxiXutn3cibMqxjQZ9jNdUG4RVFyRLPqXBMoe93x",
+    "animation_url": "https://scapes.punkscape.xyz/#9360",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9360",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9360",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9360",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9360"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9360",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Blocks"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Saturn V"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sherp"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2442918016
+        }
+    ]
+}

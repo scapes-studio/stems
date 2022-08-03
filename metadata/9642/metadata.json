@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #9642",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9642",
+    "image": "ipfs://QmQqGQDLKkF9ypZjdp27wv5uFu7j3a9STTZXVwk7RZbEQ8",
+    "animation_url": "https://scapes.punkscape.xyz/#9642",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9642",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9642",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9642",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9642"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9642",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2270891328
+        }
+    ]
+}

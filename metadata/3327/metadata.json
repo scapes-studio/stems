@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #3327",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3327",
+    "image": "ipfs://QmRYXLAr1HRRK78EiMx79HTUDvPA3sDnBQ5ZrXuuTCJ6h3",
+    "animation_url": "https://scapes.punkscape.xyz/#3327",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3327",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3327",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3327",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3327"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3327",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter and his Moon"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2419384455
+        }
+    ]
+}

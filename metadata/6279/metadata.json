@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #6279",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6279",
+    "image": "ipfs://QmYad19YGBAgV9daRzhZautkeA4beJ6VtbrbjrdnXF3H6K",
+    "animation_url": "https://scapes.punkscape.xyz/#6279",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6279",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6279",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6279",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6279"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6279",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Lake"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Island"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Pyramid"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1761507499
+        }
+    ]
+}

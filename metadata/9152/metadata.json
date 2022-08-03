@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #9152",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9152",
+    "image": "ipfs://QmfLHPNDQhjbL6tj8f55Q6RJgFZjR8pQ3uDfULBiEE2TW8",
+    "animation_url": "https://scapes.punkscape.xyz/#9152",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9152",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9152",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9152",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9152"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9152",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Falling Stars"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1934189182
+        }
+    ]
+}

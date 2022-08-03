@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #323",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/323",
+    "image": "ipfs://Qmdx8eBvxVowKz1n2KLrAv6uag5i1hPXAJBPscY7d47dU7",
+    "animation_url": "https://scapes.punkscape.xyz/#323",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#323",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#323",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#323",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#323"
+    },
+    "external_url": "https://punkscape.xyz/scapes/323",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1752151247
+        }
+    ]
+}

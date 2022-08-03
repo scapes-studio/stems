@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #8043",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8043",
+    "image": "ipfs://QmcTLtr6gNQx6pupxbMNdvp7sMMB94iu7A5MrYrSB1ZeuZ",
+    "animation_url": "https://scapes.punkscape.xyz/#8043",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8043",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8043",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8043",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8043"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8043",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Tree of Life"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mini House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1928234508
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #5880",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5880",
+    "image": "ipfs://QmNp5ra3yWEbJm4bS8X5XDNto3zafEF3Gy25tbRHKoYvHm",
+    "animation_url": "https://scapes.punkscape.xyz/#5880",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5880",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5880",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5880",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5880"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5880",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Hut"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1673177312
+        }
+    ]
+}

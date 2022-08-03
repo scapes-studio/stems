@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #8067",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8067",
+    "image": "ipfs://QmWoEBxY2Wc1BuAupVFS1vmxd7pchUzc8cPxJKxMwcymdB",
+    "animation_url": "https://scapes.punkscape.xyz/#8067",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8067",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8067",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8067",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8067"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8067",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2222338670
+        }
+    ]
+}

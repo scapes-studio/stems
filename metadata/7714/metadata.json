@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #7714",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7714",
+    "image": "ipfs://QmXF3dHmRcW1Bgv39e1n3L4cPbpbZ1Fh2Eot13MLzufhCW",
+    "animation_url": "https://scapes.punkscape.xyz/#7714",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7714",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7714",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7714",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7714"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7714",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Europa"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1883300450
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #5213",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5213",
+    "image": "ipfs://QmcTivBH7TBgiqds4d94oX4fg6S7qXogTUfUT8ZdnHb71f",
+    "animation_url": "https://scapes.punkscape.xyz/#5213",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5213",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5213",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5213",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5213"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5213",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Lake"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Windmill"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1915019283
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #3279",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3279",
+    "image": "ipfs://QmemjXC2oaXehZmNhqaGZy3t352Q24gD3KWugv1zGp45pg",
+    "animation_url": "https://scapes.punkscape.xyz/#3279",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3279",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3279",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3279",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3279"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3279",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Statue of Liberty"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1724730600
+        }
+    ]
+}

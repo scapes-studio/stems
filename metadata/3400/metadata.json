@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #3400",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3400",
+    "image": "ipfs://QmazEo3tWDLtwBuL99UaNrDj4J2nCLGoQturqTzRP1BrZf",
+    "animation_url": "https://scapes.punkscape.xyz/#3400",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3400",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3400",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3400",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3400"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3400",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Volcano"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Burj"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Statue of Liberty"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1731266509
+        }
+    ]
+}

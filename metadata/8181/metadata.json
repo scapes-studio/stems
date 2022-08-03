@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #8181",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8181",
+    "image": "ipfs://QmSiX9XRrjN99RJRVj9unhwy1V5cwctoPcDF7Zs8FXeBvw",
+    "animation_url": "https://scapes.punkscape.xyz/#8181",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8181",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8181",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8181",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8181"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8181",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Blocks"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Palm"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2151461672
+        }
+    ]
+}

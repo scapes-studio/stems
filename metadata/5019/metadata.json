@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #5019",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5019",
+    "image": "ipfs://QmW1hZiF8SFj1venqB5GG5uD72sodagBzXo66qvro3JRTn",
+    "animation_url": "https://scapes.punkscape.xyz/#5019",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5019",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5019",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5019",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5019"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5019",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mini House"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1918548223
+        }
+    ]
+}

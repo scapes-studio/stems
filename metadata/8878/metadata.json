@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #8878",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8878",
+    "image": "ipfs://QmPGLdf4o6yud2Lgw1maefBY1hk3JSYmsYgBrmmMMCzFhT",
+    "animation_url": "https://scapes.punkscape.xyz/#8878",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8878",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8878",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8878",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8878"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8878",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Golden Sea"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Island"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Tiny House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2336993785
+        }
+    ]
+}

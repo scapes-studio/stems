@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #4008",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4008",
+    "image": "ipfs://QmTV1mwB1QJZ66cHjVmpT42LU4tHwATxonWnbiKCpDkUXb",
+    "animation_url": "https://scapes.punkscape.xyz/#4008",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4008",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4008",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4008",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4008"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4008",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 3"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1706259311
+        }
+    ]
+}

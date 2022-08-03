@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #7159",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7159",
+    "image": "ipfs://QmX7P5RPJEtGubjFcyPGAUvZexnHDUWmwDm7a9Cq8WJ2Mx",
+    "animation_url": "https://scapes.punkscape.xyz/#7159",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7159",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7159",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7159",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7159"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7159",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Falling Stars"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Windmill"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2123984516
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #6864",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6864",
+    "image": "ipfs://QmbymQW6j5mLZiKBgS6tncSdo4hX2GES2csMg2tCs5jWhv",
+    "animation_url": "https://scapes.punkscape.xyz/#6864",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6864",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6864",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6864",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6864"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6864",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Soul Meteors"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Hut"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2504431244
+        }
+    ]
+}

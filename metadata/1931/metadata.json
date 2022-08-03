@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #1931",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1931",
+    "image": "ipfs://QmPksaXiqGTuB5D9pEpaETb4r6NPQLWEgC4b42B6h9wCtk",
+    "animation_url": "https://scapes.punkscape.xyz/#1931",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1931",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1931",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1931",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1931"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1931",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Police Car"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2073843451
+        }
+    ]
+}

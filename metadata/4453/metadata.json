@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #4453",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4453",
+    "image": "ipfs://QmQQVYY6iBU31PVVL6Fa5GSHhuQ2T7J9eya2np2tNXCnho",
+    "animation_url": "https://scapes.punkscape.xyz/#4453",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4453",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4453",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4453",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4453"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4453",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Ether"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1690696465
+        }
+    ]
+}

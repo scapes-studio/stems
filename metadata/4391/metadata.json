@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #4391",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4391",
+    "image": "ipfs://QmRiV9hSTjSm1npPyfBf1a6A7xs7W9RnmmEEba3YRiY65p",
+    "animation_url": "https://scapes.punkscape.xyz/#4391",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4391",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4391",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4391",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4391"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4391",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Evening Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Colosseum"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2422103372
+        }
+    ]
+}

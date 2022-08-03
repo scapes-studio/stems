@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #4153",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4153",
+    "image": "ipfs://QmU4jGTMG9rNmPnF3GzCXJHpKrGVssL7eQRwavqjHdymKT",
+    "animation_url": "https://scapes.punkscape.xyz/#4153",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4153",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4153",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4153",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4153"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4153",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Old House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1959960436
+        }
+    ]
+}

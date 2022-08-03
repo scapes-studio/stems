@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #593",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/593",
+    "image": "ipfs://QmdGMdWaUYbJttBtf4PC8KGfz8cfkgpSXG5cLXKvn8uczu",
+    "animation_url": "https://scapes.punkscape.xyz/#593",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#593",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#593",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#593",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#593"
+    },
+    "external_url": "https://punkscape.xyz/scapes/593",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Burj"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1651209310
+        }
+    ]
+}

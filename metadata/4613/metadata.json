@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #4613",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4613",
+    "image": "ipfs://QmcfWcS21UAjobuV2j6zKtgM9F2xj3f1otivwb9vmqbewg",
+    "animation_url": "https://scapes.punkscape.xyz/#4613",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4613",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4613",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4613",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4613"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4613",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Europa"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Tiny House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1907070427
+        }
+    ]
+}

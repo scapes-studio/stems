@@ -1,0 +1,56 @@
+{
+    "name": "PunkScape #7489",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7489",
+    "image": "ipfs://QmQ73gbMNdEtQpHZ96tiS2vWiQu9gksJXx88JCbFBx7Wxh",
+    "animation_url": "https://scapes.punkscape.xyz/#7489",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7489",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7489",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7489",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7489"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7489",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mini House"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2332140191
+        }
+    ]
+}

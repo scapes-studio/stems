@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #4796",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4796",
+    "image": "ipfs://QmVrZoDTPRKmdvMUt5GypduvQAp4zFRPo6dVUW7xRzzaM2",
+    "animation_url": "https://scapes.punkscape.xyz/#4796",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4796",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4796",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4796",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4796"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4796",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Temple"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Statue of Liberty"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1916922112
+        }
+    ]
+}

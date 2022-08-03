@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #5006",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5006",
+    "image": "ipfs://QmQhmgG4rzhWkgzaox8yG8Q9B352czuFvSY5mDF5uUzBRo",
+    "animation_url": "https://scapes.punkscape.xyz/#5006",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5006",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5006",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5006",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5006"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5006",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Glacier"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Shuttle"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2279961371
+        }
+    ]
+}

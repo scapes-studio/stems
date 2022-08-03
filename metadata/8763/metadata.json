@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #8763",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8763",
+    "image": "ipfs://Qmbf1pCHCe6v7geRSUreD5wD2GXe3zu6fbWZXKNzMhtcta",
+    "animation_url": "https://scapes.punkscape.xyz/#8763",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8763",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8763",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8763",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8763"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8763",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Statue of Liberty"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "BFR"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2381804486
+        }
+    ]
+}

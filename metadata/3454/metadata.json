@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #3454",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3454",
+    "image": "ipfs://QmXhfW9xNYV89uceYxTPfSRuhE8v8rd8JnKMYCMPba9SfE",
+    "animation_url": "https://scapes.punkscape.xyz/#3454",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3454",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3454",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3454",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3454"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3454",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Soul"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1667746097
+        }
+    ]
+}

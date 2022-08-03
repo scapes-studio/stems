@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #8382",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8382",
+    "image": "ipfs://QmZXw5rgcZAp7kQ9BEKg7a3BszWZLpnP4mNnhSTA2T5BcX",
+    "animation_url": "https://scapes.punkscape.xyz/#8382",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8382",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8382",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8382",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8382"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8382",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Animals",
+            "value": "Unicorn"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2217129196
+        }
+    ]
+}

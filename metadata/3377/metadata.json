@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #3377",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3377",
+    "image": "ipfs://QmQx6NJPo54bs348Rd2rSx8TPxRuZFsGA7u97wccJQXxj7",
+    "animation_url": "https://scapes.punkscape.xyz/#3377",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3377",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3377",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3377",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3377"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3377",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2018886363
+        }
+    ]
+}

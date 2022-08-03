@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #4191",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4191",
+    "image": "ipfs://QmWVJ5xDG2CcxneciYQa52DH4uiHD6oNUfnapSELftCypf",
+    "animation_url": "https://scapes.punkscape.xyz/#4191",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4191",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4191",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4191",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4191"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4191",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Earths"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "BFR"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2208274939
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #3304",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3304",
+    "image": "ipfs://QmWfhD4849kdJLRfmuYr7kajd7cJZH68PSokkszdTQyNV8",
+    "animation_url": "https://scapes.punkscape.xyz/#3304",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3304",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3304",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3304",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3304"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3304",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Shuttle"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1993745588
+        }
+    ]
+}

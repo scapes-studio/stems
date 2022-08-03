@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #5679",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5679",
+    "image": "ipfs://QmUZkozeX2u7h34ntAFnXojm7bcMDowgtqLUspFq7vpCCc",
+    "animation_url": "https://scapes.punkscape.xyz/#5679",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5679",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5679",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5679",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5679"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5679",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Old House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2464534715
+        }
+    ]
+}

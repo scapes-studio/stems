@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #5789",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5789",
+    "image": "ipfs://QmPJkdxMzhLDPbyQnJLb3mAV5vnXSJpAUKpNQCsqBqLpeR",
+    "animation_url": "https://scapes.punkscape.xyz/#5789",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5789",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5789",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5789",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5789"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5789",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Europa"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mini House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2291259289
+        }
+    ]
+}

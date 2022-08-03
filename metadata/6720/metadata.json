@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #6720",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6720",
+    "image": "ipfs://QmYM6R7g4AtnR8XSyrCCrDuWsnSzoLqg4Lm7coTyAKWWUQ",
+    "animation_url": "https://scapes.punkscape.xyz/#6720",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6720",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6720",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6720",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6720"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6720",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Earths"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 1"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2306034937
+        }
+    ]
+}

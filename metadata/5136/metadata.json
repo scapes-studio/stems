@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #5136",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5136",
+    "image": "ipfs://QmeSMsf6pJQ4132yoAXoTAAVA5dX9S8DSA1scLqHcnCnx3",
+    "animation_url": "https://scapes.punkscape.xyz/#5136",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5136",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5136",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5136",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5136"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5136",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Statue of Liberty"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Delivery Van"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1659527036
+        }
+    ]
+}

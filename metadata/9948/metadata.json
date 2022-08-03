@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #9948",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9948",
+    "image": "ipfs://Qmc8NDFG78AciDxKvQJaucTSuurhWGLkruwSuRhkqVF4BK",
+    "animation_url": "https://scapes.punkscape.xyz/#9948",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9948",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9948",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9948",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9948"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9948",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Pickup"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2079972425
+        }
+    ]
+}

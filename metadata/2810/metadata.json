@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #2810",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2810",
+    "image": "ipfs://QmZNkTbjbVfTETCY8ijpZtKFbayXGx3dhCQvVr4DcP3Y8f",
+    "animation_url": "https://scapes.punkscape.xyz/#2810",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2810",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2810",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2810",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2810"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2810",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2335600555
+        }
+    ]
+}

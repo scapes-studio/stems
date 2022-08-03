@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #5639",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5639",
+    "image": "ipfs://QmYwCzdthH5homtrucwhUynq5VaFef5vr1e9jqqHgfHQzV",
+    "animation_url": "https://scapes.punkscape.xyz/#5639",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5639",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5639",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5639",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5639"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5639",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Evening Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sherp"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1779769991
+        }
+    ]
+}

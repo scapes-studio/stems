@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #5342",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5342",
+    "image": "ipfs://QmR8qwaPGa7iMFGSJCRYKyFnFaGvFc1exGutf2aK6zF6ta",
+    "animation_url": "https://scapes.punkscape.xyz/#5342",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5342",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5342",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5342",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5342"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5342",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Golden Sea"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1658657331
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #8790",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8790",
+    "image": "ipfs://QmQrQaWH5zSgmnSj8u5kDwGrS1pCfP6GGP5VhyS2AtEB8J",
+    "animation_url": "https://scapes.punkscape.xyz/#8790",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8790",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8790",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8790",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8790"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8790",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Old Tree"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2025279290
+        }
+    ]
+}

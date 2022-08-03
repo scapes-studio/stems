@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #3937",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3937",
+    "image": "ipfs://QmX3KuLwTX8H6V3YedGj1ZViZeBuXgXhcsc1qRoHG5e9Zt",
+    "animation_url": "https://scapes.punkscape.xyz/#3937",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3937",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3937",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3937",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3937"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3937",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Falling Stars"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Animals",
+            "value": "Unicorn"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1744781312
+        }
+    ]
+}

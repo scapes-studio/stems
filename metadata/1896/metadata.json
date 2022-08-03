@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #1896",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1896",
+    "image": "ipfs://QmeTiGhTk9tL7VZn8ZohsatDxeizemcyjq9DcypeP2VuJk",
+    "animation_url": "https://scapes.punkscape.xyz/#1896",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1896",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1896",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1896",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1896"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1896",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sedan"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2245857879
+        }
+    ]
+}

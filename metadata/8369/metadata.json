@@ -1,0 +1,56 @@
+{
+    "name": "PunkScape #8369",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8369",
+    "image": "ipfs://QmaGN7C5bi5Fmv9SGv3BFXSiau7m2V9CWcA7beNkEE4dsu",
+    "animation_url": "https://scapes.punkscape.xyz/#8369",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8369",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8369",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8369",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8369"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8369",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Lighthouse"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2363406261
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #8706",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8706",
+    "image": "ipfs://QmV2x8hh7cXrvmVuMk3jyCQfQANp88ADZuuUtJ9x2izEow",
+    "animation_url": "https://scapes.punkscape.xyz/#8706",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8706",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8706",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8706",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8706"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8706",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Cyber Truck"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2388804536
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #9764",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9764",
+    "image": "ipfs://QmUbDmYpCeWoRxoYYBVAhasumVigYM5rmK953Dbs6ia5yj",
+    "animation_url": "https://scapes.punkscape.xyz/#9764",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9764",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9764",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9764",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9764"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9764",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Windmill"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1688480068
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #412",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/412",
+    "image": "ipfs://QmbGcLUtbhVYDteLBuyeJXJzydmU3h1nhSLyfQTXqBkMcf",
+    "animation_url": "https://scapes.punkscape.xyz/#412",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#412",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#412",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#412",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#412"
+    },
+    "external_url": "https://punkscape.xyz/scapes/412",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1682320277
+        }
+    ]
+}

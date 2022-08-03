@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #3031",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3031",
+    "image": "ipfs://QmW5m4ticLmS6wTWCvehwRZD5f9FkbM6twwD2UwTZSvVfz",
+    "animation_url": "https://scapes.punkscape.xyz/#3031",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3031",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3031",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3031",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3031"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3031",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Evening Clouds"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Golden Sea"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Big Ben"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1662137293
+        }
+    ]
+}

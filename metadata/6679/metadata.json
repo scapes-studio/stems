@@ -1,0 +1,56 @@
+{
+    "name": "PunkScape #6679",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6679",
+    "image": "ipfs://QmQFWgTnNMxsX9Aq1K9g3LbC51sw4f28pSEL46mmyEoutd",
+    "animation_url": "https://scapes.punkscape.xyz/#6679",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6679",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6679",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6679",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6679"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6679",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sedan"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1998583105
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #6994",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6994",
+    "image": "ipfs://QmXu7GM69uxjPKPaqp291qp4En7C8ArTebESjzKLinSweM",
+    "animation_url": "https://scapes.punkscape.xyz/#6994",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6994",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6994",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6994",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6994"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6994",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter and his Moon"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Volcano"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sherp"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1896618963
+        }
+    ]
+}

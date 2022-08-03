@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #9086",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9086",
+    "image": "ipfs://QmRxfJHSfqeWBpnF1EoxibvSbPkebcnAXvtfUYyg9mb55R",
+    "animation_url": "https://scapes.punkscape.xyz/#9086",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9086",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9086",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9086",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9086"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9086",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Evening Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Spacelab"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1916410539
+        }
+    ]
+}

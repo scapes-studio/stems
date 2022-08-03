@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #8121",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8121",
+    "image": "ipfs://Qmczpda2Gv5e6S8XHspCm1mrxbv8QBmRSuDXwbG6LkgdGF",
+    "animation_url": "https://scapes.punkscape.xyz/#8121",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8121",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8121",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8121",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8121"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8121",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Cyber Truck"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2158542806
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #3645",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3645",
+    "image": "ipfs://QmRNmoRix8G5SSi5L1GwTG2oVaspRF4X7KX2Aj6ztVEbve",
+    "animation_url": "https://scapes.punkscape.xyz/#3645",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3645",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3645",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3645",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3645"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3645",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin and Ethereum"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2246863038
+        }
+    ]
+}

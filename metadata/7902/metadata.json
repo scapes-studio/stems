@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #7902",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7902",
+    "image": "ipfs://QmahDyEGnkHmkctb77WkYfahi1U35yAPeS61JEHQutAy9c",
+    "animation_url": "https://scapes.punkscape.xyz/#7902",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7902",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7902",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7902",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7902"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7902",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Windmill"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1654324061
+        }
+    ]
+}

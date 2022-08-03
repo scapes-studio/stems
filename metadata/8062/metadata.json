@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #8062",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8062",
+    "image": "ipfs://QmYACyQJt3Yig4nQgK36xnTGc15UvCkaBo9AsC1pTg9Jfy",
+    "animation_url": "https://scapes.punkscape.xyz/#8062",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8062",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8062",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8062",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8062"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8062",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Burj"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2261303876
+        }
+    ]
+}

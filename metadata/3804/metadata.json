@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #3804",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3804",
+    "image": "ipfs://QmTXkAe82Urtqfi1g88Mt347YK98XgbueXT8XPqHwYWEno",
+    "animation_url": "https://scapes.punkscape.xyz/#3804",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3804",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3804",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3804",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3804"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3804",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Animals",
+            "value": "Fox"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1773983820
+        }
+    ]
+}

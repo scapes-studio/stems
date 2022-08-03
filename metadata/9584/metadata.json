@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #9584",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9584",
+    "image": "ipfs://QmXjpXJh8tTjuDeTzu7r2CLB8cBi1fYv33eicFH5nC2Cgx",
+    "animation_url": "https://scapes.punkscape.xyz/#9584",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9584",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9584",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9584",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9584"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9584",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Ethereum"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2507349370
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #6070",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6070",
+    "image": "ipfs://QmYvjA1FZC2E24Pzkpke4ExjWhtJWLL2VD3HpsyTb6Z2nq",
+    "animation_url": "https://scapes.punkscape.xyz/#6070",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6070",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6070",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6070",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6070"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6070",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Pickup"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2329469440
+        }
+    ]
+}

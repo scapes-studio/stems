@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #5310",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5310",
+    "image": "ipfs://QmVqwjMZoRmpJbTRWv3aJDPFhc5sGCnNxrvM8AUutMWP3a",
+    "animation_url": "https://scapes.punkscape.xyz/#5310",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5310",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5310",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5310",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5310"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5310",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Oasis"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mini House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1644729739
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #1316",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1316",
+    "image": "ipfs://QmRHmyHYoecm8iPwcPkhoX9KBL7HHXG4ntMRAhnKaH1jgN",
+    "animation_url": "https://scapes.punkscape.xyz/#1316",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1316",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1316",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1316",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1316"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1316",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Falling Stars"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Lake"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Beach"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Oasis"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2459417237
+        }
+    ]
+}

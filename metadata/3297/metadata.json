@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #3297",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3297",
+    "image": "ipfs://QmY2UgvB7PqCqDvMGc4tW3uBKUBzDgCJzmGLK2VXihYg7i",
+    "animation_url": "https://scapes.punkscape.xyz/#3297",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3297",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3297",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3297",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3297"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3297",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Tiny House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1937051378
+        }
+    ]
+}

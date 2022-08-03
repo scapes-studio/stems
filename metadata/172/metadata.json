@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #172",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/172",
+    "image": "ipfs://QmQFLUEHpYViSd6MexcZusD66kUicKaPXJg8CAoMrJB6HY",
+    "animation_url": "https://scapes.punkscape.xyz/#172",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#172",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#172",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#172",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#172"
+    },
+    "external_url": "https://punkscape.xyz/scapes/172",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter and his Moon"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Statue of Liberty"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2194944938
+        }
+    ]
+}

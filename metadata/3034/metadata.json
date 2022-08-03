@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #3034",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3034",
+    "image": "ipfs://QmVVrPn3hUwUJe1sK3EwhHiCh7USpcpL4p2kEngae139UA",
+    "animation_url": "https://scapes.punkscape.xyz/#3034",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3034",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3034",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3034",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3034"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3034",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Evening Clouds"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Lake"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Island"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1709921058
+        }
+    ]
+}

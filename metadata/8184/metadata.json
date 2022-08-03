@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #8184",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8184",
+    "image": "ipfs://QmWhzogGD8oYoeDpR5U459127c7LJ141nSLusUtxQVXHfQ",
+    "animation_url": "https://scapes.punkscape.xyz/#8184",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8184",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8184",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8184",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8184"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8184",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Pickup"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2175219844
+        }
+    ]
+}

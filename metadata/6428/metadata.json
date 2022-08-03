@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #6428",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6428",
+    "image": "ipfs://QmNrLwjhkMefDDswpSBMT52nt3PfHe16uRkv5M4szMy9JC",
+    "animation_url": "https://scapes.punkscape.xyz/#6428",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6428",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6428",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6428",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6428"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6428",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mini House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1846156433
+        }
+    ]
+}

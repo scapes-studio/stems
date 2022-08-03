@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #3201",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3201",
+    "image": "ipfs://QmZBmAwinWjWFesQGUVFhA2WRzHPMupQY1FwiCvwVqdQ1F",
+    "animation_url": "https://scapes.punkscape.xyz/#3201",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3201",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3201",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3201",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3201"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3201",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Tree of Life"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Square Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1782751753
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #6858",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6858",
+    "image": "ipfs://QmVa6uQYFTcrzXZi9MTWbXDj75EAJiLWxCYegCiUHRBjN5",
+    "animation_url": "https://scapes.punkscape.xyz/#6858",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6858",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6858",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6858",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6858"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6858",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Spacelab"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2126614389
+        }
+    ]
+}

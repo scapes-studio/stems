@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #5685",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5685",
+    "image": "ipfs://QmWosvFQCfUYBX7s9rzNk1RCtd8294ZehvEhXiCPVfkdwY",
+    "animation_url": "https://scapes.punkscape.xyz/#5685",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5685",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5685",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5685",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5685"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5685",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Lighthouse"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1751123591
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #6114",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6114",
+    "image": "ipfs://QmNQDZjve7a5eVZDKXAxKoPHFEf6yoEicHDtyydAzy5Cdz",
+    "animation_url": "https://scapes.punkscape.xyz/#6114",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6114",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6114",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6114",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6114"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6114",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Burj"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1870786671
+        }
+    ]
+}

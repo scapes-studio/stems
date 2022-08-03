@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #1797",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1797",
+    "image": "ipfs://QmeQTmk4CCFMNUhEfhQ9mvBGgrRReNPF7Sgi3RJKnGvAUy",
+    "animation_url": "https://scapes.punkscape.xyz/#1797",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1797",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1797",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1797",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1797"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1797",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "UFO"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2468117908
+        }
+    ]
+}

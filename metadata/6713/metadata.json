@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #6713",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6713",
+    "image": "ipfs://QmNhLkzLbcYP2kEi8eC1ZPyeQYTxWvkJqtM9LUKohH6m53",
+    "animation_url": "https://scapes.punkscape.xyz/#6713",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6713",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6713",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6713",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6713"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6713",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Soul Meteors"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Old House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2129532630
+        }
+    ]
+}

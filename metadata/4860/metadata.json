@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #4860",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4860",
+    "image": "ipfs://QmPowC98Govmh9x1QAgMttGswpc3PX6EaQ3eEsJ9YkVW5V",
+    "animation_url": "https://scapes.punkscape.xyz/#4860",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4860",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4860",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4860",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4860"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4860",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Tiny House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2168170581
+        }
+    ]
+}

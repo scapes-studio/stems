@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #315",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/315",
+    "image": "ipfs://QmRnda7UVoswbrpKQPeaGCUVhtvmuH4yi65wx6iY7ELCRi",
+    "animation_url": "https://scapes.punkscape.xyz/#315",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#315",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#315",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#315",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#315"
+    },
+    "external_url": "https://punkscape.xyz/scapes/315",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Falling Stars"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Old Tree"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2050308663
+        }
+    ]
+}

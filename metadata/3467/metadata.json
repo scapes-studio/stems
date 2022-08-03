@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #3467",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3467",
+    "image": "ipfs://Qmc6Le2Gn3Qq3wGHnx84a1v9kZNeUrwGbb72nmZPYFcwtJ",
+    "animation_url": "https://scapes.punkscape.xyz/#3467",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3467",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3467",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3467",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3467"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3467",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 4"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1926248705
+        }
+    ]
+}

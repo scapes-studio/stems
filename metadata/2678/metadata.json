@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #2678",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2678",
+    "image": "ipfs://Qmdq4g9beP5ibrNHk8jPpYsTaE9QhKeH2LeoXJjh6KGS1A",
+    "animation_url": "https://scapes.punkscape.xyz/#2678",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2678",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2678",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2678",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2678"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2678",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Beach"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1972224035
+        }
+    ]
+}

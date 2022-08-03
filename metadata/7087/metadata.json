@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #7087",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7087",
+    "image": "ipfs://QmW5GYzjPnhgAtbGxn7nsB5GF2boaAR8koScGnBhqt1sei",
+    "animation_url": "https://scapes.punkscape.xyz/#7087",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7087",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7087",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7087",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7087"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7087",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "City",
+            "value": "Old Town"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Cyber Truck"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2481443209
+        }
+    ]
+}

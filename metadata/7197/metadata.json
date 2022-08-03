@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #7197",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7197",
+    "image": "ipfs://QmWpV3Sbcmwcrz25Yx7K1qH9ENXJS8Ar35n7hsXbHxSJXi",
+    "animation_url": "https://scapes.punkscape.xyz/#7197",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7197",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7197",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7197",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7197"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7197",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Evening Clouds"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Animals",
+            "value": "Unicorn"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1727757860
+        }
+    ]
+}

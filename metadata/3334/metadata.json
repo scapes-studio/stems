@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #3334",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3334",
+    "image": "ipfs://QmaJzrr95z2S2qcxxjGVdTn8yvqx5D6s8HcRPJ4dn4xP7t",
+    "animation_url": "https://scapes.punkscape.xyz/#3334",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3334",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3334",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3334",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3334"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3334",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Desert"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Palm"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1786506635
+        }
+    ]
+}

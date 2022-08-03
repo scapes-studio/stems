@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #6614",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6614",
+    "image": "ipfs://QmVay6t57dLxdCdhJoVN9CQ8DWvLHTbCNiRR1eE6PwS84t",
+    "animation_url": "https://scapes.punkscape.xyz/#6614",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6614",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6614",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6614",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6614"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6614",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "City",
+            "value": "Old Town"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1660330034
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #1338",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1338",
+    "image": "ipfs://Qme8AUcXa3gMYptk4KNeCjTKvxEQKj2tHnL51vRtbhQjzn",
+    "animation_url": "https://scapes.punkscape.xyz/#1338",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1338",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1338",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1338",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1338"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1338",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mini House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1707657055
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #1149",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1149",
+    "image": "ipfs://QmUaKznHHJyZwMK1HSLhEaSdUphdFV3Gsh6nVzhNPint6a",
+    "animation_url": "https://scapes.punkscape.xyz/#1149",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1149",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1149",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1149",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1149"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1149",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Falling Stars"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2345258063
+        }
+    ]
+}

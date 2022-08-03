@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #6457",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6457",
+    "image": "ipfs://QmTHpahXotLeZEJk1K469M1KYE3ERhihdCciRjRy7sByJP",
+    "animation_url": "https://scapes.punkscape.xyz/#6457",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6457",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6457",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6457",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6457"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6457",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2160822038
+        }
+    ]
+}

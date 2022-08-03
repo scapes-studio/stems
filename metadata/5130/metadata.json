@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #5130",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5130",
+    "image": "ipfs://QmcZu5FE7bhdoZyvSWq71q8m86JcvZFXxuibYwNM2g2wFh",
+    "animation_url": "https://scapes.punkscape.xyz/#5130",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5130",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5130",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5130",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5130"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5130",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Soul Light"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1787400294
+        }
+    ]
+}

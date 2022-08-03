@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #5147",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5147",
+    "image": "ipfs://QmVNFyxnALsh2wTZcvMBE93YyVAhLF1M6f4EjSNmodWpnL",
+    "animation_url": "https://scapes.punkscape.xyz/#5147",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5147",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5147",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5147",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5147"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5147",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Golden Sea"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Island"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Animals",
+            "value": "Fox"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1978683031
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #464",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/464",
+    "image": "ipfs://QmPT4xUjgxb7DicWw2sRg7wTh1MFHV7D1Rcg3zxKH9u1qK",
+    "animation_url": "https://scapes.punkscape.xyz/#464",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#464",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#464",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#464",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#464"
+    },
+    "external_url": "https://punkscape.xyz/scapes/464",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mini House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2343610890
+        }
+    ]
+}

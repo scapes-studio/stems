@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #8729",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8729",
+    "image": "ipfs://QmcjmYHVxRxmxE8dXbyQMLZouW2RS9JwESTZWDfe6KHJ6E",
+    "animation_url": "https://scapes.punkscape.xyz/#8729",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8729",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8729",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8729",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8729"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8729",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Tiny House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2281521388
+        }
+    ]
+}

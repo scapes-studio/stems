@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #503",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/503",
+    "image": "ipfs://QmXr6uDVLa7WwztGipmWFyEGv34JKc1zAf87bmQWf9yoRc",
+    "animation_url": "https://scapes.punkscape.xyz/#503",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#503",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#503",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#503",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#503"
+    },
+    "external_url": "https://punkscape.xyz/scapes/503",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Temple"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1714243892
+        }
+    ]
+}

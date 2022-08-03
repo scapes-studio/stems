@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #4230",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4230",
+    "image": "ipfs://QmWUNNUfAPKPGuBaZ8iKDRHAk31Nvsno9De4cruvUohETj",
+    "animation_url": "https://scapes.punkscape.xyz/#4230",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4230",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4230",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4230",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4230"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4230",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1875887304
+        }
+    ]
+}

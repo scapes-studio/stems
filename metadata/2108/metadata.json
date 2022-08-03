@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #2108",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2108",
+    "image": "ipfs://QmcwYTS5fW9te3hHify449Y75WPvEwpcwLxjvnnv3Bcp9B",
+    "animation_url": "https://scapes.punkscape.xyz/#2108",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2108",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2108",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2108",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2108"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2108",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1803474402
+        }
+    ]
+}

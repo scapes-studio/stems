@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #941",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/941",
+    "image": "ipfs://QmdEuSEMWc525HeGQaXp48fyFpjiF7rvKndFfYEL1BnTNp",
+    "animation_url": "https://scapes.punkscape.xyz/#941",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#941",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#941",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#941",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#941"
+    },
+    "external_url": "https://punkscape.xyz/scapes/941",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Tiny House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2096387098
+        }
+    ]
+}

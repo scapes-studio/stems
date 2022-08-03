@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #3231",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3231",
+    "image": "ipfs://QmdTGKrTqEaYRmEiHsTeoBYbQdD83hnBG3yG5eAcf7GKmo",
+    "animation_url": "https://scapes.punkscape.xyz/#3231",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3231",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3231",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3231",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3231"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3231",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2010563141
+        }
+    ]
+}

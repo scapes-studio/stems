@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #9446",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9446",
+    "image": "ipfs://QmNTvPnhRYST3wu6CH6LFFQ5mmK6fA64ZrEGggkd2hVUgq",
+    "animation_url": "https://scapes.punkscape.xyz/#9446",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9446",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9446",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9446",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9446"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9446",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Windmill"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2489145292
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #1675",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1675",
+    "image": "ipfs://QmQYZaMeMTRGaviqj9CkQ8qbC9wq8YnomyksH9VqUdm4Cx",
+    "animation_url": "https://scapes.punkscape.xyz/#1675",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1675",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1675",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1675",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1675"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1675",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Tiny House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2244383869
+        }
+    ]
+}

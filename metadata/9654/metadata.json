@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #9654",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9654",
+    "image": "ipfs://QmYjrj917qDU5WFGQWhAnMyrP9Px9pM8H8DYXD2DD7K8pg",
+    "animation_url": "https://scapes.punkscape.xyz/#9654",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9654",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9654",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9654",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9654"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9654",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter and his Moon"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sportscar"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2328595016
+        }
+    ]
+}

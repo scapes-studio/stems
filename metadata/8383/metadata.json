@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #8383",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8383",
+    "image": "ipfs://QmXrwHUfQNjb9tsqtaZh1MBhggw6NLK5yEDpK2ECgzmuCg",
+    "animation_url": "https://scapes.punkscape.xyz/#8383",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8383",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8383",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8383",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8383"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8383",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dust"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 5"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1834758202
+        }
+    ]
+}

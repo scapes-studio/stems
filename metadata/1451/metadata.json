@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #1451",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1451",
+    "image": "ipfs://QmYBr9Kw6FfCbH7jXJe2miFoTBSsCjej8MJ4LDZG3pzDyC",
+    "animation_url": "https://scapes.punkscape.xyz/#1451",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1451",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1451",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1451",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1451"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1451",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Island"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Oasis"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2493828540
+        }
+    ]
+}

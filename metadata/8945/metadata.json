@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #8945",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8945",
+    "image": "ipfs://QmVSKDzQqqsddrX3EpUronx5S8s7jarwxrBJ7JoZZg9Tdq",
+    "animation_url": "https://scapes.punkscape.xyz/#8945",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8945",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8945",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8945",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8945"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8945",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Soul Meteors"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1837508587
+        }
+    ]
+}

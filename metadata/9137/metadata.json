@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #9137",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9137",
+    "image": "ipfs://QmT4LCZcz851V4n4DaiqiF3d2YNKtpPZx2AepVM7Vf3bxF",
+    "animation_url": "https://scapes.punkscape.xyz/#9137",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9137",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9137",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9137",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9137"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9137",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Old Tree"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2404894623
+        }
+    ]
+}

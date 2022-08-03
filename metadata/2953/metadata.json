@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #2953",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2953",
+    "image": "ipfs://QmQUUU9KDdhgnRULpAPo7dLh7GVTMH9sGq8aiuHKLyEpdg",
+    "animation_url": "https://scapes.punkscape.xyz/#2953",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2953",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2953",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2953",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2953"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2953",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Old House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2462212543
+        }
+    ]
+}

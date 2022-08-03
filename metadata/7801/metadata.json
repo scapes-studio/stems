@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #7801",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7801",
+    "image": "ipfs://QmaPn9vUR4QoPmHrf5SBUU36khaM5WVwHKCu1dxZRrK8he",
+    "animation_url": "https://scapes.punkscape.xyz/#7801",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7801",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7801",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7801",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7801"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7801",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Soul Planet"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Spacelab"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2136518106
+        }
+    ]
+}

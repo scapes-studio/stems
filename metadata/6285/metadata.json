@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #6285",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6285",
+    "image": "ipfs://QmZjXU5g8qnwDVummCPpgEdxGWBdYgYhDJnwvMYqwYPgnL",
+    "animation_url": "https://scapes.punkscape.xyz/#6285",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6285",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6285",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6285",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6285"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6285",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Europa"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sedan"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2101812684
+        }
+    ]
+}

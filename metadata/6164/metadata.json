@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #6164",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6164",
+    "image": "ipfs://QmSoWUwHFVJVQwVE6nNH1gFsMSgKDitadNZQRy1Ygh3Yuk",
+    "animation_url": "https://scapes.punkscape.xyz/#6164",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6164",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6164",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6164",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6164"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6164",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Lighthouse"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2252398675
+        }
+    ]
+}

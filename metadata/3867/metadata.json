@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #3867",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3867",
+    "image": "ipfs://QmRQkgAg9deaZdjSQaeNT1imU1uCFqnL9mmBwFhZFzac52",
+    "animation_url": "https://scapes.punkscape.xyz/#3867",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3867",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3867",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3867",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3867"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3867",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Delivery Van"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2452476421
+        }
+    ]
+}

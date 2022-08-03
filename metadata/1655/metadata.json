@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #1655",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1655",
+    "image": "ipfs://QmP4X4qYNCiV7aemveSxLzVqqaBy3Q1jqKrcXnjZ76x8NB",
+    "animation_url": "https://scapes.punkscape.xyz/#1655",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1655",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1655",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1655",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1655"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1655",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Burj"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2106539560
+        }
+    ]
+}

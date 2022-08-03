@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #9326",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9326",
+    "image": "ipfs://Qme1rxkrp2Q1f8KVH8pQfNnMQ6hwc3tWm48vBXp2wYp4dA",
+    "animation_url": "https://scapes.punkscape.xyz/#9326",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9326",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9326",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9326",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9326"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9326",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1664854731
+        }
+    ]
+}

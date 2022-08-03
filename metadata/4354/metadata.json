@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #4354",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4354",
+    "image": "ipfs://QmerN57PN8hSkhgonZ2JEWWq78WUdBPsLazYD2nrSyuUxv",
+    "animation_url": "https://scapes.punkscape.xyz/#4354",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4354",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4354",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4354",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4354"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4354",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 4"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1974976185
+        }
+    ]
+}

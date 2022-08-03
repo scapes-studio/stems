@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #3828",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3828",
+    "image": "ipfs://QmXRMny83aJ1WdzCGGZZy17ossAqVp4nr9WfNVbLyucf36",
+    "animation_url": "https://scapes.punkscape.xyz/#3828",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3828",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3828",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3828",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3828"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3828",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Windmill"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1965032869
+        }
+    ]
+}

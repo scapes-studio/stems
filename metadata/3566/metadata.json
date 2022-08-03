@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #3566",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3566",
+    "image": "ipfs://QmRhzRs3qtNuTor9Nq8V1BHcvL9gUFWeV6dvET3NLgZhC4",
+    "animation_url": "https://scapes.punkscape.xyz/#3566",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3566",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3566",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3566",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3566"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3566",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Evening Clouds"
+        },
+        {
+            "trait_type": "City",
+            "value": "Sleeping Skyscrapers"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1874577381
+        }
+    ]
+}

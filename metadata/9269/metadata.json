@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #9269",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9269",
+    "image": "ipfs://QmeD8MgH6TTJU2WPP6mxjrvJuA5Ug9STqJn4A6ZeRT3TcF",
+    "animation_url": "https://scapes.punkscape.xyz/#9269",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9269",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9269",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9269",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9269"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9269",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1670265070
+        }
+    ]
+}

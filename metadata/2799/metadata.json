@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #2799",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2799",
+    "image": "ipfs://QmWsvnJGNgTQXeopJB7dpsB2a5ccc5DKP4RYLvK3bpEzrR",
+    "animation_url": "https://scapes.punkscape.xyz/#2799",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2799",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2799",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2799",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2799"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2799",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Falling Stars"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Old Tree"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2126267491
+        }
+    ]
+}

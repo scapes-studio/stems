@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #4490",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4490",
+    "image": "ipfs://QmZv2U66ws1iX6gzbdtepUeCV9BVE2Z2LzfAeUB4iAqAV8",
+    "animation_url": "https://scapes.punkscape.xyz/#4490",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4490",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4490",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4490",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4490"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4490",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Animals",
+            "value": "Fox"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2343269782
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #6939",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6939",
+    "image": "ipfs://QmU7krVXDEHxLKtYFvp14eE383GvCgiVYDZzS38KJWiX7Z",
+    "animation_url": "https://scapes.punkscape.xyz/#6939",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6939",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6939",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6939",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6939"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6939",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Small Forest"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sportscar"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1650738148
+        }
+    ]
+}

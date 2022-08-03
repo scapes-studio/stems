@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #4263",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4263",
+    "image": "ipfs://QmTtxpdEaS8rwGJJG7XKivBwdEfGFD8z24x43zmHTkXX5f",
+    "animation_url": "https://scapes.punkscape.xyz/#4263",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4263",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4263",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4263",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4263"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4263",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Palm"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2338482396
+        }
+    ]
+}

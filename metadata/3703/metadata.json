@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #3703",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3703",
+    "image": "ipfs://QmT4XaW7q1LP6F4efdvoFCz4Wuk5V9gmeESg8qpSrJzFUW",
+    "animation_url": "https://scapes.punkscape.xyz/#3703",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3703",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3703",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3703",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3703"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3703",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Evening Clouds"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Golden Sea"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Island"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Old Tree"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2116676729
+        }
+    ]
+}

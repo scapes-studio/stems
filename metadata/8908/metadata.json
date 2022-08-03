@@ -1,0 +1,56 @@
+{
+    "name": "PunkScape #8908",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8908",
+    "image": "ipfs://QmeUSEis8y5WyfomdxmCpcfKxWzR9fEdjCnf8GiLy7Gn6N",
+    "animation_url": "https://scapes.punkscape.xyz/#8908",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8908",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8908",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8908",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8908"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8908",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Golden Sea"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Hut"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2334478691
+        }
+    ]
+}

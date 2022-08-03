@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #2469",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2469",
+    "image": "ipfs://QmNa5ZsrEKVjPXr37fZ6Lga5Y7LD3bUd88KK5gmWtZYJeb",
+    "animation_url": "https://scapes.punkscape.xyz/#2469",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2469",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2469",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2469",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2469"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2469",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Tree of Life"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Big Ben"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2235636038
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #7142",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7142",
+    "image": "ipfs://QmZ1kssj3FbffYG31er4jw9tvD5knGQtaEW8BUTE8ebCkH",
+    "animation_url": "https://scapes.punkscape.xyz/#7142",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7142",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7142",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7142",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7142"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7142",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 2"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2099761700
+        }
+    ]
+}

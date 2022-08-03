@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #6393",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6393",
+    "image": "ipfs://Qme3UdM8QwFGPxTKwx1e9k8XfFyjP7NY4GD4qGB83jAeVR",
+    "animation_url": "https://scapes.punkscape.xyz/#6393",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6393",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6393",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6393",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6393"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6393",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2450424312
+        }
+    ]
+}

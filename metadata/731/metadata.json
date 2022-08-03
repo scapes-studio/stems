@@ -1,0 +1,52 @@
+{
+    "name": "PunkScape #731",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/731",
+    "image": "ipfs://QmZueTEHKc2PBWZAYBXXLKnMgD6948GB7xxhJqgdUxyAuh",
+    "animation_url": "https://scapes.punkscape.xyz/#731",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#731",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#731",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#731",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#731"
+    },
+    "external_url": "https://punkscape.xyz/scapes/731",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Lake"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Beach"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Windmill"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Bitcoin"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2230100228
+        }
+    ]
+}

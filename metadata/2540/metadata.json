@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #2540",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2540",
+    "image": "ipfs://QmbNSa9xacwmPqKna4ePHnLzPMPtYuifz2b6zSXiLUh8QL",
+    "animation_url": "https://scapes.punkscape.xyz/#2540",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2540",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2540",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2540",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2540"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2540",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Soul Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Pyramid"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2260004801
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #3119",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3119",
+    "image": "ipfs://QmSFRznBNnZysfSyWYECUNwT8BAM3EvT3n8mDm5UpoYuHF",
+    "animation_url": "https://scapes.punkscape.xyz/#3119",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3119",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3119",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3119",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3119"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3119",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Falling Stars"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Evening Clouds"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2066307461
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #8950",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8950",
+    "image": "ipfs://QmSfGEUWZWqRP7RsFeT3gH8NvLxnrD2AGGSan5UMxPSe4m",
+    "animation_url": "https://scapes.punkscape.xyz/#8950",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8950",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8950",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8950",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8950"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8950",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Shuttle"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2269402577
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #7397",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7397",
+    "image": "ipfs://QmZNtvqeiv1P2FGhSki3MZi3bzooX2vWKHeidvGnr8Maoo",
+    "animation_url": "https://scapes.punkscape.xyz/#7397",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7397",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7397",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7397",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7397"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7397",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "trait_type": "Animals",
+            "value": "Fox"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1917880540
+        }
+    ]
+}

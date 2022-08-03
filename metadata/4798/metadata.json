@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #4798",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4798",
+    "image": "ipfs://QmXcPHitvVF75mqhPLK2v89uwLnz5j2rwoBuNYsqPfoD1D",
+    "animation_url": "https://scapes.punkscape.xyz/#4798",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4798",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4798",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4798",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4798"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4798",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Ethereum"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1733321969
+        }
+    ]
+}

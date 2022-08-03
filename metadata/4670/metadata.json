@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #4670",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4670",
+    "image": "ipfs://QmbEev6gw9YEzncMiUYZweHqYcX1XixaVCbzLGVDqevSvq",
+    "animation_url": "https://scapes.punkscape.xyz/#4670",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4670",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4670",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4670",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4670"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4670",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Lake"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Island"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mini House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1775274345
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "name": "PunkScape #96",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/96",
+    "image": "ipfs://QmSRNUZoriBU4bZotJaRDHUXvUU7PoaAFC6C8jvJaoHEPS",
+    "animation_url": "https://scapes.punkscape.xyz/#96",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#96",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#96",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#96",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#96"
+    },
+    "external_url": "https://punkscape.xyz/scapes/96",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2166628846
+        }
+    ]
+}

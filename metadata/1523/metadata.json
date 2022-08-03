@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #1523",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1523",
+    "image": "ipfs://QmVJpjHfPPJtec55a2ERMycenRHEQm96RTp2cG14HNP8Qi",
+    "animation_url": "https://scapes.punkscape.xyz/#1523",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1523",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1523",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1523",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1523"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1523",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Blue Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1702822752
+        }
+    ]
+}

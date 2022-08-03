@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #9926",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9926",
+    "image": "ipfs://QmYVBhk6T5Tch9C5xKkLrZWBZyxD9uKHrTkpEkopD1a1nX",
+    "animation_url": "https://scapes.punkscape.xyz/#9926",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9926",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9926",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9926",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9926"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9926",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2123152906
+        }
+    ]
+}

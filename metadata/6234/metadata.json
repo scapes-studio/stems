@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #6234",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6234",
+    "image": "ipfs://QmRR9VAHy75yduiEfqV2ifrn9FJdH6nF6FmZgoQcHnu1Hp",
+    "animation_url": "https://scapes.punkscape.xyz/#6234",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6234",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6234",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6234",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6234"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6234",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Golden Sea"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Beach"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Mansion Lvl 5"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2046234190
+        }
+    ]
+}

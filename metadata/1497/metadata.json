@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #1497",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1497",
+    "image": "ipfs://QmUHVQyR3gEpy9R9UMzeTbAbiDkDSXRFgK1qC38FbmtXKM",
+    "animation_url": "https://scapes.punkscape.xyz/#1497",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1497",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1497",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1497",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1497"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1497",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "City",
+            "value": "Old Town"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Old House"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1830270980
+        }
+    ]
+}

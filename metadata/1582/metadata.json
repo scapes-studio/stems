@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #1582",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1582",
+    "image": "ipfs://Qmb8z77L4owWdkhRtPQpd5T3KX6WidU9HNzVy8HpezXxfF",
+    "animation_url": "https://scapes.punkscape.xyz/#1582",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1582",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1582",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1582",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1582"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1582",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Hut"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1843622146
+        }
+    ]
+}

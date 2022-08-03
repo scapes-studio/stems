@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #3789",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3789",
+    "image": "ipfs://QmT9TM5732gkEfkB6WNosdpQBGhnj7eFqEmJFAtj5Uhytx",
+    "animation_url": "https://scapes.punkscape.xyz/#3789",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3789",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3789",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3789",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3789"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3789",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Police Car"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2223346243
+        }
+    ]
+}

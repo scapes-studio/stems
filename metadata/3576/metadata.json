@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #3576",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3576",
+    "image": "ipfs://QmYNCmQ9z83JSfLm4CvMSDEsJQqnwVk8hAHES35KbBTjwX",
+    "animation_url": "https://scapes.punkscape.xyz/#3576",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3576",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3576",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3576",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3576"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3576",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Ocean"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Island"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Gravel"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Tiny House"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Statue of Liberty"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2117937401
+        }
+    ]
+}

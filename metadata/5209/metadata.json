@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #5209",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5209",
+    "image": "ipfs://QmXamBv8Xao7vRUzzUW3wLwQ7ST3yXVc3W6Pwrh22UYkJb",
+    "animation_url": "https://scapes.punkscape.xyz/#5209",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5209",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5209",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5209",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5209"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5209",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Jungle"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Pillars"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2350032835
+        }
+    ]
+}

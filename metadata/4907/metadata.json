@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #4907",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4907",
+    "image": "ipfs://QmRA6Jr2dSuYV4CdgHSy9qN7Co3efBLL8ZEbc3Kb4S6cre",
+    "animation_url": "https://scapes.punkscape.xyz/#4907",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4907",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4907",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4907",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4907"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4907",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Statue of Liberty"
+        },
+        {
+            "trait_type": "Animals",
+            "value": "Unicorn"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2373420434
+        }
+    ]
+}

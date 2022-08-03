@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #1847",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1847",
+    "image": "ipfs://Qme3KmoEBNV5pvQofP41yvyf5cefxf3PECKcKrKRzEFWDm",
+    "animation_url": "https://scapes.punkscape.xyz/#1847",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1847",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1847",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1847",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1847"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1847",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Simmering Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Lighthouse"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1764669171
+        }
+    ]
+}

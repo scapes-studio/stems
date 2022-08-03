@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #1996",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1996",
+    "image": "ipfs://QmX3eM6XLjRTk53LtGKFk2rY7P8s1sMtSzALoA73iUcKzT",
+    "animation_url": "https://scapes.punkscape.xyz/#1996",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1996",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1996",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1996",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1996"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1996",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Moon"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1894941530
+        }
+    ]
+}

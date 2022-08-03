@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #5473",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5473",
+    "image": "ipfs://QmXiavLXvXhhhzHQ5QiFLd1YPCwGSB9TTF77R5nzmWcgLN",
+    "animation_url": "https://scapes.punkscape.xyz/#5473",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5473",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5473",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5473",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5473"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5473",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Red Oak"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1733595348
+        }
+    ]
+}

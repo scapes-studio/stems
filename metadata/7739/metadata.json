@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #7739",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7739",
+    "image": "ipfs://QmQFt6HRf8spnHuqh8St6W5avJWfGD5HtWxXKvQqmMWJ9J",
+    "animation_url": "https://scapes.punkscape.xyz/#7739",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7739",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7739",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7739",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7739"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7739",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dawn"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Sand"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2078626291
+        }
+    ]
+}

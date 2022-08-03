@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #1987",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/1987",
+    "image": "ipfs://QmSZFdwLSBJZ4aGALfjb6wGAV78juCR3rwfTuihK38HCR8",
+    "animation_url": "https://scapes.punkscape.xyz/#1987",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#1987",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#1987",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#1987",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#1987"
+    },
+    "external_url": "https://punkscape.xyz/scapes/1987",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "City",
+            "value": "Daytime Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Burned Tree"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1645729808
+        }
+    ]
+}

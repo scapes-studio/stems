@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #2036",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2036",
+    "image": "ipfs://QmaowtiVym9pxVRkoz8Angrf5v8WvyUgcQURkmt5UctvnJ",
+    "animation_url": "https://scapes.punkscape.xyz/#2036",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2036",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2036",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2036",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2036"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2036",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Meteors"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Hills"
+        },
+        {
+            "trait_type": "Fluid",
+            "value": "Lake"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2402066407
+        }
+    ]
+}

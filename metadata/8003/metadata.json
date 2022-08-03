@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #8003",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/8003",
+    "image": "ipfs://Qmb23tS3qUaWepCQSYxh3z4wGFLHBnF5PxXEU7DH8EHijY",
+    "animation_url": "https://scapes.punkscape.xyz/#8003",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#8003",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#8003",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#8003",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#8003"
+    },
+    "external_url": "https://punkscape.xyz/scapes/8003",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dark Night"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Sunset"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Hill"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Chinese Gate"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2055733445
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "PunkScape #9913",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/9913",
+    "image": "ipfs://Qme5p8NXUtm18u4UXALKVu3nPgYw3WycWqxDDYBKamY6ms",
+    "animation_url": "https://scapes.punkscape.xyz/#9913",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#9913",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#9913",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#9913",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#9913"
+    },
+    "external_url": "https://punkscape.xyz/scapes/9913",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter and his Moon"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Spacelab"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2008430913
+        }
+    ]
+}

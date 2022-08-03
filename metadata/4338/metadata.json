@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #4338",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/4338",
+    "image": "ipfs://Qmc2FjDvMfB2tb3dd4PVVqH7PWWF8DGUstZXfEZWDF61Dm",
+    "animation_url": "https://scapes.punkscape.xyz/#4338",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#4338",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#4338",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#4338",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#4338"
+    },
+    "external_url": "https://punkscape.xyz/scapes/4338",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Dusk"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Orange Trails"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Animals",
+            "value": "Unicorn"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2100187402
+        }
+    ]
+}

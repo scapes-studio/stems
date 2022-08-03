@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #6897",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6897",
+    "image": "ipfs://QmTj6oyyK6ddgpeDXC3J9j3m8UmDt81XKXCzoJcR4AK6tJ",
+    "animation_url": "https://scapes.punkscape.xyz/#6897",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6897",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6897",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6897",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6897"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6897",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Jupiter"
+        },
+        {
+            "trait_type": "City",
+            "value": "Old Town"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Lowland"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Shrubs"
+        },
+        {
+            "trait_type": "Trees",
+            "value": "Broadleaf"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1684751445
+        }
+    ]
+}

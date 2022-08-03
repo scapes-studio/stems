@@ -1,0 +1,36 @@
+{
+    "name": "PunkScape #2064",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/2064",
+    "image": "ipfs://QmQxShiAH4F9kJvZS5jZNmt3wCLV9BFkTyrQ74f4rsyexg",
+    "animation_url": "https://scapes.punkscape.xyz/#2064",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#2064",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#2064",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#2064",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#2064"
+    },
+    "external_url": "https://punkscape.xyz/scapes/2064",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Prism Sun"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "trait_type": "Rocketry",
+            "value": "Spacelab"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2119537779
+        }
+    ]
+}

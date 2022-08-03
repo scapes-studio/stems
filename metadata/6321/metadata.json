@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #6321",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/6321",
+    "image": "ipfs://QmeW8zn1FsctaKy9V6oxVHBfaTNRbqjCFbhHkzwfxgAPky",
+    "animation_url": "https://scapes.punkscape.xyz/#6321",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#6321",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#6321",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#6321",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#6321"
+    },
+    "external_url": "https://punkscape.xyz/scapes/6321",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Big Shades"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Earth"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Colosseum"
+        },
+        {
+            "trait_type": "Portals",
+            "value": "Round Portal"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1826110171
+        }
+    ]
+}

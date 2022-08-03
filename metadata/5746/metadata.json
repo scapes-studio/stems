@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #5746",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/5746",
+    "image": "ipfs://QmbuhfrT9amApf2xitB9QMKCc5Kq9NR1D9Ted2EvNAyJQH",
+    "animation_url": "https://scapes.punkscape.xyz/#5746",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#5746",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#5746",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#5746",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#5746"
+    },
+    "external_url": "https://punkscape.xyz/scapes/5746",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Morning"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Red Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Soul Planet"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Mountain"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Hut"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 1962524642
+        }
+    ]
+}

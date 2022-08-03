@@ -1,0 +1,44 @@
+{
+    "name": "PunkScape #3998",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/3998",
+    "image": "ipfs://QmbDj7XPSNHG5NZE3FZw4XRcGC5WnwZ6kj8E3apBceQprV",
+    "animation_url": "https://scapes.punkscape.xyz/#3998",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#3998",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#3998",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#3998",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#3998"
+    },
+    "external_url": "https://punkscape.xyz/scapes/3998",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "Celestial",
+            "value": "Happy Clouds"
+        },
+        {
+            "trait_type": "Planet",
+            "value": "Mars"
+        },
+        {
+            "trait_type": "Topology",
+            "value": "Crater"
+        },
+        {
+            "trait_type": "Cars",
+            "value": "Sherp"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2302427540
+        }
+    ]
+}

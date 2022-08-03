@@ -1,0 +1,48 @@
+{
+    "name": "PunkScape #7011",
+    "description": "A pixel place in virtual space.\n\npunkscape.xyz/scapes/7011",
+    "image": "ipfs://QmRGgH2UfG1zsrSz5MUeqjZFTGoiE7EF3NGbT3o8J1M5LL",
+    "animation_url": "https://scapes.punkscape.xyz/#7011",
+    "animation_url_ipns": "ipns://scapes.punkscape.xyz/#7011",
+    "animation_url_ipns_gateways": {
+        "ipfs.io": "https://ipfs.io/ipns/scapes.punkscape.xyz/#7011",
+        "gateway.pinata.cloud": "https://gateway.pinata.cloud/ipns/scapes.punkscape.xyz/#7011",
+        "cloudflare-ipfs.com": "https://cloudflare-ipfs.com/ipns/scapes.punkscape.xyz/#7011"
+    },
+    "external_url": "https://punkscape.xyz/scapes/7011",
+    "attributes": [
+        {
+            "trait_type": "Atmosphere",
+            "value": "Red Light"
+        },
+        {
+            "trait_type": "Sky",
+            "value": "Dark Stripes"
+        },
+        {
+            "trait_type": "City",
+            "value": "Lighted Skyscrapers"
+        },
+        {
+            "trait_type": "Landscape",
+            "value": "Valley"
+        },
+        {
+            "trait_type": "Surface",
+            "value": "Meadow"
+        },
+        {
+            "trait_type": "Building",
+            "value": "Old House"
+        },
+        {
+            "trait_type": "Monuments",
+            "value": "Skull"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "date",
+            "value": 2444838707
+        }
+    ]
+}
